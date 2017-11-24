@@ -533,7 +533,7 @@
 
     move-result v2
 
-    if-eqz v2, :cond_10
+    if-nez v2, :cond_10
 
     .line 65
     const/16 v2, 0x8

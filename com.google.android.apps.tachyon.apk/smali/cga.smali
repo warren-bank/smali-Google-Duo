@@ -243,7 +243,7 @@
 
     move-result v5
 
-    if-eqz v5, :cond_4
+    if-nez v5, :cond_4
 
     .line 44
     const/4 v4, 0x1

@@ -1200,7 +1200,7 @@
 
     move-result v10
 
-    if-nez v10, :cond_1
+    if-eqz v10, :cond_1
 
     .line 46
     invoke-static {}, Lcmc;->X()Lbxd;
