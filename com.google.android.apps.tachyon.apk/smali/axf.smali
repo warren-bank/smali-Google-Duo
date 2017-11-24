@@ -397,7 +397,7 @@
     iput v0, p0, Laxf;->aA:F
 
     .line 13
-    sget-object v0, Laxv;->a:Laxv;
+    sget-object v0, Laxv;->f:Laxv;
 
     iput-object v0, p0, Laxf;->ay:Laxv;
 
@@ -716,7 +716,7 @@
     invoke-virtual {v2, v0}, Landroid/view/View;->setLayoutParams(Landroid/view/ViewGroup$LayoutParams;)V
 
     .line 54
-    sget-object v0, Laxv;->b:Laxv;
+    sget-object v0, Laxv;->f:Laxv;
 
     invoke-virtual {p0, v0}, Laxf;->a(Laxv;)V
 
@@ -748,6 +748,9 @@
     iput v0, p0, Laxf;->aF:F
 
     .line 60
+    const/4 v0, 0x1
+    invoke-virtual {p0, v0}, Laxf;->f(Z)V
+
     return-object v1
 .end method
 

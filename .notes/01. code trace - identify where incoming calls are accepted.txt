@@ -1,0 +1,63 @@
+--------------------------------------------------------------------------------
+
+com.google.android.apps.tachyon.apk\smali\axg.smali
+
+notes:
+======
+ *	this code is executed in its own Runnable thread
+ *	it contains an interesting call..
+
+code:
+=====
+	// (uber helpful) log statement:
+	const-string v0, "TachyonIncomingCall"
+	const-string v1, "Auto accept call."
+	invoke-static {v0, v1}, Lcfl;->a(Ljava/lang/String;Ljava/lang/String;)V
+
+	// get a reference to an instance of class: "axf"
+	iget-object v0, p0, Laxg;->a:Laxf;
+
+	// get a reference to an instance of class: "axw"
+	// note: obtains this reference via a static class attribute (axw.b)
+	sget-object v1, Laxw;->b:Laxw;
+
+	// round-about way to get a boolean that determines whether or not to "auto accept" the call
+	iget-boolean v2, v2, Laxf;->ab:Z
+
+	// payload..
+    invoke-virtual {v0, v1, v2}, Laxf;->a(Laxw;Z)V
+
+--------------------------------------------------------------------------------
+
+com.google.android.apps.tachyon.apk\smali\axf.smali
+
+notes:
+======
+ *	class "axh" has a method that contains nearly the same logic
+
+code:
+=====
+.method public final f(Z)V
+	// bunch of unrelated stuff..
+
+	// get a reference to an instance of class: "axw"
+	// note: obtains this reference via a static class attribute (axw.a)
+	// note: (axw.a) !== (axw.b)
+	sget-object v0, Laxw;->a:Laxw;
+
+	// the boolean that determines whether or not to "auto accept" the call was passed into the function as a parameter
+	invoke-virtual {p0, v0, p1}, Laxf;->a(Laxw;Z)V
+
+--------------------------------------------------------------------------------
+
+patch:
+======
+ *	in file:
+		com.google.android.apps.tachyon.apk\smali\axf.smali
+ *	in method:
+		.method public final a(Landroid/view/LayoutInflater;Landroid/view/ViewGroup;Landroid/os/Bundle;)Landroid/view/View;
+ *	append the following code (just before the final line with the return value):
+		const/4 v0, 0x1
+		invoke-virtual {p0, v0}, Laxf;->f(Z)V
+
+--------------------------------------------------------------------------------
