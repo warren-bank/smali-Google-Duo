@@ -471,7 +471,7 @@
 
     move-result v6
 
-    if-eqz v6, :cond_b
+    if-nez v6, :cond_b
 
     .line 64
     const-string v0, "TachyonContactsCard"
