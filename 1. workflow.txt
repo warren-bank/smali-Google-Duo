@@ -1,0 +1,68 @@
+after install, initialize "APK-Multi-Tool":
+===========================================
+
+* run:
+      APK-Multi-Tool/Setup.bat
+
+* choose option:
+      "3. Setup Directories"
+
+run "APK-Multi-Tool":
+=====================
+
+* copy original .apk to the directory:
+      APK-Multi-Tool/place-apk-here-for-modding/
+  ex:
+      APK-Multi-Tool/place-apk-here-for-modding/com.google.android.apps.tachyon.apk
+
+* run:
+      APK-Multi-Tool/Script.bat
+
+* choose option:
+      "27. Set Current Project"
+* choose the number that corresponds to the list item of the .apk to mod
+  ex:
+      "1 - com.google.android.apps.tachyon.apk"
+  enter:
+      "1"
+* choose option:
+      "9. Decompile apk"
+  which:
+    - creates the directory:
+          APK-Multi-Tool/projects/com.google.android.apps.tachyon.apk/
+    - disassembles the .apk file into this directory
+
+* TODO: edit the contents of this project directory
+
+* choose option:
+      "12. Compile Non-System APK Files"
+* choose option:
+      "1. Create an unsigned apk using the keep folder option"
+  which:
+    - creates the directory:
+          APK-Multi-Tool/keep/
+    - outputs the following instructions:
+        * In the APK Multi-Tools folder, you'll find a "keep" folder.
+          Within it, delete everything you have modified and leave files you haven't.
+          If you have modified any xml, then delete "resources.arsc" from that folder as well.
+          Once done, then press "enter" on this script.
+
+* TODO: selectively delete contents from this "keep" directory:
+    - corresponding to each file that was previously edited in the project directory
+    - If you made changes in any smali file,
+      then delete the "classes.dex" file.
+    - If you made changes in any xml file,
+      then delete the "resources.arsc" file (in addition to the corresponding xml file).
+
+* press "enter"
+  which:
+    - creates the file:
+          APK-Multi-Tool/place-apk-here-for-signing/unsigned_com.google.android.apps.tachyon.apk
+
+* choose option:
+      "13. Sign apk"
+  which:
+    - creates the file:
+          APK-Multi-Tool/place-apk-here-for-signing/signed_com.google.android.apps.tachyon.apk
+* choose option:
+      "00. Quit"

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="hour_quantity">
+        <item quantity="other">%d ሰዓቶች</item>
+        <item quantity="one">%d ሰዓቶች</item>
+    </plurals>
+    <plurals name="minute_quantity">
+        <item quantity="other">%d ደቂቃዎች</item>
+        <item quantity="one">%d ደቂቃዎች</item>
+    </plurals>
+    <plurals name="second_quantity">
+        <item quantity="other">%d ሰከንዶች</item>
+        <item quantity="one">%d ሰከንዶች</item>
+    </plurals>
+</resources>

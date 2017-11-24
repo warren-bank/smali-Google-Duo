@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="mipmap" name="adaptiveproduct_duo">@mipmap/product_logo_duo_launcher_color_48</item>
+    <item type="mipmap" name="adaptiveproduct_duo_dogfood">@mipmap/product_logo_duo_dogfood_color_48</item>
+    <item type="mipmap" name="adaptiveproduct_duo_fishfood">@mipmap/product_logo_duo_fishfood_color_48</item>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="hour_quantity">
+        <item quantity="other">[ᐅ%dᐊ ĥöûŕš one two three]</item>
+        <item quantity="one">[ᐅ%dᐊ ĥöûŕ one two]</item>
+    </plurals>
+    <plurals name="minute_quantity">
+        <item quantity="other">[ᐅ%dᐊ mîñûţéš one two three]</item>
+        <item quantity="one">[ᐅ%dᐊ mîñûţé one two three]</item>
+    </plurals>
+    <plurals name="second_quantity">
+        <item quantity="other">[ᐅ%dᐊ šéçöñðš one two three]</item>
+        <item quantity="one">[ᐅ%dᐊ šéçöñð one two three]</item>
+    </plurals>
+</resources>

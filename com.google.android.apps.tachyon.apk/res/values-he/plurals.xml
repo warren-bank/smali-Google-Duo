@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="hour_quantity">
+        <item quantity="other">%d שעות</item>
+        <item quantity="one">%d שעה</item>
+        <item quantity="two">%d שעות</item>
+        <item quantity="many">%d שעות</item>
+    </plurals>
+    <plurals name="minute_quantity">
+        <item quantity="other">%d דקות</item>
+        <item quantity="one">%d דקה</item>
+        <item quantity="two">%d דקות</item>
+        <item quantity="many">%d דקות</item>
+    </plurals>
+    <plurals name="second_quantity">
+        <item quantity="other">%d שניות</item>
+        <item quantity="one">%d שנייה</item>
+        <item quantity="two">%d שניות</item>
+        <item quantity="many">%d שניות</item>
+    </plurals>
+</resources>

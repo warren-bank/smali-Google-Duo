@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="hour_quantity">
+        <item quantity="other">%d საათი</item>
+        <item quantity="one">%d საათი</item>
+    </plurals>
+    <plurals name="minute_quantity">
+        <item quantity="other">%d წუთი</item>
+        <item quantity="one">%d წუთი</item>
+    </plurals>
+    <plurals name="second_quantity">
+        <item quantity="other">%d წამი</item>
+        <item quantity="one">%d წამი</item>
+    </plurals>
+</resources>

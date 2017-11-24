@@ -1,0 +1,5749 @@
+Manifest-Version: 1.0
+Created-By: singlejar
+
+Name: AndroidManifest.xml
+SHA1-Digest: jnKt/Afc8DWJEWsYzMagV3gldKM=
+
+Name: META-INF/services/com.fasterxml.jackson.core.JsonFactory
+SHA1-Digest: wj+dD6oGz5YGyIP+iorCZD19Vfo=
+
+Name: META-INF/services/com.google.protobuf.GeneratedExtensionRegistry
+ Loader
+SHA1-Digest: 1DO6xE3BNv/OgaCjh2YJ+gxzkoQ=
+
+Name: android-support-multidex.version.txt
+SHA1-Digest: u+T0+6Mv/pyV/0jsOJFGR5L6Gk4=
+
+Name: build-data.properties
+SHA1-Digest: EkrxdJf+uDBH03zWMdFMLe34lKQ=
+
+Name: classes.dex
+SHA1-Digest: OerYhAeXRD3XvP9pni/WSDmdLvs=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberAltern
+ ateFormatsProto_255
+SHA1-Digest: HMwWKCKssnQ9FPSUyPF7CZsaN8A=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberAltern
+ ateFormatsProto_27
+SHA1-Digest: uD5bHXrh87lSy3NxkzZLyePnK9M=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberAltern
+ ateFormatsProto_30
+SHA1-Digest: M0A3lS6yzxmECwh9MU8rHOoRnh4=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberAltern
+ ateFormatsProto_31
+SHA1-Digest: 5PttKprWQc6yHYp5oW7z6IXM4tQ=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberAltern
+ ateFormatsProto_34
+SHA1-Digest: 1tirPTBV+L5um9BebiQikDYz9iA=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberAltern
+ ateFormatsProto_350
+SHA1-Digest: 82dzZ1SP97f+SfhUbhV2MlmmW1w=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberAltern
+ ateFormatsProto_351
+SHA1-Digest: 0hV0HJpCDt0MurztGHgzwf/Nmas=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberAltern
+ ateFormatsProto_352
+SHA1-Digest: WvI1pE7+KhJBGFJjFEd8K32Rxq8=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberAltern
+ ateFormatsProto_358
+SHA1-Digest: XGyeJxKiE4Ewm+WLlr4cUluSaBQ=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberAltern
+ ateFormatsProto_359
+SHA1-Digest: XNaVwsHNNg2NyeQOpHbmj2lZj90=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberAltern
+ ateFormatsProto_36
+SHA1-Digest: ED53vDL9zV5XkJIuB0HD6ZXYmqY=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberAltern
+ ateFormatsProto_372
+SHA1-Digest: HsC8GjdvRAY9WCHSIWsHWGYh7uA=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberAltern
+ ateFormatsProto_373
+SHA1-Digest: y9MwAgUeoceC7zmJk5db5H2KgUo=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberAltern
+ ateFormatsProto_375
+SHA1-Digest: 4gnH58JyJO9ZBj8MNMws2LGhIEM=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberAltern
+ ateFormatsProto_380
+SHA1-Digest: je4WjCzXekzUXzSJVhMmATq+Evk=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberAltern
+ ateFormatsProto_381
+SHA1-Digest: GRIKhmRvjQbmNC7RRd1S9al22JI=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberAltern
+ ateFormatsProto_385
+SHA1-Digest: oFkTrrTy4fyqmZZU93WZ2FnPSsY=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberAltern
+ ateFormatsProto_39
+SHA1-Digest: 519DE1odCGOAsFp/C0MLPD4T8tg=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberAltern
+ ateFormatsProto_43
+SHA1-Digest: 0Pukxe6T+XZAZTY1MriKd/Sd06g=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberAltern
+ ateFormatsProto_44
+SHA1-Digest: In9iEcIbINKFgdEJ01lG8Aka+Dg=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberAltern
+ ateFormatsProto_49
+SHA1-Digest: 1Xvkf392OjNu8dCKSk4T0HpJ6eg=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberAltern
+ ateFormatsProto_505
+SHA1-Digest: cesw2oZ6EwBiBmj4oKJzRsutORE=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberAltern
+ ateFormatsProto_506
+SHA1-Digest: nval9SmS+7vjRh6QWHFloeCtxyk=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberAltern
+ ateFormatsProto_52
+SHA1-Digest: HJGjRyQMjhs3OFXdAs85qj03UA8=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberAltern
+ ateFormatsProto_54
+SHA1-Digest: hmlnY9FYsKbmSg4S9YIM1Vsc420=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberAltern
+ ateFormatsProto_55
+SHA1-Digest: LBDHDFp6xHZEKujZjof9dMFwbx8=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberAltern
+ ateFormatsProto_58
+SHA1-Digest: dQRpJeheXKHUrHQDBwq7kxwFNFw=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberAltern
+ ateFormatsProto_595
+SHA1-Digest: Z2F9ujwq7bNAk6iSsSpCmbBPBO4=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberAltern
+ ateFormatsProto_61
+SHA1-Digest: iwO/jMRgPlsxzxjf3scXwssr+zQ=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberAltern
+ ateFormatsProto_62
+SHA1-Digest: rNXTGexyspvQJ1ADeQsCPX8+RAQ=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberAltern
+ ateFormatsProto_63
+SHA1-Digest: GTXJ6a2A0rUkLCm5xp28YH5sbGI=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberAltern
+ ateFormatsProto_64
+SHA1-Digest: uHbbo91VCKhb7onaJaTHmX0jwlQ=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberAltern
+ ateFormatsProto_66
+SHA1-Digest: b7R8KG2gIocM5fKKoUrqnCUBFsI=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberAltern
+ ateFormatsProto_675
+SHA1-Digest: xFfyEYOY8UTnJUmko1AQQpF0JN8=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberAltern
+ ateFormatsProto_676
+SHA1-Digest: H1FTtFpqaOe2v7nS8uGHXKhRA6k=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberAltern
+ ateFormatsProto_679
+SHA1-Digest: nErVBlK62SPGNkPSM1XHj8qVQuo=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberAltern
+ ateFormatsProto_7
+SHA1-Digest: jw0XJOdOlcdTJjO9xoVHI80kRK4=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberAltern
+ ateFormatsProto_81
+SHA1-Digest: fsaRgI6OFaW9ea+NHGvYlHF67T0=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberAltern
+ ateFormatsProto_84
+SHA1-Digest: 0ODym04yAk7Wf2BIgK/EwPuGivc=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberAltern
+ ateFormatsProto_855
+SHA1-Digest: hAts4PPtQ2HDgpXMNm+FtbvrZuw=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberAltern
+ ateFormatsProto_856
+SHA1-Digest: EtXd/AYwrepdTE+7GLyzVWgKPmU=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberAltern
+ ateFormatsProto_90
+SHA1-Digest: SHV+pYopjMTnRwFKs6pG0WNezco=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberAltern
+ ateFormatsProto_91
+SHA1-Digest: Zj1h2ZAGem3Hefn28cEdgBq79Cs=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberAltern
+ ateFormatsProto_94
+SHA1-Digest: AVNLGRCJwtUXRA+P4+DoXzngyI0=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberAltern
+ ateFormatsProto_95
+SHA1-Digest: YkJ0mBoNqvMCbYyb6oyIE/RIlq8=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberAltern
+ ateFormatsProto_971
+SHA1-Digest: T/uwdR/h0lwamhnAyTVrWDNIs2E=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberAltern
+ ateFormatsProto_972
+SHA1-Digest: 26NDu2q2clUF/Lf9b+2XUWJg8I0=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberAltern
+ ateFormatsProto_995
+SHA1-Digest: /3H6EK+aEeYVFuCJgXS+Cx+rUao=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_800
+SHA1-Digest: Lf1PNVer5wxuzDLOKmS62tM1GIM=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_808
+SHA1-Digest: YpW5z1ypqtT1Bll8bxR2dkHSi1A=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_870
+SHA1-Digest: zzN6WdDu/3rtntL4oHL7tC+XAuI=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_878
+SHA1-Digest: 7U1vp1A7x68aB4Wvioe+Ow2ilu0=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_881
+SHA1-Digest: qo7T+uOAqwvwBIWAUUy8YfJbOD8=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_882
+SHA1-Digest: Pz5629Z97GRllOq8tccEj8hwP4Y=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_883
+SHA1-Digest: BXtU0d9qMx79MpZ9/aNmdBB81sI=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_888
+SHA1-Digest: 8l/P1D1CK1JLma6JnyVLS2wCzAI=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_979
+SHA1-Digest: HTlbWfejqkz3f16oeiumqtIUy8s=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_AC
+SHA1-Digest: o8UjT6IAruq8Ud/sB1bgJ84ruQg=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_AD
+SHA1-Digest: FUbNab45mbQcxQO/c3CkFErYWVE=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_AE
+SHA1-Digest: L8lgcejK1O19vG7KO3uNVHvYq7E=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_AF
+SHA1-Digest: EOFRZk7JfOwkReWQTF7i1FK6JHA=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_AG
+SHA1-Digest: 4mWSIh1qCeYMs3M1ki2tX7GvDXI=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_AI
+SHA1-Digest: 8JeUFhz1MIssh8M9ZOHoKhWCvrY=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_AL
+SHA1-Digest: CnfHT8qCQ82FY/ClYfOkGf071hg=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_AM
+SHA1-Digest: MJ9CFLAW87QRgxcfDwaYO2wjI9o=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_AO
+SHA1-Digest: t2IkvxQ8KAt42HBxfHA2aFcbtI4=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_AR
+SHA1-Digest: tIt6vHF1HULCdRHj5rZVxSIZwVk=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_AS
+SHA1-Digest: virWIwetomWPOTL7kFkvBqS6u04=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_AT
+SHA1-Digest: sUZVLYSyMdriuGsSFMRnD9/uXUM=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_AU
+SHA1-Digest: zvvpXSMlh+YtzCNIGKv/XR+7v0s=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_AW
+SHA1-Digest: mkmZG/wu19ZRwlbyHc6rbeJQN8o=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_AX
+SHA1-Digest: dCWCfcOwLNt0SnAXaSYgSWab3Do=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_AZ
+SHA1-Digest: 6RGtsziMgwnbfo9GpbENbvF2oUA=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_BA
+SHA1-Digest: 4lPazBUqme70BD6h6nRfCi81ykU=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_BB
+SHA1-Digest: YuQzk4nVAblAIg/t7ddf0nGEJ3A=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_BD
+SHA1-Digest: NSN50HXqMdV3pPXirtuVRJjyCGg=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_BE
+SHA1-Digest: wbKoxNlrLcOCjxc+wwp41jXZPqI=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_BF
+SHA1-Digest: ojqmiFFhmipdU8x9NL3wCHuo7OY=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_BG
+SHA1-Digest: EL/Haufeu83fsOMeqMH0BUen/7U=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_BH
+SHA1-Digest: Wu2hLddjsv18ShuCuKlDJ+H/ArI=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_BI
+SHA1-Digest: UUzHkcoQ33wKlt1kYGp6ps9ldQk=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_BJ
+SHA1-Digest: 71SvWuKdU1aaOYo1+c3LD6wm/s0=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_BL
+SHA1-Digest: s3TZkLXDj55IvaFeHCfppcxm4Pw=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_BM
+SHA1-Digest: wZNZmUYwyo0EUD/r/dH5iG4NRio=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_BN
+SHA1-Digest: tNaMxPyx5VlpR/2r1u88oS+InjE=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_BO
+SHA1-Digest: LfBwARytwke4B7pypTU+U901bro=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_BQ
+SHA1-Digest: 6r4+0/L09IWPwJ2mEFtkQtbXX/4=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_BR
+SHA1-Digest: io2ftor7YKUs9bg0KimZUw4fOlY=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_BS
+SHA1-Digest: hAve3bs//hA/NXcY0N9QAMKTUEA=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_BT
+SHA1-Digest: wGLZTmNkaVYs7Bia/PnS9fB2eqM=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_BW
+SHA1-Digest: fiv4iG05dAX3W9/v0caAyaYL+OE=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_BY
+SHA1-Digest: 5KRHmFBx96wqVkL+jv9Qs4Puy84=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_BZ
+SHA1-Digest: tc8mD+G6jE7EybceUkR5gEUChOE=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_CA
+SHA1-Digest: ZZ7jACNcV0R4+sy0gZu7OS1u92o=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_CC
+SHA1-Digest: S8VYzwapAsBQqgPqSR6T5q5Paes=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_CD
+SHA1-Digest: 8ZvsqeaSPmuOtAechfJtANSME/c=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_CF
+SHA1-Digest: ZKdE181GPTtZ5EJZ0GXWTJbICNo=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_CG
+SHA1-Digest: ToX0IoXmTx9Y0+9O+Huc4ftowi4=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_CH
+SHA1-Digest: Y9TwhsSMlrXRnCYMEmQsBU7izIo=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_CI
+SHA1-Digest: /6IVl1atbnN4I0EX1qw/tqYZUfY=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_CK
+SHA1-Digest: ZHxksKJJKiWs2gVBVzGCw1MisBk=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_CL
+SHA1-Digest: UkI/hhqqExkt1gbAF77D6J3LQOo=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_CM
+SHA1-Digest: NaSmooGgr0rgbVgvYuCKyawvci0=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_CN
+SHA1-Digest: 8R7mR1L9sqMOGqqobG2t8a1kXro=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_CO
+SHA1-Digest: pLXukDqpkn2UplrM4hWzfuECaP8=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_CR
+SHA1-Digest: gJmX65CkX90lK3cKpei75GKVW4Y=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_CU
+SHA1-Digest: eDqB9fE9ur7fKWwSS13PpwoIDck=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_CV
+SHA1-Digest: PKsUNCm261yzaT2s2FKUdTTD9a0=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_CW
+SHA1-Digest: m2JzwpuGznfGGHIDbMMaDntwiq0=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_CX
+SHA1-Digest: 7RA/EydrHu2+hQpExhaaRvptJ8Q=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_CY
+SHA1-Digest: 76bz18Wz6AmToJQJmSIShfRACWs=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_CZ
+SHA1-Digest: jiHmbi8yYZaUfBZ968D9Q+tgTTE=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_DE
+SHA1-Digest: aKFqmdX5IJvncI3WkPvAU/VGHvc=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_DJ
+SHA1-Digest: IrM5yg5KfVN3hchaMPoPmsx9sZ0=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_DK
+SHA1-Digest: 0qXr0SLTUEFRRy6klHhzO9dPmc4=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_DM
+SHA1-Digest: 6K55RJERCkW3QM2vEqZY8bZhieQ=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_DO
+SHA1-Digest: UhS4RPCo9xuE8tGIC2Xi9KOqY+I=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_DZ
+SHA1-Digest: RT3XzzIW63SasgYbBdE4ZBYcXpA=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_EC
+SHA1-Digest: MUhEKM/smXIL1iG2Eqz5Bw8Zz9Q=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_EE
+SHA1-Digest: R7n+G/6iDfjJNAm7hSf4zbu6SF0=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_EG
+SHA1-Digest: wmtgvhrwkwaiw0lUUiqT56+WwGo=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_EH
+SHA1-Digest: +SFuYER7HmYn3TaSqJ+h8JC4S/s=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_ER
+SHA1-Digest: Ykv/HlL4MJ2fRiOgF1cBjgALZMo=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_ES
+SHA1-Digest: CZ+LuZ4pr2HlSPz38sFMf1xC+24=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_ET
+SHA1-Digest: K8SUOIO/AmiA3DNf9yKpUpxWfl0=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_FI
+SHA1-Digest: tpMmWTjj9nk1n1Y4KyzU4xXCzio=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_FJ
+SHA1-Digest: +vB16YH6mi+czb2OJO6VQWsQSoo=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_FK
+SHA1-Digest: 6uIrlaOZDpo2TNjKjiNsa74k/9Y=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_FM
+SHA1-Digest: Y5EAnL3/sNPLbv06v46d35JcdQ8=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_FO
+SHA1-Digest: jfEfVevnF9Qve83+f9PqfPiyONc=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_FR
+SHA1-Digest: iDrM0W4Xy8e2jNIwI4BOFObm6z4=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_GA
+SHA1-Digest: 3zedyBvYz+acciL7hcMnOD02FQo=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_GB
+SHA1-Digest: FeJUGkcAGkGgU/oL7MHDwgPNdMY=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_GD
+SHA1-Digest: r34CYsgPtu8KBEsVyZuquPsrKBQ=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_GE
+SHA1-Digest: 2nkgb6h8SG4NBJKFw2iyR4GfZYE=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_GF
+SHA1-Digest: fuXRT9Vmpfr4cn3/BSGoFIgxC1U=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_GG
+SHA1-Digest: cPe7hB0iU/c6ThCX8bjtO+B6dw8=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_GH
+SHA1-Digest: 5RuV0/l/kJ3EKrAZ55KvdfF+HPY=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_GI
+SHA1-Digest: EXEAJJ+ZGLA11YWrb1p3Sjd69M0=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_GL
+SHA1-Digest: Wn6x16y/Tgpg2M/Vuf2Hijyv3Nw=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_GM
+SHA1-Digest: IqWUMCa9fsVT+1V/Yx86OvqGv44=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_GN
+SHA1-Digest: T3a6V+58leKzOvyUt47i3mE5xrY=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_GP
+SHA1-Digest: m62r5l6zOFe4jKm6H7hwtpDcAS0=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_GQ
+SHA1-Digest: s0s+M8KEUfbWFN4K8NUILKkErG4=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_GR
+SHA1-Digest: p/tt0mmxToXqUex7Z+AjlQzarzA=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_GT
+SHA1-Digest: LxGEFZ/CNXo2IsdyRePYyl9d9Ds=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_GU
+SHA1-Digest: cYL6lGqGcBtnqemJ2nPRNB3zpdM=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_GW
+SHA1-Digest: jcQEM5oCqxiCmiXoHPyojryALG0=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_GY
+SHA1-Digest: 8lwRrXTsYwWtjw8rcwtcuKkFeYc=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_HK
+SHA1-Digest: SzQxFWcTYQJSnfRl4iAa67mZbdY=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_HN
+SHA1-Digest: uHrKxRADIIPhcCP/oqE8/pC5VCc=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_HR
+SHA1-Digest: H8WUurElF33lI55KSOiIQDvaQNE=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_HT
+SHA1-Digest: YDirtHok9DC496MMJhugmXi/YLE=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_HU
+SHA1-Digest: 0Q2AyXluWSQhnqTJG/Qy0u2Dx6Y=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_ID
+SHA1-Digest: bkv4dG7Rqe3PIAhL+L/ht/PdCAc=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_IE
+SHA1-Digest: +TP4wS1r1Bai/uFG8bZcRrOhiV8=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_IL
+SHA1-Digest: +S4o3OTrZX1zT3gFxjVgM+YSz0g=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_IM
+SHA1-Digest: VXE3XutOiVQNxOiqvaV8NeRlZGE=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_IN
+SHA1-Digest: 5z9Dw7ZzIoRJyW/ceA+gIDGIrr0=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_IO
+SHA1-Digest: x6iVOzu0E/MXHG8Rjq6PXMYeNKs=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_IQ
+SHA1-Digest: RSjx9v475FGDB+zJh7KecPdDLVM=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_IR
+SHA1-Digest: LT9n6dfbplh1k1yaOLXz4AkFqjY=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_IS
+SHA1-Digest: vdYmtjhDcn1Tg3wQ3IHNJ34rkoo=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_IT
+SHA1-Digest: LpJSRZzX2LKxeKL32QEXQZ3JRY0=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_JE
+SHA1-Digest: VFUlJyK2kVlJBsHWGUgyGXHsiK4=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_JM
+SHA1-Digest: zYNcgrrhAsUTPCyLFQf7rn7d6SI=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_JO
+SHA1-Digest: sVqbLZgoxxzLt7ZRyiJFKuZqlTU=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_JP
+SHA1-Digest: oJP7qgVTsXFf/sB2oMFUNMvYSLU=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_KE
+SHA1-Digest: hvl9UYEPO77recPTkrD2VNBUdU8=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_KG
+SHA1-Digest: RQu5FqREdqv3S+UlY9qhasrIRVU=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_KH
+SHA1-Digest: Z0xOZqSm+SZErN35VMEutxOmyw8=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_KI
+SHA1-Digest: PzMQv4YBR9AmnVmsNnpyR8cd7OQ=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_KM
+SHA1-Digest: O0Hxo7dE7z0531/ipsvUoB9g2hk=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_KN
+SHA1-Digest: DFVBlp1Fyg3Alm9VO69BD2tg6BY=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_KP
+SHA1-Digest: swedhbkrJKxaRGz9FsPTa0St3cI=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_KR
+SHA1-Digest: H89HVc51fKmoTogR3dR8Ixu07WU=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_KW
+SHA1-Digest: jF6nxmQfJuFDK6tDvl9qrXNdnnY=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_KY
+SHA1-Digest: 3wYVFHP4aGGsYecONHBJ5lkLXxs=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_KZ
+SHA1-Digest: KU85zh4q+Gp7+89TpU00+C40yWU=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_LA
+SHA1-Digest: 8JaaaU3iRIjJTyTb30jUFWbe8fE=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_LB
+SHA1-Digest: vdRuHJWWg59DVhDQT8EnaE+Ynrk=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_LC
+SHA1-Digest: zPjvpEFHLqCMIKHhbshcKCWMJ7o=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_LI
+SHA1-Digest: CieRqga/BryRn470EkeKOe6d6YY=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_LK
+SHA1-Digest: 8L0cO5MIQ9VXcJxV21j2F9aaHNI=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_LR
+SHA1-Digest: sg0YrNObv0bZmIzyiEyDcw7aLPk=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_LS
+SHA1-Digest: 6S+7LIjIONJkvby1m/JolpPul7U=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_LT
+SHA1-Digest: bAIf7Vafl/wpUrhvPwmPusZWTIw=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_LU
+SHA1-Digest: o/nnVweDf70VsmES460mjgXQNaA=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_LV
+SHA1-Digest: yVvwi6UZWbwt46bmua+2fPfhCo4=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_LY
+SHA1-Digest: 55iJ5aott0XS/N1TAnHygd05akg=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_MA
+SHA1-Digest: XwgxssUambba882q5Q3CSOkGNV0=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_MC
+SHA1-Digest: xk6KpCRJSNXCFomcJn7w99QuV4M=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_MD
+SHA1-Digest: XykCixh1vEVUHDnua1DKx8v1MHI=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_ME
+SHA1-Digest: KQzCfP3DA67SZS32/1fF7pgYMK4=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_MF
+SHA1-Digest: muKZTZn7upO8fbwg/rfSrD5agc8=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_MG
+SHA1-Digest: N3fU2taCUzmOJA6qQ5xXvHonvw0=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_MH
+SHA1-Digest: ZhIW32mCJzOfo0MCujjIiqVkieY=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_MK
+SHA1-Digest: NMDuKY22Lt2jm70EFji/wHa4gTU=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_ML
+SHA1-Digest: wKUYMq61R9lab1TfDBON6Zx8mNE=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_MM
+SHA1-Digest: ea3DdGf+82voytvPNBqMMBR+y+A=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_MN
+SHA1-Digest: MBfzEHUSeE8XUvIPhsrH2yBed2Q=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_MO
+SHA1-Digest: DhHk2MCUcbNYdsjFi6CG8ScP0GE=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_MP
+SHA1-Digest: s7npREIkZd2Ivw8CpLg6QDOT0qk=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_MQ
+SHA1-Digest: euo7CEd+8kbrIk4GXpkak7e+M4o=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_MR
+SHA1-Digest: uo0C4ON8lpDYAZoaFpd8T1HSoXE=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_MS
+SHA1-Digest: 7oS3MSLfOS2KBlADxgr+j2Yf0JQ=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_MT
+SHA1-Digest: Ax9WC0ocffMNUbj7hx7WQ0kc+H4=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_MU
+SHA1-Digest: FOUVH3d/RJvfXW4qnzDK5dpb90Y=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_MV
+SHA1-Digest: 6OW9b0tIQUTO3AZEQUeRKEzGOLw=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_MW
+SHA1-Digest: HAXR8SJR8eEyvaIw4imxVSxIoAM=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_MX
+SHA1-Digest: yxd81h1wj3vxDk9oZeOexF3toY8=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_MY
+SHA1-Digest: EObftff6pvzKrgbAtPkBDEUcHAw=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_MZ
+SHA1-Digest: RFmJ/KMw4bs/oMdND/kpKmo9l6M=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_NA
+SHA1-Digest: RPpU4fPGNsXhK8C6koScjbV4YlI=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_NC
+SHA1-Digest: XxBglM0V7iY0VKi8NafC3BBRPCQ=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_NE
+SHA1-Digest: AcEo7TpJYQQrnxOA8mATbk06CBI=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_NF
+SHA1-Digest: bF0IIeUxGkwGlfXAGq5tmTseLl4=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_NG
+SHA1-Digest: 9ZjWyIIu7V24StJeGvJClAV1Ox4=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_NI
+SHA1-Digest: XZW9ts22chcp2W9BhlGkDnl/xSo=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_NL
+SHA1-Digest: 5oS6VJ9zQ5XT1ceHeVRxA/AwFL8=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_NO
+SHA1-Digest: RmE6WXIRSChOWKK0XVyJ7cmj4uc=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_NP
+SHA1-Digest: 13+PnNxH/sWm+ktEykBR7BnG46o=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_NR
+SHA1-Digest: Wv65+iY5g+L6epm8TPoXczBBag0=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_NU
+SHA1-Digest: +ALvoJIG4xsomy7+8ytWOCKIN6k=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_NZ
+SHA1-Digest: JHZIyOL3hzHr1gW4a75IF6hB0CQ=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_OM
+SHA1-Digest: CsQeUzbLWZSoBeyBGywWP3IZipQ=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_PA
+SHA1-Digest: 9PrtyWToW66ORW5753mjyqwhG5E=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_PE
+SHA1-Digest: r9aTjYNu6YppoE4+Bv81VK3yW3Y=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_PF
+SHA1-Digest: DprRjhAu0ZtTGuXYU2ES/Im5Ex8=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_PG
+SHA1-Digest: OlSQ6/ODw6th22/RZAOsYTEo+Lc=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_PH
+SHA1-Digest: dzG8IDGc4aLUYmQKow85gVrir8U=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_PK
+SHA1-Digest: dkoqzzI/Gg6hQDJMGnjTOJp+2ek=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_PL
+SHA1-Digest: kgRjCtFP1lmSAVjbWxvO/WqcxnI=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_PM
+SHA1-Digest: 0oDq5/lgsdKVXSnBrsbiuYSx0d0=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_PR
+SHA1-Digest: z7panRSP1ianv8cv3cMJT9/7294=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_PS
+SHA1-Digest: ywLJsefep0ChW9OSQQfxim+KJgU=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_PT
+SHA1-Digest: t/AvX1EZTjaMXj/WnACKUf0cVqA=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_PW
+SHA1-Digest: D95slUdYgfonKICqxI1RYxDL6w4=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_PY
+SHA1-Digest: Uaz45zMPSIETA95asV6n4dYE2X8=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_QA
+SHA1-Digest: +S+xDIygW66ysSqyoJndTCTwNmk=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_RE
+SHA1-Digest: QT74ZkddtMukyCCzZ8XCqEnlrjo=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_RO
+SHA1-Digest: jQRwpm/d2MTsACPa16/a8cWkC3Y=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_RS
+SHA1-Digest: 2wzf0aRQqtsiXpdryPACeaxzAsI=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_RU
+SHA1-Digest: Ao1NV8NLWZ8XS90TlmjEDhXHOe0=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_RW
+SHA1-Digest: 63fJw6kbQFbDXxVBPe98erupfWw=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_SA
+SHA1-Digest: yOb+3auhRfE7S5NkaOFdXNbuOyg=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_SB
+SHA1-Digest: aSToKKpFhBOyAk29WjIlT12vrdY=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_SC
+SHA1-Digest: zNXekLIBH0IpqG2HBo7yE+2gy60=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_SD
+SHA1-Digest: xlM3PK+ghs9AyEGBNEWWziKFY2A=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_SE
+SHA1-Digest: zeizZMj+zGqP+F88jVn26b46Q6w=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_SG
+SHA1-Digest: NdScD2p7exkqx3pFdcErGg5cg44=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_SH
+SHA1-Digest: C87PIBPsUS+0xPjza2I1JdMZsC0=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_SI
+SHA1-Digest: e5M/VJfWIJdnHfv6z0Woww8GzxE=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_SJ
+SHA1-Digest: sLcgED7ezYVuzmqBluTPTiBD5sc=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_SK
+SHA1-Digest: vvjeYY+D+KA9gCGjsjvD1iOpeow=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_SL
+SHA1-Digest: OV7l2n036xPxnQtwxZ50nO3eAUQ=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_SM
+SHA1-Digest: osBPg9jiVGRmiXd4Qif74/NZmus=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_SN
+SHA1-Digest: 1vQru9dVDAU7Br26Tkfhl6iPo7w=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_SO
+SHA1-Digest: jteb9qiqJhT5o/UMwOvsm6xZdLk=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_SR
+SHA1-Digest: BVgP2Tt/PGoXJwZxt9EmPPQNW3M=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_SS
+SHA1-Digest: MxfWgfT7V3N3zLf7qO/XbCmCTO8=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_ST
+SHA1-Digest: pOhnk+mzElFnZYnFlcWzkNkTejM=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_SV
+SHA1-Digest: 08VB2sEWfXgLerzfvAmR4fKH7qM=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_SX
+SHA1-Digest: jDfa39FE1/Tt+Mwcm9oQIgDGB84=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_SY
+SHA1-Digest: xGXO/OnkjHDjKtevuzBEVbMPAmo=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_SZ
+SHA1-Digest: P97o00/fdkqGz/Lour4roGbn2iU=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_TA
+SHA1-Digest: Aorvn2M/FH9y+IpJQ2/i4ouwEpI=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_TC
+SHA1-Digest: eNvxIyIqhML+XsABrwmwHMnH+6g=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_TD
+SHA1-Digest: sz6Mg6SW/JCJYkAXh6swWLrRcJM=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_TG
+SHA1-Digest: RTNIEJPBuNc0WGcWPdYrVOU6ors=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_TH
+SHA1-Digest: UYZP5pKBIqz1WxI0Kl0ZShmXnvI=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_TJ
+SHA1-Digest: Dqm7yllfUuUQFyp3wYCIVg/KjZU=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_TK
+SHA1-Digest: MLRthaIvDltLfcquw0NWU2ZwKmQ=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_TL
+SHA1-Digest: 7jrmYZy6iuBqMm6HqM/qsvBwQAw=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_TM
+SHA1-Digest: 3H8LTlJDowCjfR0URq7UQiYFuyM=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_TN
+SHA1-Digest: zZ6uhPegI68tzXN0CSWI2uBGAdc=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_TO
+SHA1-Digest: 2H//fxK8cwXhf8F4nGn9jM0LUns=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_TR
+SHA1-Digest: a6jLmKuRGLFa3dkrhyFnGNJIKds=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_TT
+SHA1-Digest: 1dziyN5UDQ3oD/kFC8LxQBlhKE4=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_TV
+SHA1-Digest: tWIxI0frv7AtqoLPJfLBbXkr2Lc=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_TW
+SHA1-Digest: jyoZ7+0sAsBwfxSb71wD108tYck=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_TZ
+SHA1-Digest: +WGC6yA+NiElpA5ekQuiU70d5zo=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_UA
+SHA1-Digest: QigLCoL/kOenZbcEgbg1UgBeS7k=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_UG
+SHA1-Digest: VppCLm0h+QEEC0K5dXL4SlW3a40=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_US
+SHA1-Digest: QSHmuSX8XolNs14GXf3N+rm9fSQ=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_UY
+SHA1-Digest: pTopvH22PE0v0At+qGSbUIdQM+o=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_UZ
+SHA1-Digest: tm169mcKKD3fuk+19IOvG7K/Dlk=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_VA
+SHA1-Digest: aUrfUbe6kBLjQO/25qJpi4aWe7A=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_VC
+SHA1-Digest: /HuU8r1nSOy14EjS8J0HTS7bwxo=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_VE
+SHA1-Digest: ND16SuR7KpiTXMrnJOKgd2EDv7o=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_VG
+SHA1-Digest: avv9S3r8piV7RI5gzaEhMUNEdSE=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_VI
+SHA1-Digest: L5xK6Y5e5yAsyyAlQeO5EoPe1XI=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_VN
+SHA1-Digest: a8hQ4VJnqmtzJF+YC5Ca9JAEEGs=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_VU
+SHA1-Digest: 46hnZeCD7Q9xF3DS6LBgBaKHPGs=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_WF
+SHA1-Digest: J6RbJrDXCMOnCke2zIR6xMWK55Y=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_WS
+SHA1-Digest: xSNBPgGvtx4tzqTm+BFdedgrElU=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_YE
+SHA1-Digest: mzl6xT8I6uS76k3KFo97xBcLctU=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_YT
+SHA1-Digest: 7MRgKNp2VrmsvHIaSNqatuCoAic=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_ZA
+SHA1-Digest: mYagN0frdjFnJeUJ46Qj0n+o33M=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_ZM
+SHA1-Digest: EVYGRXm5WI1LhG5yUfW6a74AOd4=
+
+Name: com/google/android/libraries/phonenumbers/data/PhoneNumberMetada
+ taProto_ZW
+SHA1-Digest: kWl+prrsLkQfH2b6BgGjnjLsEPA=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_AC
+SHA1-Digest: MJqWwR2HhKCKXTawGlOqz0pO3Ms=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_AD
+SHA1-Digest: hXJ/rLCj787EsNlz+EWkrXMX85U=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_AE
+SHA1-Digest: SrWL5xhh4nXXMEZy+SacfHWnw1M=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_AF
+SHA1-Digest: JAKeIbbLnkR4SXk8XEfQEJNYGa4=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_AG
+SHA1-Digest: wVi4CrD39aAbD7J1VtinpAKctUk=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_AI
+SHA1-Digest: l1j9iV8T/E+97BxWcWgnsIb6jE4=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_AL
+SHA1-Digest: 5Kt7Za7Udjx5ZQzGkYCWpxFf7C8=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_AM
+SHA1-Digest: dEXmNFTArtmGuBV5TrT1ybUYm9o=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_AO
+SHA1-Digest: Z67N2zRDPdMuvF62eGS4KammW/M=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_AR
+SHA1-Digest: zoL2uBTP92MPQbf6+yXPXaTtU9I=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_AS
+SHA1-Digest: qq4f13NXpvsHPxOxzUPmV4dUSGA=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_AT
+SHA1-Digest: oTBl1WQ+e+Fhvfjco/LcYv3twXw=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_AU
+SHA1-Digest: I8mDqe1uAoFe4BUs+13UtBlu+ag=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_AW
+SHA1-Digest: tFJJrcUjyU4AJj3+9uRJraBbpuw=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_AX
+SHA1-Digest: e8wNit443NMQqL1PJnt0SkWufU4=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_AZ
+SHA1-Digest: oXp4ZHsOlcRYqE60dP2ij8n+LD8=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_BA
+SHA1-Digest: QnMLTNHTLpcBxfj+yYzjtrgAWw4=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_BB
+SHA1-Digest: AFv6uxmszCUy7ZjGWK+WbS5qm70=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_BD
+SHA1-Digest: a7ZNosWzMmNfUqkpINbLleUQ01A=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_BE
+SHA1-Digest: 1tgtbCKZ9zmm7rpr2WqusIlRRo0=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_BF
+SHA1-Digest: xi29NBwYhiQ+RONJsIbsoSTKFuw=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_BG
+SHA1-Digest: LGzZWHMaM83Jk3v0GYjBlV7gkZQ=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_BH
+SHA1-Digest: EgqCeknA7gj4YgJiEbfLi4Y7b8g=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_BI
+SHA1-Digest: ha57gRSmgao5+1RJ0cofqzN2dEc=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_BJ
+SHA1-Digest: i6uObl+ZQLPEbyrV0B0ktZsWGIw=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_BL
+SHA1-Digest: QnGIVXrBBfFrqFYoFgU55hMb6cI=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_BM
+SHA1-Digest: r6x7Ueo9YIknEFUkhgWFLPPX/6k=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_BN
+SHA1-Digest: lv2SGCFvIN/ARZbzAj9s9j83kt0=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_BO
+SHA1-Digest: B2scPzD6rpmmfH2I1kb7Yw8p4OU=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_BQ
+SHA1-Digest: oXjbcdNVpoDLf5urL/d5YqynpsU=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_BR
+SHA1-Digest: up5MZLd2lDZBcTOHTAe2Di/5JFM=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_BS
+SHA1-Digest: Piy9V8Y5+xxS0o75V3tZVd22bLs=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_BT
+SHA1-Digest: Bmbc0A+rUc7hLBNZCin05xYQ9TI=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_BW
+SHA1-Digest: r2BL7/491owRY8+vLuNv+z1KHBk=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_BY
+SHA1-Digest: 4DjCcI9anrGkHlnh8tmZH2Qab3E=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_BZ
+SHA1-Digest: S8Yk0Uskm6QSBZ6rm5+jVYwiFZo=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_CA
+SHA1-Digest: uXG9L1VtvvvRwq9o/qTMD8MH6JI=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_CC
+SHA1-Digest: bq6kOvoyTsGGKQOztIoXBh+T2SA=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_CD
+SHA1-Digest: UAmI9q1pZT5ULm1R0HDTFUuizeg=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_CF
+SHA1-Digest: GZMmz7B+tMcLmPojj+kQXuLHuFo=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_CG
+SHA1-Digest: 2jtcLDac3nWVCloFy3tBJJia+rA=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_CH
+SHA1-Digest: hv+m3EvUfsFUDwy4aRlRQyXekhc=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_CI
+SHA1-Digest: hlnqTYX0FIAOPylfwP5tdqomuck=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_CK
+SHA1-Digest: oxDoB9wkeDQcU2cKbKoX0gtzeYo=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_CL
+SHA1-Digest: YTMNt9HJ+yvlB7lflLTth3XKLfg=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_CM
+SHA1-Digest: J+7Tgs5Hypee8RXseoxena8NYsw=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_CN
+SHA1-Digest: U4LNt5nUI11I1tn5rqnba2BuBgk=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_CO
+SHA1-Digest: mgooUeHQw1rfNdpZHbBjx6OBW6o=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_CR
+SHA1-Digest: GdXRSYtyCJVahTOChSDFD67sPnU=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_CU
+SHA1-Digest: 1c20BnQHouBtbS1MawShwueBv9o=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_CV
+SHA1-Digest: QH/a/VCrWL94d5JsFNPb6gIqbIc=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_CW
+SHA1-Digest: QItFKQ9x8nxzwY7j3u7vb8zFWmQ=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_CX
+SHA1-Digest: wSE5b/5QQm9E7okDwu1jGUXLe9Y=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_CY
+SHA1-Digest: xggRFvqLGiOI76xQQBcnmecpYHY=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_CZ
+SHA1-Digest: i9cw+EtPDamJIcsMAA9nEC2+8LY=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_DE
+SHA1-Digest: 9b0hPWyxqNfnyaNnAedzXNnTiRo=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_DJ
+SHA1-Digest: T1WG/Nej05EybB8eWfleXf2y2tM=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_DK
+SHA1-Digest: 7wzXFfVaHtnn/fIKy9wJXstx3RQ=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_DM
+SHA1-Digest: 2KoFYVvrwoC+Hqdrzf+RNs1ZP+o=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_DO
+SHA1-Digest: YtYWgYouKgRFAPWYUr0MxHaO/aw=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_DZ
+SHA1-Digest: HWlF5588UHzmCKvvGghgCHlluFE=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_EC
+SHA1-Digest: 55RLelposb7oqB/UuyidLR0U1cw=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_EE
+SHA1-Digest: UpfCyeCE4FWnkVgIEBVjqVULgFQ=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_EG
+SHA1-Digest: uCpyGOTS32iAJAwqNAjU651A42U=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_EH
+SHA1-Digest: Y7iHKt8FXfGHqNOo/c+PiI25VXk=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_ER
+SHA1-Digest: sOLTKjCTKPG6j+Ci8Y9zIwtb6UI=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_ES
+SHA1-Digest: 7NFBfoXGboesj5oPFbyaUx4cgb0=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_ET
+SHA1-Digest: ypR3ogJrQ1hMA33PBrJNue6bZ3o=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_FI
+SHA1-Digest: scaZ4IUUqVW72ON/XMu4LqtZniA=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_FJ
+SHA1-Digest: LNmZhyZpy43HAk01P4y8yXkDbZw=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_FK
+SHA1-Digest: 6tk65tsyfE919FPREWozdqAmljM=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_FM
+SHA1-Digest: erYT/7wnUSBTcDE93ZzPmgGehzg=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_FO
+SHA1-Digest: ysmGNK0/RwaG67ZMi2Ew8RvDhO0=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_FR
+SHA1-Digest: jmH6KiG2G6MSHf1/5WJOYikPypA=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_GA
+SHA1-Digest: tittz0XIEhdmTRSvpkQA0FgLAyY=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_GB
+SHA1-Digest: DwBzTZEszWuo/z4bERLQ+sxBBuw=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_GD
+SHA1-Digest: zsxP0ZLkFcnWV73RK2dAh01kVWo=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_GE
+SHA1-Digest: mrvnsu5VWulP1+oL7bisyqHgbdM=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_GF
+SHA1-Digest: FamvyhFgLn3beLlkvXdsCoZYpHo=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_GG
+SHA1-Digest: ezmQsWEe3a1yyBfY9wwWR3GwKuo=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_GH
+SHA1-Digest: Nip+pr9EQM+nMyl7BywtKiKA5+E=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_GI
+SHA1-Digest: 8D63n4be2E4Wq1rxS/oApikzSWA=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_GL
+SHA1-Digest: rk7BePhHPvCUgUpDg/5qPLErVQc=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_GM
+SHA1-Digest: kgu+SK6ZDCSNaquPR5H6JKvg51Y=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_GN
+SHA1-Digest: C0Bq/Q51k2Lrgb2M5derzjy3HFo=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_GP
+SHA1-Digest: NQ+cfhw+vqrE+zeQk5NNYCnjUwU=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_GR
+SHA1-Digest: kDqZefcpqbDwsUchSywjL75wJuI=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_GT
+SHA1-Digest: G29xoaasbg+ivVlTCCMlb7zy3EM=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_GU
+SHA1-Digest: l9vkCMtAlw4pcWGAU0mz6t+gMAs=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_GW
+SHA1-Digest: dAV2lQbBysbkPCDpuaY597PadKg=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_GY
+SHA1-Digest: eK54oL41MAZAkXEY6V7yT31Djrs=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_HK
+SHA1-Digest: hue0n+3raJO8W3y7odk0nkwpzjg=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_HN
+SHA1-Digest: P/fxQbDvtVH8cgKLbLpQ/j50OCI=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_HR
+SHA1-Digest: yRBC4c5MQOqPc9u7JjHHv4rq0ls=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_HT
+SHA1-Digest: /20iwebM7An5nOXZPzcAl0cJAfI=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_HU
+SHA1-Digest: Nwg8Ii3qVO5wlY4ldzCL2Sj/PsU=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_ID
+SHA1-Digest: 2SEEzR5I0F0Ymzmb/Rg7XQ7cSkc=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_IE
+SHA1-Digest: In4ILsQLY022mOjF1tEeiqR9eqQ=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_IL
+SHA1-Digest: w+CGqjcEOKozQiubRwP3el1W3Ow=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_IM
+SHA1-Digest: 9/k383kmEusTGpv/DAMpF8i9KS8=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_IN
+SHA1-Digest: vMU5Tzaz5Ra3DV4lyql1WL7E6J4=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_IQ
+SHA1-Digest: VMH++CGaMv8unTX9edwcYdSepwY=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_IR
+SHA1-Digest: BcMcYX4apaoXGM7ZptvpJZBOaFE=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_IS
+SHA1-Digest: e7xCNvJ/g6dkj/FNwYNvHjPsw5U=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_IT
+SHA1-Digest: 6se7k/D0RYTNLECoMxWRXsYhXic=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_JE
+SHA1-Digest: vYk535mqlgFcXCmIIqOhNTvkAOY=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_JM
+SHA1-Digest: iYjCPLKfsXH44/GWJrbnsVNqqi4=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_JO
+SHA1-Digest: 6c6KBJVRKz7TOFDM+6pFEtf/HAc=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_JP
+SHA1-Digest: B4xEjtX6VXHCocdTB8XkhFeM2wg=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_KE
+SHA1-Digest: K9M+Q58vWyPp526UU44XNMujzbU=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_KG
+SHA1-Digest: MCg+MYkSAHha08neOsycKHPBisY=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_KH
+SHA1-Digest: noDBunKFkMwun0akK2687Cv2MfA=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_KI
+SHA1-Digest: 5ZCf8wQN6+I1dLwOJCvEQV/x+s4=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_KM
+SHA1-Digest: 6/URdndVqf0Td2aPRYvfuMvsbU4=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_KN
+SHA1-Digest: jsat3Zr4PBJ54JmIjv+p8DAS0SU=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_KP
+SHA1-Digest: mVVGk/YK6GAI3Bxk2b7XbE53PAk=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_KR
+SHA1-Digest: Re3FyU52byQxwMvveTyH5eU2Obc=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_KW
+SHA1-Digest: 4DncSx1rBRtBO9thjSKVbiuFeEc=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_KY
+SHA1-Digest: 9E+yQL5Ekxqy39uucpLRhPph4Dw=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_KZ
+SHA1-Digest: XAmEXKt9a2SDja/ryfBe6JtaXVs=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_LA
+SHA1-Digest: SWj8Xrtvc+cfL3kdndTxLo3WeLE=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_LB
+SHA1-Digest: FSFd1xAsnsl2FnSBrlEmS2o9Byg=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_LC
+SHA1-Digest: dfQdbBBy9/DwhZe1unUKN5eTsi8=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_LI
+SHA1-Digest: Hovy3O2eDMlO2hZTjLl+lP8fiB4=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_LK
+SHA1-Digest: 1RpqiaspijITCUOEgZDV6h6XfmI=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_LR
+SHA1-Digest: 2Rmutou5bXgkfr9sThxH/Wgbil0=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_LS
+SHA1-Digest: mN/W+7i1ZlaQ/5R3GErUSAls/q4=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_LT
+SHA1-Digest: gHYDSaJhBhxFIfoabou3NCwCQ6A=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_LU
+SHA1-Digest: AGP+l45jGYbf2SL2/cqJ227wG18=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_LV
+SHA1-Digest: bktuisSuOia6dWH1EMMhdF8jl9w=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_LY
+SHA1-Digest: ECfpfFlb80qpXyaC0GzaaDdlhwQ=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_MA
+SHA1-Digest: TeOsF7eVTGVYTeJMDC+sBF+XsXo=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_MC
+SHA1-Digest: A0lsV78ttvCPCeWpG4C9W6oZT8c=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_MD
+SHA1-Digest: 00v1QeQSa6fJAjmP9lRoKTcX73k=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_ME
+SHA1-Digest: 6Q/KpoB0l/ysO2jGXT271980hKI=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_MF
+SHA1-Digest: 8fpfveIDphvlSRS38zFoVsd+Wac=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_MG
+SHA1-Digest: pgPM3lAzrREAZhDJ/StDpEtu7/Q=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_MH
+SHA1-Digest: Gt+950+BjlsfhNK4VzWCtVROP54=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_MK
+SHA1-Digest: 0mxNM8nENg9Qos0whlQPnhuoO78=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_ML
+SHA1-Digest: L8Lyop/qJg6iDVdZ9wfMCs8bz7w=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_MM
+SHA1-Digest: KRaclocUDtLz48DokFkU2gC1aTE=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_MN
+SHA1-Digest: Ci2wYusCISU4Whpqz2HCCdb8se8=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_MO
+SHA1-Digest: mmO6NeSG4y1K4nxWhEJvg9+sGhc=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_MP
+SHA1-Digest: 76IILBKbGlXMV5scmtF2phA4gcQ=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_MQ
+SHA1-Digest: MfcDSZ6y8kb7JdLnhDXiDfsbwIM=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_MR
+SHA1-Digest: nQIbyFS2Kar5A2tTsI1VNtceQbI=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_MS
+SHA1-Digest: /Z1JxIZaCC9uvQZGNkRAHhjq7qI=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_MT
+SHA1-Digest: MYYLKHlPxVn354EJwCSjw1SepuQ=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_MU
+SHA1-Digest: zbiWcdBVHVl0tShCTquntI9UnOs=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_MV
+SHA1-Digest: NsBxpA1IDp8OCJK0y/wkdh0XPdc=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_MW
+SHA1-Digest: GxFR2aLQ//OFfOVXx/DYDaqN0rY=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_MX
+SHA1-Digest: BHcpuUK98UZzT3bAPq2yccZmtFE=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_MY
+SHA1-Digest: pbNHEooTb+lxV7EBf4nMOAJbDpU=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_MZ
+SHA1-Digest: UymKIOGofCuQf4J2weUnphM75uI=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_NA
+SHA1-Digest: k4mhq0ylANArzQwRUBU4EwvU+ak=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_NC
+SHA1-Digest: AI4M+EgWmYnQvN2+MQy933DCmps=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_NE
+SHA1-Digest: THChoIgYAriO41WjksDs3+X1J+c=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_NF
+SHA1-Digest: aHseXsB/lF2OS3a1pqvwW4dD3p8=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_NG
+SHA1-Digest: LDEFqZzkqr+DrqYWvXY4orLmeEk=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_NI
+SHA1-Digest: YfvDM+LKrGuSzhOSeH7312agwe4=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_NL
+SHA1-Digest: 8SrrRvWp30Ocyr7yf7nbzOnkeWA=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_NO
+SHA1-Digest: mOrjUqn757e54/BrcCQvJk0KNfY=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_NP
+SHA1-Digest: go7NfobICKRfj2dKJEcX8LFQrKw=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_NR
+SHA1-Digest: 5gWn/OpgK0WvayLERORbwsB62SQ=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_NU
+SHA1-Digest: +UAm3aVEsmMFOcQbeq67AA5Z2W8=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_NZ
+SHA1-Digest: SK+jIRJWczYAm19qq5XrlKqeb+Q=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_OM
+SHA1-Digest: 8diaV5kr5oTPY4V56dyPDFnoDSE=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_PA
+SHA1-Digest: pw81GzE0C+Tb5spkIq7nPF5zV9o=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_PE
+SHA1-Digest: ZLoBBZzFsdGdnM3Op2b2hmjn2GQ=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_PF
+SHA1-Digest: nfap1CEjtquI3PHJ6PjbUPIXh9A=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_PG
+SHA1-Digest: 40YjB7Ix+DloxGFopd0tvLwoGU8=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_PH
+SHA1-Digest: oyFRDABk7vCcL37MVCs6mZsBkDU=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_PK
+SHA1-Digest: ELFF9lkcM5kN7s4iIKeeTqXFk1A=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_PL
+SHA1-Digest: yxfO74kcbhvEKjhNpiGkIoHp67I=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_PM
+SHA1-Digest: IzycsEiEG5BEaz/wHTGznPdp5Po=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_PR
+SHA1-Digest: VFeftAVGfZDpPgHOATKdHulxzm4=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_PS
+SHA1-Digest: AzIjkCH2RdGIy3ggBsNmhdl+i/o=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_PT
+SHA1-Digest: Bu56Znj2Z1RGqr3Dvm/bJP9oPig=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_PW
+SHA1-Digest: lhraRJ18YPHFJZZMLKKg1Oav2Ws=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_PY
+SHA1-Digest: OhWM1OG7OPcrDXuoZh1jSVTeZs4=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_QA
+SHA1-Digest: iphAb5ywauWkl6b82EElFpuwHP0=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_RE
+SHA1-Digest: oIwsg1ERA/hrHxjqkSoE/DgmhZQ=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_RO
+SHA1-Digest: RmTxgEbitzelDQuzmpjKXRyCs9o=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_RS
+SHA1-Digest: CDVvnzSCvluOyEWuPuXRa1aAOKU=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_RU
+SHA1-Digest: QXnThhrU2WuZfTpm1HWllsdsFfo=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_RW
+SHA1-Digest: lJoaqFYTujPvWO+QGjFZuWlNVlU=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_SA
+SHA1-Digest: hfJqwUwBsMHNw+rvsYA2BzOwZu0=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_SB
+SHA1-Digest: EG36XZfWSQUVjL61mwZUjrZ3wlI=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_SC
+SHA1-Digest: gA3cwEDXwzwM6jZt6rMT7BlvCgs=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_SD
+SHA1-Digest: 0B5CbiWIkgyg1ay5iqoEVFKBKEA=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_SE
+SHA1-Digest: NpsuJnZuGS2FXe2qm4MC6ssJ64I=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_SG
+SHA1-Digest: 5s9OkHXbM60g7KAKRO0xt9tgp+8=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_SH
+SHA1-Digest: iNBlQo0MWEveJspMqlpx12BiCh8=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_SI
+SHA1-Digest: rBbjPd06gkIppkpPBd2WKly4EIg=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_SJ
+SHA1-Digest: dRCysDFWrdFWTvdOxj9KeMQ5zBQ=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_SK
+SHA1-Digest: 9VjZ7P7Sp8atkc9GEUgYqNl84yk=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_SL
+SHA1-Digest: 6e30TjjVsk8+LrAoNmHn9uJcxRg=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_SM
+SHA1-Digest: CZFslhwAC2rlIh4mFxqBAh2ARuw=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_SN
+SHA1-Digest: Mh58YPZ6EzuHgSCyJEUO9OBP+cM=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_SO
+SHA1-Digest: kXjg59gtS9bFjOIMLJjUtp8usNU=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_SR
+SHA1-Digest: HSfUOoQDeOJ2xiR5xEbbGjCUhUk=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_ST
+SHA1-Digest: JWBQA33Jl5XCqO6ITaFBHFvbbn4=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_SV
+SHA1-Digest: EbBkZhLRPYWnt2LoBv9ICjnC1z8=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_SX
+SHA1-Digest: etC1vIPiC9G1lwR5zhQ40YxWViA=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_SY
+SHA1-Digest: dc9LVz0zP7d8lVyiS24JFcBr2yk=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_SZ
+SHA1-Digest: 6AZseoUABCzD+dSJMus90BXqfI4=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_TC
+SHA1-Digest: HFLHsZu5L03zj2ESlbHfwz5yYVI=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_TD
+SHA1-Digest: ND1ycX3S7/813XIoWyCvn5MdLKs=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_TG
+SHA1-Digest: ATVgC7l+/0Cpysx2tAUoxYyvt9s=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_TH
+SHA1-Digest: 74JvV0qY4afZr7vwGIx9ZEX1W8Y=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_TJ
+SHA1-Digest: HcJ4YG7U713B5qfJRKJYOSCL6Gs=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_TL
+SHA1-Digest: HLNOY+zTuCD8up4A/R3s9aZmHKU=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_TM
+SHA1-Digest: Uxly/0Tl+ImirH2FUmPI2E2EkP8=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_TN
+SHA1-Digest: IAG2wBkvSB7I4Oj3CB6cLMPc8iw=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_TO
+SHA1-Digest: QNTKCRU919pJo83zPY9IVJ93wVA=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_TR
+SHA1-Digest: RAQ1KJ3LeSi6cIuN4YstjawIWyU=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_TT
+SHA1-Digest: b817wHhW3SaOR6CfYAW+1+E5pHI=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_TV
+SHA1-Digest: nkYTc5nz8Mmz/Wpewd9FlcQQyMU=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_TW
+SHA1-Digest: TK0Fs/PCjQsfWZQbx4Cle+glSgs=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_TZ
+SHA1-Digest: W/CxfRZd65KeT0SeTWsxsnCyfws=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_UA
+SHA1-Digest: jrJQDGdUFF3Z3AeNQjBlhWvdRaw=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_UG
+SHA1-Digest: kV9hUzPeIkfnYviUMw8hsqoukM4=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_US
+SHA1-Digest: fiZa0dvDaVOfzlGDXxXdjQLNAic=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_UY
+SHA1-Digest: kNDowfC2nuBmXbjIROweZiqUik4=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_UZ
+SHA1-Digest: 1lboTdabA34fgOZ8Q+8oYk7XyRE=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_VA
+SHA1-Digest: ns8JPJel7Ki3JcPEyuPkTYI0erE=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_VC
+SHA1-Digest: SnXDqNXadc17pYnDE4WIodANTiI=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_VE
+SHA1-Digest: EHKp6vxrpXofzgW9STvuRclvHZ8=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_VG
+SHA1-Digest: zrSWru0813ZxIcmIE+wtftNB0cY=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_VI
+SHA1-Digest: 7iriMfuCfWE5vDmqk1aaVzCA1yE=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_VN
+SHA1-Digest: Z27+Ceh1Y7zfd36g/k7psKGa7Do=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_VU
+SHA1-Digest: g30J2tJ3C5sceAoxbSfhVghHQ44=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_WF
+SHA1-Digest: vG2IPxY5ysGMpcLrJ0JsFVYRIPA=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_WS
+SHA1-Digest: a9eWXGRjjFdJ0MJ8hmf+JSfVl2I=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_YE
+SHA1-Digest: chjl2E3jqldjYKrj4HVBZNaDbuE=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_YT
+SHA1-Digest: xeR0dqKdsaWqxc2vcmoxBRAi8Mo=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_ZA
+SHA1-Digest: q1+D4HaZM+sMYgXJnju5YoX2qek=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_ZM
+SHA1-Digest: maSk5j9mTIjsgJia41cop47yV/Y=
+
+Name: com/google/android/libraries/phonenumbers/data/ShortNumberMetada
+ taProto_ZW
+SHA1-Digest: bDky8tDwzPK2I2inWy4LsrObfjM=
+
+Name: com/google/api/client/repackaged/org/apache/commons/codec/langua
+ ge/dmrules.txt
+SHA1-Digest: oq3DYCOFBx+GwYIeoMSjXb7ISBc=
+
+Name: lib/armeabi-v7a/libcronet.63.0.3233.3.so
+SHA1-Digest: aUepCxhKXJShsY8DyTiKfmsFrJc=
+
+Name: lib/armeabi-v7a/libcurve25519.so
+SHA1-Digest: J6StNnvzVl/COjjKpBLK4ehvqOw=
+
+Name: lib/armeabi-v7a/libfilterframework_jni.so
+SHA1-Digest: On2uMu/sgdVQiBS9NeIa7k60WQw=
+
+Name: lib/armeabi-v7a/libjingle_peerconnection_so.so
+SHA1-Digest: u8hrhHLp+AOQRUqn3lDmOGRlbjg=
+
+Name: org/achartengine/image/zoom-1.png
+SHA1-Digest: pgbFWKrA/2/sF0BNcNPxdVbDjVE=
+
+Name: org/achartengine/image/zoom_in.png
+SHA1-Digest: 8BdHj5K0I7rn17mdrqnDMNYpb30=
+
+Name: org/achartengine/image/zoom_out.png
+SHA1-Digest: HWsYDP3/t8o1MVA+fRdTWspICt8=
+
+Name: org/joda/time/format/messages.properties
+SHA1-Digest: +SEXQk/pOqFNeq/caUi4jhWoMVo=
+
+Name: org/joda/time/format/messages_da.properties
+SHA1-Digest: vh5wD5qEuNrpgwJON5iELZL0RHw=
+
+Name: org/joda/time/format/messages_de.properties
+SHA1-Digest: BUWYTUhdVj8JIYPiUIt17Scmb8Q=
+
+Name: org/joda/time/format/messages_en.properties
+SHA1-Digest: 2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+
+Name: org/joda/time/format/messages_es.properties
+SHA1-Digest: zM0aNZB4EI63Cu1RJ4xlBorEEKo=
+
+Name: org/joda/time/format/messages_fr.properties
+SHA1-Digest: 0ecz7EUxVKcmp8a0aoEvw4tHgRE=
+
+Name: org/joda/time/format/messages_ja.properties
+SHA1-Digest: Z3h2G0TG/kjr+rV16EStyfkIltk=
+
+Name: org/joda/time/format/messages_nl.properties
+SHA1-Digest: SYZ6hEwgowatuwyRlhQ7tWVs8BM=
+
+Name: org/joda/time/format/messages_pt.properties
+SHA1-Digest: /lH8u8cWPsYyOkz5nEBw3FpzaZ0=
+
+Name: org/joda/time/tz/data/Africa/Abidjan
+SHA1-Digest: a9ZJ2vrcC0vLaScp9hAj0P9qiQs=
+
+Name: org/joda/time/tz/data/Africa/Accra
+SHA1-Digest: 63np32dxKS/G3RhDH780aOp7K1c=
+
+Name: org/joda/time/tz/data/Africa/Algiers
+SHA1-Digest: Evw6mKbbIbXBJL3+O+s7ns57xKY=
+
+Name: org/joda/time/tz/data/Africa/Bissau
+SHA1-Digest: vbjcXUhJItUuBjCdBdaE2g4zrZk=
+
+Name: org/joda/time/tz/data/Africa/Cairo
+SHA1-Digest: yxsQs+FB8+K5+SEmYvYnjKGDJrs=
+
+Name: org/joda/time/tz/data/Africa/Casablanca
+SHA1-Digest: l81Nlqdg+8to2HFQsS21zf+luyY=
+
+Name: org/joda/time/tz/data/Africa/Ceuta
+SHA1-Digest: TlXnm8h1k6y3X+iV5YdsvNMvqrQ=
+
+Name: org/joda/time/tz/data/Africa/El_Aaiun
+SHA1-Digest: itFu2aawJl/nOGBV0+dlwJZf7BU=
+
+Name: org/joda/time/tz/data/Africa/Johannesburg
+SHA1-Digest: SDwqhqa2wmQdkYSq+NGsYOfDILg=
+
+Name: org/joda/time/tz/data/Africa/Khartoum
+SHA1-Digest: VLPhBWb70WHHyPw0x65zAgqOxBY=
+
+Name: org/joda/time/tz/data/Africa/Lagos
+SHA1-Digest: Wnq0rx3MPdQfc+MyvNtAOYLRQrg=
+
+Name: org/joda/time/tz/data/Africa/Maputo
+SHA1-Digest: lxMaozjeE0hK/j6vIr7gJGCS+Gc=
+
+Name: org/joda/time/tz/data/Africa/Monrovia
+SHA1-Digest: 8OljcKHmPspZk378RKh2YltbedM=
+
+Name: org/joda/time/tz/data/Africa/Nairobi
+SHA1-Digest: Gt482YgJYk+mY5cxzRWvSUjbp1Y=
+
+Name: org/joda/time/tz/data/Africa/Ndjamena
+SHA1-Digest: VbVDNmBbRwgTFgmANODKzN/wGCM=
+
+Name: org/joda/time/tz/data/Africa/Tripoli
+SHA1-Digest: t37FpKvVRBqa1j3VcWDepWoAVr8=
+
+Name: org/joda/time/tz/data/Africa/Tunis
+SHA1-Digest: HiKeX7GHXjGmlQYXTqvTGtE647Y=
+
+Name: org/joda/time/tz/data/Africa/Windhoek
+SHA1-Digest: DX3PLW69JqpMhKI8uaxsX6BVRNw=
+
+Name: org/joda/time/tz/data/America/Adak
+SHA1-Digest: XZY2LMCQ8rkey5/Wkxtt923mY30=
+
+Name: org/joda/time/tz/data/America/Anchorage
+SHA1-Digest: kwtL6HqiG4/uCgKQTAOieV9dWiE=
+
+Name: org/joda/time/tz/data/America/Araguaina
+SHA1-Digest: YP4cPY7/jrz5z629CaQ03EzBVU4=
+
+Name: org/joda/time/tz/data/America/Argentina/Buenos_Aires
+SHA1-Digest: AZ5VrXoVZ505FiAQXZt7o2IQGDk=
+
+Name: org/joda/time/tz/data/America/Argentina/Catamarca
+SHA1-Digest: WNnZ0G9Zpyr4I2GtAGRyvCWYcH0=
+
+Name: org/joda/time/tz/data/America/Argentina/Cordoba
+SHA1-Digest: y8UGwzruonq7SHvnBlK9KHGpGbs=
+
+Name: org/joda/time/tz/data/America/Argentina/Jujuy
+SHA1-Digest: 8nl1vTSDxXf3tPhP7JsCY2IZvEo=
+
+Name: org/joda/time/tz/data/America/Argentina/La_Rioja
+SHA1-Digest: xTOQ/+kh9x9L1KDNBuVSSnRQUWw=
+
+Name: org/joda/time/tz/data/America/Argentina/Mendoza
+SHA1-Digest: dELxOYU5hKPUte4SeLSnUGKdXFc=
+
+Name: org/joda/time/tz/data/America/Argentina/Rio_Gallegos
+SHA1-Digest: E4Ubl4ScXwur6W7sh4XKxqkBp5A=
+
+Name: org/joda/time/tz/data/America/Argentina/Salta
+SHA1-Digest: TipuT5FBAR2QNO0+Q2bxdY/2FGo=
+
+Name: org/joda/time/tz/data/America/Argentina/San_Juan
+SHA1-Digest: zJKWFCeKaY+G9oo8zDG2CX++lfs=
+
+Name: org/joda/time/tz/data/America/Argentina/San_Luis
+SHA1-Digest: N4GQIaNcXHJtdBBUvPhZioKRv8E=
+
+Name: org/joda/time/tz/data/America/Argentina/Tucuman
+SHA1-Digest: 2uSUAt2PiXQW3bAVmlIBUndBc3Q=
+
+Name: org/joda/time/tz/data/America/Argentina/Ushuaia
+SHA1-Digest: +c5NA5Xl2RyQfS2diIkdeoapK1g=
+
+Name: org/joda/time/tz/data/America/Asuncion
+SHA1-Digest: pTJvZCf3QU0ICo1/Rmv4YPTNPbM=
+
+Name: org/joda/time/tz/data/America/Atikokan
+SHA1-Digest: qXHx0xM7aeWXURmoeE1dTAhfwrE=
+
+Name: org/joda/time/tz/data/America/Bahia
+SHA1-Digest: GxxR80lsoiywCo0fbSogkIApLaU=
+
+Name: org/joda/time/tz/data/America/Bahia_Banderas
+SHA1-Digest: hvuqxh98HGIm+KqhxPa4L6wVJTQ=
+
+Name: org/joda/time/tz/data/America/Barbados
+SHA1-Digest: yG6gPmX3uf3Cxzr/QJU090GwZXU=
+
+Name: org/joda/time/tz/data/America/Belem
+SHA1-Digest: ou6nQ9SsYqN7QIx4SOB6ZARfWAM=
+
+Name: org/joda/time/tz/data/America/Belize
+SHA1-Digest: x70d3R/Zrty8bnR1fpWflz/4nsg=
+
+Name: org/joda/time/tz/data/America/Blanc-Sablon
+SHA1-Digest: 1b7B0oESGnZbgR5ZS/GrT3XtYXY=
+
+Name: org/joda/time/tz/data/America/Boa_Vista
+SHA1-Digest: Sv69Dxsm1vTjAarZtynjJ+qvijw=
+
+Name: org/joda/time/tz/data/America/Bogota
+SHA1-Digest: TtRhdo/8EoYUD3waSMQD8RiDSCw=
+
+Name: org/joda/time/tz/data/America/Boise
+SHA1-Digest: mm/MaqlKbeoaEzwQOqtKDYCA8Og=
+
+Name: org/joda/time/tz/data/America/Cambridge_Bay
+SHA1-Digest: qcQLBLeLaG8dyjogWldXhz1Q7G8=
+
+Name: org/joda/time/tz/data/America/Campo_Grande
+SHA1-Digest: DNMkfVqcHbAip4vftkTHizxOjR4=
+
+Name: org/joda/time/tz/data/America/Cancun
+SHA1-Digest: 0cE1EsYIIONfTL1yHz6g4MDEfDw=
+
+Name: org/joda/time/tz/data/America/Caracas
+SHA1-Digest: nm/dGtDEWOnX5zGkvjN39BxLUho=
+
+Name: org/joda/time/tz/data/America/Cayenne
+SHA1-Digest: /TA7oHCGoflzfuuq/XvEPmH95Ik=
+
+Name: org/joda/time/tz/data/America/Chicago
+SHA1-Digest: 6vHOmq424IcFmYzrF7ojM6DHBL8=
+
+Name: org/joda/time/tz/data/America/Chihuahua
+SHA1-Digest: XmskBVizfDXULiC0zSFeUc7EzCQ=
+
+Name: org/joda/time/tz/data/America/Costa_Rica
+SHA1-Digest: WDxa8TsobEEu3vo2Lkre8hMYGBc=
+
+Name: org/joda/time/tz/data/America/Creston
+SHA1-Digest: 5WQ71APd3MXXL/v6n9ZZ9zmS+WA=
+
+Name: org/joda/time/tz/data/America/Cuiaba
+SHA1-Digest: Ur0I+Zs4os9BkjuNpggHTaVmmjo=
+
+Name: org/joda/time/tz/data/America/Curacao
+SHA1-Digest: 1CkxWukRnYcIrZmJniIQbUAOQdI=
+
+Name: org/joda/time/tz/data/America/Danmarkshavn
+SHA1-Digest: AkSxTsQYqNvJBI/f4OrBg4TQtYQ=
+
+Name: org/joda/time/tz/data/America/Dawson
+SHA1-Digest: Y53/1eisZUECZD0XIP798vh8fsg=
+
+Name: org/joda/time/tz/data/America/Dawson_Creek
+SHA1-Digest: 8oHmmySTCz/I3o/8ugFYUsNVswA=
+
+Name: org/joda/time/tz/data/America/Denver
+SHA1-Digest: RQFI3fvbUj0FFCakfhqR47377CE=
+
+Name: org/joda/time/tz/data/America/Detroit
+SHA1-Digest: 2JV7k1x2s4pjT3CZiJFk9KixG9Y=
+
+Name: org/joda/time/tz/data/America/Edmonton
+SHA1-Digest: N4NcSemFHh/BTDohwXKxMRTQvks=
+
+Name: org/joda/time/tz/data/America/Eirunepe
+SHA1-Digest: djiWJnku5FU6VvbFVp39o9/aB84=
+
+Name: org/joda/time/tz/data/America/El_Salvador
+SHA1-Digest: 0nTcn3VI/UFiOABa978pOMe+Sb8=
+
+Name: org/joda/time/tz/data/America/Fort_Nelson
+SHA1-Digest: VFmn9cZUHjVIV+ZwkFjT1w7oGQ4=
+
+Name: org/joda/time/tz/data/America/Fortaleza
+SHA1-Digest: BBWoObeJPZEN4KurB1QacKcRH3Q=
+
+Name: org/joda/time/tz/data/America/Glace_Bay
+SHA1-Digest: TxFT4Gij6VzTZbpHEEcMnrY63Bg=
+
+Name: org/joda/time/tz/data/America/Godthab
+SHA1-Digest: wM+5z0pz2Yn0K0U26bhyzp7+78w=
+
+Name: org/joda/time/tz/data/America/Goose_Bay
+SHA1-Digest: eTbrOZgnxaS0mmNBpyIMXI2qTGE=
+
+Name: org/joda/time/tz/data/America/Grand_Turk
+SHA1-Digest: WwZ64bM5oEOiStnfq5aBFYh+X4o=
+
+Name: org/joda/time/tz/data/America/Guatemala
+SHA1-Digest: PpwYBUhdJVUhjwiaHsEcgWuqdFE=
+
+Name: org/joda/time/tz/data/America/Guayaquil
+SHA1-Digest: s57753aTmbIncQu/Chu+rxbsYRw=
+
+Name: org/joda/time/tz/data/America/Guyana
+SHA1-Digest: Pg8AXuTh4YEYTw8K61I6vLPiPvc=
+
+Name: org/joda/time/tz/data/America/Halifax
+SHA1-Digest: j/ga40F0uwR8LskDc893WdWemcE=
+
+Name: org/joda/time/tz/data/America/Havana
+SHA1-Digest: d5vQmkRDuHzEJUZ+U5WkKjGrXYE=
+
+Name: org/joda/time/tz/data/America/Hermosillo
+SHA1-Digest: XXuIZM1HJ5Ptio9zZgNjOYrF2Jo=
+
+Name: org/joda/time/tz/data/America/Indiana/Indianapolis
+SHA1-Digest: kkUVCmrKJ29HTtAA1Q26z7kipUc=
+
+Name: org/joda/time/tz/data/America/Indiana/Knox
+SHA1-Digest: 6lZE00+4/pGtxplFvkRiLCzI0y0=
+
+Name: org/joda/time/tz/data/America/Indiana/Marengo
+SHA1-Digest: WXvlpPOucm9adFtgLXduWCegFRI=
+
+Name: org/joda/time/tz/data/America/Indiana/Petersburg
+SHA1-Digest: aJN6YK1NpKe6hc3QgNgYBm6Old8=
+
+Name: org/joda/time/tz/data/America/Indiana/Tell_City
+SHA1-Digest: T0PnvsRvF03KrI28uEL/ftO5xJw=
+
+Name: org/joda/time/tz/data/America/Indiana/Vevay
+SHA1-Digest: IRhYpxBGqvK+T7TI2NiDOJ66w2I=
+
+Name: org/joda/time/tz/data/America/Indiana/Vincennes
+SHA1-Digest: S1pCAVXqKVTn8poHmTVTaAFpBvQ=
+
+Name: org/joda/time/tz/data/America/Indiana/Winamac
+SHA1-Digest: /7rJaOEYLJUQfL3ZJ3SXq+uEB+Y=
+
+Name: org/joda/time/tz/data/America/Inuvik
+SHA1-Digest: QvYf5RJSrYx8+dbqDodS0jnAZeg=
+
+Name: org/joda/time/tz/data/America/Iqaluit
+SHA1-Digest: PIqfllazkLLlMVdAFU88Gc0XQ2M=
+
+Name: org/joda/time/tz/data/America/Jamaica
+SHA1-Digest: z7oW9wcrzsRh1pby6x/1I1ktP6M=
+
+Name: org/joda/time/tz/data/America/Juneau
+SHA1-Digest: G2NaHFhN5nUpS3rfJ6Gk9QjGnGA=
+
+Name: org/joda/time/tz/data/America/Kentucky/Louisville
+SHA1-Digest: 6E7XJDpfR/ZpsPudM4hKvZljLU0=
+
+Name: org/joda/time/tz/data/America/Kentucky/Monticello
+SHA1-Digest: kM0RWzkQa+40WiwRBSHxI2fBgIM=
+
+Name: org/joda/time/tz/data/America/La_Paz
+SHA1-Digest: x4BAORWlNl1svRprnWHTvCQQQOs=
+
+Name: org/joda/time/tz/data/America/Lima
+SHA1-Digest: KSwwIGemeXGm7nFFqBBl00sfVzQ=
+
+Name: org/joda/time/tz/data/America/Los_Angeles
+SHA1-Digest: HvFXCLA7DMujEB3syYSbEz/LhR4=
+
+Name: org/joda/time/tz/data/America/Maceio
+SHA1-Digest: Vz0dZoJgPLkrNYJm7fjEJrVh9/w=
+
+Name: org/joda/time/tz/data/America/Managua
+SHA1-Digest: ZNM2OebP0CnBYNrDAX7Ru3LfgJE=
+
+Name: org/joda/time/tz/data/America/Manaus
+SHA1-Digest: Y7eBpogVZXZMvdmjQaNC3CWOJTQ=
+
+Name: org/joda/time/tz/data/America/Martinique
+SHA1-Digest: CvEKuDoakgHg51nMKhWyPwLJLQI=
+
+Name: org/joda/time/tz/data/America/Matamoros
+SHA1-Digest: 9TtxaetdSuoglIVVo7ZZF7YGgF0=
+
+Name: org/joda/time/tz/data/America/Mazatlan
+SHA1-Digest: fvApuA6Uu6FZV8zbeH6Nf5FTXQ4=
+
+Name: org/joda/time/tz/data/America/Menominee
+SHA1-Digest: 2L6rwD3U77UoTpaXtlcnujfL6mk=
+
+Name: org/joda/time/tz/data/America/Merida
+SHA1-Digest: gqJEzaeztvujdLytOAE+BRjroeM=
+
+Name: org/joda/time/tz/data/America/Metlakatla
+SHA1-Digest: rOIY+CsxTewTVpafDDUA86y+75g=
+
+Name: org/joda/time/tz/data/America/Mexico_City
+SHA1-Digest: ZBcSK9YZvPweP12T4WCWlYeWlVA=
+
+Name: org/joda/time/tz/data/America/Miquelon
+SHA1-Digest: lTMpDPtBAVG+D+vJgbKFx6gl6SU=
+
+Name: org/joda/time/tz/data/America/Moncton
+SHA1-Digest: 4YRzFj/1WQfKFkCFCVXbfjas93w=
+
+Name: org/joda/time/tz/data/America/Monterrey
+SHA1-Digest: auuU976//wSdvkbUr+80kpisdVE=
+
+Name: org/joda/time/tz/data/America/Montevideo
+SHA1-Digest: IRAnvSMLw8YPK56SQ5XgG37+saE=
+
+Name: org/joda/time/tz/data/America/Nassau
+SHA1-Digest: xC9M4iy033PT+wwR1hsH4OyIb2w=
+
+Name: org/joda/time/tz/data/America/New_York
+SHA1-Digest: ZdkqmnuYtMCIU3rj3AVmGn/OIB8=
+
+Name: org/joda/time/tz/data/America/Nipigon
+SHA1-Digest: dr4JoaPi+huPYQKqorBLOGsEzwc=
+
+Name: org/joda/time/tz/data/America/Nome
+SHA1-Digest: bgnmqC8XqchaVPqnhbrUiirWWfw=
+
+Name: org/joda/time/tz/data/America/Noronha
+SHA1-Digest: Fp1SSeSq5P5WhUf4Rin4wIaGOYU=
+
+Name: org/joda/time/tz/data/America/North_Dakota/Beulah
+SHA1-Digest: BhPH0h2uq8/36TvQSvC5YQvzfBg=
+
+Name: org/joda/time/tz/data/America/North_Dakota/Center
+SHA1-Digest: 6HZvkpK+IlyAMRPkIstRIZBgua4=
+
+Name: org/joda/time/tz/data/America/North_Dakota/New_Salem
+SHA1-Digest: lZ2YlA7MwYej7ItdnP3sZsYeAmw=
+
+Name: org/joda/time/tz/data/America/Ojinaga
+SHA1-Digest: X2ct4huvio1fb06hOm6WgeqYrXY=
+
+Name: org/joda/time/tz/data/America/Panama
+SHA1-Digest: xmqdrJYWn+8uRhXuODn+CbwoZKo=
+
+Name: org/joda/time/tz/data/America/Pangnirtung
+SHA1-Digest: 3WWtNam4EGpZgkQq4mjPZdWPOhs=
+
+Name: org/joda/time/tz/data/America/Paramaribo
+SHA1-Digest: eFgRTztlPJ9rAFMUtV4Q1TMxP8E=
+
+Name: org/joda/time/tz/data/America/Phoenix
+SHA1-Digest: Xn04toDLPanW1p1axNgmRvjUCds=
+
+Name: org/joda/time/tz/data/America/Port-au-Prince
+SHA1-Digest: 9YYsHwGXE0c3ejnoj2DI6XFP3v4=
+
+Name: org/joda/time/tz/data/America/Port_of_Spain
+SHA1-Digest: tPX57tjxhQyL1YxjO83JBFUR1Ng=
+
+Name: org/joda/time/tz/data/America/Porto_Velho
+SHA1-Digest: jU3dYA9A1IYgQjOXpjSWWgwd7do=
+
+Name: org/joda/time/tz/data/America/Puerto_Rico
+SHA1-Digest: BhmeuDnUQey8B14nTs356ZZFu48=
+
+Name: org/joda/time/tz/data/America/Punta_Arenas
+SHA1-Digest: EdVNIyZ85BB3xJEWI8bbobucQqk=
+
+Name: org/joda/time/tz/data/America/Rainy_River
+SHA1-Digest: ACc1LFAf2h9UcU+5uKCPoHLWJDg=
+
+Name: org/joda/time/tz/data/America/Rankin_Inlet
+SHA1-Digest: p73nMIsMMfsRvqnPA/+/J29YYtk=
+
+Name: org/joda/time/tz/data/America/Recife
+SHA1-Digest: D1aXfpt9HWbOuWmLWC6XFM++D0A=
+
+Name: org/joda/time/tz/data/America/Regina
+SHA1-Digest: Z+GZTngz4Zz7yYtIDQUBZzVdBhc=
+
+Name: org/joda/time/tz/data/America/Resolute
+SHA1-Digest: KWHKKpwJKgyjox0r2ePmukmxpDc=
+
+Name: org/joda/time/tz/data/America/Rio_Branco
+SHA1-Digest: y+f/nR2uPbRam8Ee872H8CMGswE=
+
+Name: org/joda/time/tz/data/America/Santarem
+SHA1-Digest: 3Wcoc8g+QPcG/C98pAp7qRn6SuA=
+
+Name: org/joda/time/tz/data/America/Santiago
+SHA1-Digest: t2uaMHSrs56lGPyvgoWKKjZ116E=
+
+Name: org/joda/time/tz/data/America/Santo_Domingo
+SHA1-Digest: E0IUFxqkt2hWOZgDgfJhwoHITOA=
+
+Name: org/joda/time/tz/data/America/Sao_Paulo
+SHA1-Digest: lY5814YyBsHdUzMS71rxALdtots=
+
+Name: org/joda/time/tz/data/America/Scoresbysund
+SHA1-Digest: aKtRuSC7Iv0SLj4uw7KAwSqVY9o=
+
+Name: org/joda/time/tz/data/America/Sitka
+SHA1-Digest: PTQIGtf1Rl3Y4mI4w2y56xCfEss=
+
+Name: org/joda/time/tz/data/America/St_Johns
+SHA1-Digest: TEmKQR0I/emNBMnI/GsLtBtI9j4=
+
+Name: org/joda/time/tz/data/America/Swift_Current
+SHA1-Digest: TvliKm4nfc1+T5yrKs+8JeVnssE=
+
+Name: org/joda/time/tz/data/America/Tegucigalpa
+SHA1-Digest: 30xTyk7v8E7x33I/e47KWlJszKs=
+
+Name: org/joda/time/tz/data/America/Thule
+SHA1-Digest: GfEsCFPYwGuOP1PWxM2lDfpj724=
+
+Name: org/joda/time/tz/data/America/Thunder_Bay
+SHA1-Digest: m+zAjVLlafQ1rL96UXFnFcpd5uc=
+
+Name: org/joda/time/tz/data/America/Tijuana
+SHA1-Digest: MsfXgXC948g7B3s5TJwgIS7UIcI=
+
+Name: org/joda/time/tz/data/America/Toronto
+SHA1-Digest: IFPsTG9AlNu9X3elh7voXtp921s=
+
+Name: org/joda/time/tz/data/America/Vancouver
+SHA1-Digest: CI0Ra8y1s6Oin0qpV6/gxg3d8sc=
+
+Name: org/joda/time/tz/data/America/Whitehorse
+SHA1-Digest: fKZNkcrSHLC8MQLG4FkRotKKz9E=
+
+Name: org/joda/time/tz/data/America/Winnipeg
+SHA1-Digest: Km/ND/3J7ShK8PaxHYpb5E5ht+A=
+
+Name: org/joda/time/tz/data/America/Yakutat
+SHA1-Digest: /ts4MXTuGtri8sXNsBN3YJPbzm0=
+
+Name: org/joda/time/tz/data/America/Yellowknife
+SHA1-Digest: lfXK4o5UJ+wIHggErY2+EiyTQzI=
+
+Name: org/joda/time/tz/data/Antarctica/Casey
+SHA1-Digest: 9DumrXJvgWgrl3wcCYEs1zHGVAM=
+
+Name: org/joda/time/tz/data/Antarctica/Davis
+SHA1-Digest: JzqaQjN89+dCh6BoQtWSH003ees=
+
+Name: org/joda/time/tz/data/Antarctica/DumontDUrville
+SHA1-Digest: fcN1W3n4Rk97fuBoPQBHYLIoIPw=
+
+Name: org/joda/time/tz/data/Antarctica/Macquarie
+SHA1-Digest: bKiDETlCdQD8c923m/RTTygwSO0=
+
+Name: org/joda/time/tz/data/Antarctica/Mawson
+SHA1-Digest: tQin6knCpFOa3nH9k7kCKI1U7hU=
+
+Name: org/joda/time/tz/data/Antarctica/Palmer
+SHA1-Digest: xu4Rj7qVPg1lBD1Z6XpoqZwO6sw=
+
+Name: org/joda/time/tz/data/Antarctica/Rothera
+SHA1-Digest: izPTmZ0Ty83P7XCLvGeoFv78nvY=
+
+Name: org/joda/time/tz/data/Antarctica/Syowa
+SHA1-Digest: jb8N7ikYTVCkanhDgPp/XBOGumA=
+
+Name: org/joda/time/tz/data/Antarctica/Troll
+SHA1-Digest: 71ujG+4vpS+WhpqlYl9N70NK8Z8=
+
+Name: org/joda/time/tz/data/Antarctica/Vostok
+SHA1-Digest: m1ymicGPwrL821hkPKn+dywXK1Q=
+
+Name: org/joda/time/tz/data/Asia/Almaty
+SHA1-Digest: hbsIbGHMhPZJZWUhzSd/IeGqf6A=
+
+Name: org/joda/time/tz/data/Asia/Amman
+SHA1-Digest: ZD/3hyUEfwqG8a/l9eGIe2ExbA8=
+
+Name: org/joda/time/tz/data/Asia/Anadyr
+SHA1-Digest: 1Fp3zyh27kP4yH9PIJN8ZYWYiG8=
+
+Name: org/joda/time/tz/data/Asia/Aqtau
+SHA1-Digest: XdQw9062p3UaUV0nQA/DcsINakM=
+
+Name: org/joda/time/tz/data/Asia/Aqtobe
+SHA1-Digest: ShVvURBZDFeJGZnKjR0LSh3fQSA=
+
+Name: org/joda/time/tz/data/Asia/Ashgabat
+SHA1-Digest: dvBfi5IdS/t3li74jF0qDs2I0ps=
+
+Name: org/joda/time/tz/data/Asia/Atyrau
+SHA1-Digest: jWowo0lnChKUokL7r039/kCXc5w=
+
+Name: org/joda/time/tz/data/Asia/Baghdad
+SHA1-Digest: 3PBjEiHxAESftzRWeuZYFTWbweo=
+
+Name: org/joda/time/tz/data/Asia/Baku
+SHA1-Digest: TYhiMwZVq9uCsm4LoW68LQHRUeA=
+
+Name: org/joda/time/tz/data/Asia/Bangkok
+SHA1-Digest: ZIevyIg1aRKvhxtkRGxgOYz83Uo=
+
+Name: org/joda/time/tz/data/Asia/Barnaul
+SHA1-Digest: cCl3yks3Tykrb2M/T4gFSUgf0aI=
+
+Name: org/joda/time/tz/data/Asia/Beirut
+SHA1-Digest: lKV6nVD0leL5LyDs4yQobL7FgKM=
+
+Name: org/joda/time/tz/data/Asia/Bishkek
+SHA1-Digest: 3f7kgXvxG+1V73jUlGzszR7qUdk=
+
+Name: org/joda/time/tz/data/Asia/Brunei
+SHA1-Digest: jA5GLQ2oUGG8JnLfIgDbqNHhce4=
+
+Name: org/joda/time/tz/data/Asia/Calcutta
+SHA1-Digest: wjLf7vUghXycQ2ZVB11a/hR/1d4=
+
+Name: org/joda/time/tz/data/Asia/Chita
+SHA1-Digest: vM9Vuode8DVIL71Q30EVFQR6VwM=
+
+Name: org/joda/time/tz/data/Asia/Choibalsan
+SHA1-Digest: 8UYtWPUqzFzKNIUlKjmMUl+ntyg=
+
+Name: org/joda/time/tz/data/Asia/Colombo
+SHA1-Digest: Y/omLhUiIhzJOXFewRA4PcTf0Ng=
+
+Name: org/joda/time/tz/data/Asia/Damascus
+SHA1-Digest: p12BtaMvLy2BODHfblgF4frLYUI=
+
+Name: org/joda/time/tz/data/Asia/Dhaka
+SHA1-Digest: ZnlO0K6oR4tBKRLdSVSC5cbSPJI=
+
+Name: org/joda/time/tz/data/Asia/Dili
+SHA1-Digest: CmsJ0vSddR2rqUeJsJGSejJky8o=
+
+Name: org/joda/time/tz/data/Asia/Dubai
+SHA1-Digest: H33zz6bK7cE5KRjaL4eAjoWiTUg=
+
+Name: org/joda/time/tz/data/Asia/Dushanbe
+SHA1-Digest: KTbJhVU5yrmltKrHB/IJEXtt+Eo=
+
+Name: org/joda/time/tz/data/Asia/Famagusta
+SHA1-Digest: sWgjJbl/x5ngBG5KkwCFHos7NKM=
+
+Name: org/joda/time/tz/data/Asia/Gaza
+SHA1-Digest: Lg+xFnpKI6UYmXycEpmXZYv2MOo=
+
+Name: org/joda/time/tz/data/Asia/Hebron
+SHA1-Digest: HaGaUC1lEbKZLpeLOTCcxUzbarA=
+
+Name: org/joda/time/tz/data/Asia/Hong_Kong
+SHA1-Digest: Ctbon0Vyyk95MB36e9tH0Nq+Dv8=
+
+Name: org/joda/time/tz/data/Asia/Hovd
+SHA1-Digest: xgIRDyqMg4GFipoNEsTE8lYxCqs=
+
+Name: org/joda/time/tz/data/Asia/Irkutsk
+SHA1-Digest: iBLKq+/Zhr2TmVTkmRt1ZYowbno=
+
+Name: org/joda/time/tz/data/Asia/Jakarta
+SHA1-Digest: Grzs340BI4w7K9YxOWT3ExyjysE=
+
+Name: org/joda/time/tz/data/Asia/Jayapura
+SHA1-Digest: mP+pMY2v9OsuuBti4mNdy5kJyP4=
+
+Name: org/joda/time/tz/data/Asia/Jerusalem
+SHA1-Digest: 4EXnn/Ndr1oQlKnNEGwoHf5L5a4=
+
+Name: org/joda/time/tz/data/Asia/Kabul
+SHA1-Digest: MKghtrF0HyJT5497lj+FNybQ6HM=
+
+Name: org/joda/time/tz/data/Asia/Kamchatka
+SHA1-Digest: AOqCtfULmY65lEhEwvxbidd+yiY=
+
+Name: org/joda/time/tz/data/Asia/Karachi
+SHA1-Digest: DLYPavbAGz7BrXZWvHO2Up4t0cE=
+
+Name: org/joda/time/tz/data/Asia/Katmandu
+SHA1-Digest: VHL24A9rCwyo4pxjRWEqxjDtZD0=
+
+Name: org/joda/time/tz/data/Asia/Khandyga
+SHA1-Digest: rRHsuhBbc+r1nOD+6jWQvUY/imQ=
+
+Name: org/joda/time/tz/data/Asia/Krasnoyarsk
+SHA1-Digest: QBkxCdJTIzHFHFmWlaDWUyfBaFg=
+
+Name: org/joda/time/tz/data/Asia/Kuala_Lumpur
+SHA1-Digest: OrDxW3dgDPPWaiDOS0d8JgKpjQA=
+
+Name: org/joda/time/tz/data/Asia/Kuching
+SHA1-Digest: pXLUqWbm4zdJtl/9znIaKThOHio=
+
+Name: org/joda/time/tz/data/Asia/Macau
+SHA1-Digest: PPf95Jji+oetZ12jZExP0IzgPyA=
+
+Name: org/joda/time/tz/data/Asia/Magadan
+SHA1-Digest: 8VEC9hZ0H+zh6vrOAbZPD1QsRBk=
+
+Name: org/joda/time/tz/data/Asia/Makassar
+SHA1-Digest: W+7ACEKyJwz7WpAHKoKHRRg9ynA=
+
+Name: org/joda/time/tz/data/Asia/Manila
+SHA1-Digest: hgFro6BhXZruT07AaMTHb+X44DI=
+
+Name: org/joda/time/tz/data/Asia/Nicosia
+SHA1-Digest: oN0lyLzjmhEQCDLqwcxlmGOCKO4=
+
+Name: org/joda/time/tz/data/Asia/Novokuznetsk
+SHA1-Digest: NsYD/bGu4Vs8YPxUna43+HkHKx8=
+
+Name: org/joda/time/tz/data/Asia/Novosibirsk
+SHA1-Digest: Dp8NUQRiw0Ig8esLBy0YOG1xIV0=
+
+Name: org/joda/time/tz/data/Asia/Omsk
+SHA1-Digest: cZHyN7I5yjINTH63GL26fTU3rgk=
+
+Name: org/joda/time/tz/data/Asia/Oral
+SHA1-Digest: fvz6iWIjSxlbTnmmabwgHNhPPIA=
+
+Name: org/joda/time/tz/data/Asia/Pontianak
+SHA1-Digest: bIlw9kiobr6wsgdvrbp21N0hMiY=
+
+Name: org/joda/time/tz/data/Asia/Pyongyang
+SHA1-Digest: tldIY2pMQWBmAxnQjDLVOau5APE=
+
+Name: org/joda/time/tz/data/Asia/Qatar
+SHA1-Digest: rRXZ9c80T3/JT1YoRfHrbg5yM8Y=
+
+Name: org/joda/time/tz/data/Asia/Qyzylorda
+SHA1-Digest: DTOmSZmt5VKRMTIpUnfQu8gJxUU=
+
+Name: org/joda/time/tz/data/Asia/Riyadh
+SHA1-Digest: NXCxPZwyueOopWtwvLs3szElCeA=
+
+Name: org/joda/time/tz/data/Asia/Saigon
+SHA1-Digest: E24818UbHztqTEQQSbLKCQ1B4C8=
+
+Name: org/joda/time/tz/data/Asia/Sakhalin
+SHA1-Digest: snv3dANL7f/smMofztGafqliwpE=
+
+Name: org/joda/time/tz/data/Asia/Samarkand
+SHA1-Digest: N5WEV84JrSlrneXlN/N2VeRK/QE=
+
+Name: org/joda/time/tz/data/Asia/Seoul
+SHA1-Digest: WUNJVHVefaNQKFRWnFmz4Ck7hDo=
+
+Name: org/joda/time/tz/data/Asia/Shanghai
+SHA1-Digest: wWGsL2TwSV/iM9E3KnJ4E5Fb8PQ=
+
+Name: org/joda/time/tz/data/Asia/Singapore
+SHA1-Digest: +utnPucIxnrGHPkiRldBRSJ8cVM=
+
+Name: org/joda/time/tz/data/Asia/Srednekolymsk
+SHA1-Digest: m5LpUCnLpCmz9CVU1al+lgUPG7A=
+
+Name: org/joda/time/tz/data/Asia/Taipei
+SHA1-Digest: Ta1FfEEbUezFj/SbUTfpZFYAOns=
+
+Name: org/joda/time/tz/data/Asia/Tashkent
+SHA1-Digest: 86aVkgxDuI7MA27egLTOSgqoT0I=
+
+Name: org/joda/time/tz/data/Asia/Tbilisi
+SHA1-Digest: UkycsjExFl8SI5sqRXRhWrACBDc=
+
+Name: org/joda/time/tz/data/Asia/Tehran
+SHA1-Digest: DcrlRomPHGaSUw3bc9YDizkDU7c=
+
+Name: org/joda/time/tz/data/Asia/Thimphu
+SHA1-Digest: 8gbPYA6V0jby2H/PuhJ0ht7aJjA=
+
+Name: org/joda/time/tz/data/Asia/Tokyo
+SHA1-Digest: KPI6aeHyJuE40vIlQoK6zYFc3tw=
+
+Name: org/joda/time/tz/data/Asia/Tomsk
+SHA1-Digest: GTMB5m4oyxYie6o/UQ6KxlTRRIA=
+
+Name: org/joda/time/tz/data/Asia/Ulaanbaatar
+SHA1-Digest: rAAM8z+zhxKKATwq7ezsKKoSujg=
+
+Name: org/joda/time/tz/data/Asia/Urumqi
+SHA1-Digest: PF/dKuweKf3yXR1w0WaE2T2f34I=
+
+Name: org/joda/time/tz/data/Asia/Ust-Nera
+SHA1-Digest: YbLHQ+cf7WM8axFoLMpIZtURKqs=
+
+Name: org/joda/time/tz/data/Asia/Vladivostok
+SHA1-Digest: idgC3YUiLuhDnrSbhHcT2OOor5s=
+
+Name: org/joda/time/tz/data/Asia/Yakutsk
+SHA1-Digest: PyzJM5i6wiZFiESnXzsohz5zT90=
+
+Name: org/joda/time/tz/data/Asia/Yangon
+SHA1-Digest: o63wtt0BH02fnjGcZWnRJF9f8yY=
+
+Name: org/joda/time/tz/data/Asia/Yekaterinburg
+SHA1-Digest: B3hQXWDtlq+Heuxcpo7S6/RGyA8=
+
+Name: org/joda/time/tz/data/Asia/Yerevan
+SHA1-Digest: IFcs4KDrOcIigslOBIjzzLdBt8A=
+
+Name: org/joda/time/tz/data/Atlantic/Azores
+SHA1-Digest: 0eACEV3xroezso+HvZVveqrJ/XY=
+
+Name: org/joda/time/tz/data/Atlantic/Bermuda
+SHA1-Digest: iMvXudl73rg//hG8l2Mt7p8vw28=
+
+Name: org/joda/time/tz/data/Atlantic/Canary
+SHA1-Digest: E0FKTw1vhXlnSpV8xU9tRWQVXXk=
+
+Name: org/joda/time/tz/data/Atlantic/Cape_Verde
+SHA1-Digest: I9iM+zk0HgSVqhliX1zkARmjI/s=
+
+Name: org/joda/time/tz/data/Atlantic/Faroe
+SHA1-Digest: qW0CmwAotFYx/lPdBkL6fiHaQkM=
+
+Name: org/joda/time/tz/data/Atlantic/Madeira
+SHA1-Digest: PklOIyESQhxavXlFTf0ySmoq18Q=
+
+Name: org/joda/time/tz/data/Atlantic/Reykjavik
+SHA1-Digest: B1EMCZqVCwOODjSqCla86bITtVQ=
+
+Name: org/joda/time/tz/data/Atlantic/South_Georgia
+SHA1-Digest: 7PZYwIeJ/pG/unWuTgMYQUSku7I=
+
+Name: org/joda/time/tz/data/Atlantic/Stanley
+SHA1-Digest: xbcknbSc450Epsg5IZQ/bgAg6Gw=
+
+Name: org/joda/time/tz/data/Australia/Adelaide
+SHA1-Digest: fbPWn9G17JsgVQ74J82EbeqW0Tc=
+
+Name: org/joda/time/tz/data/Australia/Brisbane
+SHA1-Digest: o1kfdfaDcjchElY9l/HGcEIPSxc=
+
+Name: org/joda/time/tz/data/Australia/Broken_Hill
+SHA1-Digest: t3r0mxLPFx0ANXKGdrBGpNwNbxg=
+
+Name: org/joda/time/tz/data/Australia/Currie
+SHA1-Digest: FM4+MytBqgxjEfEqAh+esqDPVa8=
+
+Name: org/joda/time/tz/data/Australia/Darwin
+SHA1-Digest: amjXMLzACVfoi2GyacpSe/B2TAg=
+
+Name: org/joda/time/tz/data/Australia/Eucla
+SHA1-Digest: bY+EMJZMPgOZN88eIcj9PaDkcLI=
+
+Name: org/joda/time/tz/data/Australia/Hobart
+SHA1-Digest: WeHqmzW2zwMB4PpIRdmoi1BVI60=
+
+Name: org/joda/time/tz/data/Australia/Lindeman
+SHA1-Digest: aKusu7PJihFUDBfW4FUY5D9YVkI=
+
+Name: org/joda/time/tz/data/Australia/Lord_Howe
+SHA1-Digest: g+tA3dvP2k6NG2A0aymJ75BV5vg=
+
+Name: org/joda/time/tz/data/Australia/Melbourne
+SHA1-Digest: 8StDhn1PNLzSw62Yv8FTeqYUOBo=
+
+Name: org/joda/time/tz/data/Australia/Perth
+SHA1-Digest: 3V5DEkeOIXGsCs2M2Jk5uUPfcl0=
+
+Name: org/joda/time/tz/data/Australia/Sydney
+SHA1-Digest: J68n0raiafx5+XqC8l3zWyBWB1s=
+
+Name: org/joda/time/tz/data/CET
+SHA1-Digest: aZ/6/eHYT0PQguFD+sgk7nM1hfQ=
+
+Name: org/joda/time/tz/data/CST6CDT
+SHA1-Digest: Ifp6Wpx5ILzX/XeUtEtIz5wKxJY=
+
+Name: org/joda/time/tz/data/EET
+SHA1-Digest: RgNB00CdaXsLbTgWyLw5HuSvytQ=
+
+Name: org/joda/time/tz/data/EST
+SHA1-Digest: TZR2FXFXr0cn4G+q1poY6CUx/b4=
+
+Name: org/joda/time/tz/data/EST5EDT
+SHA1-Digest: 5blLM9fjcabjRnXzVw+64VAb5fk=
+
+Name: org/joda/time/tz/data/Etc/GMT
+SHA1-Digest: e8fmiOUPCBNOHil/pHgAFu/xslk=
+
+Name: org/joda/time/tz/data/Etc/GMT+1
+SHA1-Digest: LHEfSz40l7cYflSIFEEZCMXp3dg=
+
+Name: org/joda/time/tz/data/Etc/GMT+10
+SHA1-Digest: cxyNMnBItxs/tB4FEg/BvPcpFQs=
+
+Name: org/joda/time/tz/data/Etc/GMT+11
+SHA1-Digest: ozvSN35qegclw5Ihxd7+u7AjR7A=
+
+Name: org/joda/time/tz/data/Etc/GMT+12
+SHA1-Digest: eJwjk8fD0PBKIZLPSNKKQuGLB1Q=
+
+Name: org/joda/time/tz/data/Etc/GMT+2
+SHA1-Digest: JdFGOqbRYrgtMBdWHqNmrLP86Nc=
+
+Name: org/joda/time/tz/data/Etc/GMT+3
+SHA1-Digest: HENG0Kx4Eae/dzP1apoOlYoRHD8=
+
+Name: org/joda/time/tz/data/Etc/GMT+4
+SHA1-Digest: vHQC/9lyxDplK1NO7cEYjDtvlxw=
+
+Name: org/joda/time/tz/data/Etc/GMT+5
+SHA1-Digest: WW3qUXmtLm6RHyL5dqEtebbnXJA=
+
+Name: org/joda/time/tz/data/Etc/GMT+6
+SHA1-Digest: 6TxatQv9qye9DppG3kKUFJniI74=
+
+Name: org/joda/time/tz/data/Etc/GMT+7
+SHA1-Digest: Ll09ra/rkSYxkxfZcN14trBupCc=
+
+Name: org/joda/time/tz/data/Etc/GMT+8
+SHA1-Digest: j66do088xQ483nXdf5Ak9I9lQbM=
+
+Name: org/joda/time/tz/data/Etc/GMT+9
+SHA1-Digest: xWIJ0cBNBJu6AIO/FaMVf8HI4Cg=
+
+Name: org/joda/time/tz/data/Etc/GMT-1
+SHA1-Digest: v5dRuOUBWlcq/H+8/Oh28r05auA=
+
+Name: org/joda/time/tz/data/Etc/GMT-10
+SHA1-Digest: /HQv7ZO6mappBTDoy/IjZ1UPm0Q=
+
+Name: org/joda/time/tz/data/Etc/GMT-11
+SHA1-Digest: 5bFhZ7GTSXU8CK+8UrW33c7JIOg=
+
+Name: org/joda/time/tz/data/Etc/GMT-12
+SHA1-Digest: KzeA+qU0Fir13Z16fuDlSq0U/nw=
+
+Name: org/joda/time/tz/data/Etc/GMT-13
+SHA1-Digest: tO1ETnsx356b5Hl5RGgHLeiHxvQ=
+
+Name: org/joda/time/tz/data/Etc/GMT-14
+SHA1-Digest: 0y6aKiGfBdAVcNe5Dvad8/cvwUA=
+
+Name: org/joda/time/tz/data/Etc/GMT-2
+SHA1-Digest: DaCahhKcnCXvwUCWlIxPhyiQ5t8=
+
+Name: org/joda/time/tz/data/Etc/GMT-3
+SHA1-Digest: xLSfvFtoeMQLjew2u1PAwYzDQyQ=
+
+Name: org/joda/time/tz/data/Etc/GMT-4
+SHA1-Digest: KP12oixtjnnZQQ0TIbv6HCQvzu4=
+
+Name: org/joda/time/tz/data/Etc/GMT-5
+SHA1-Digest: aVZN+Odg8gz+47Jqz2+1Wl8PZVI=
+
+Name: org/joda/time/tz/data/Etc/GMT-6
+SHA1-Digest: ztEt+WCgNjd2wRVz2Lj4Wfy74RE=
+
+Name: org/joda/time/tz/data/Etc/GMT-7
+SHA1-Digest: 7RJTHHxiJOYuLAncyjkHvN9OIEY=
+
+Name: org/joda/time/tz/data/Etc/GMT-8
+SHA1-Digest: epdWoawKs2kQff0A1gZzFE/rkUI=
+
+Name: org/joda/time/tz/data/Etc/GMT-9
+SHA1-Digest: GPteQ1BYrmvRiJGqmu2c0zo/2JA=
+
+Name: org/joda/time/tz/data/Etc/UCT
+SHA1-Digest: YWpMvPcqBBLta1BQPSxQISFfiGU=
+
+Name: org/joda/time/tz/data/Etc/UTC
+SHA1-Digest: 0NKlJHbrL1W+rqUxb+swhrySrqQ=
+
+Name: org/joda/time/tz/data/Europe/Amsterdam
+SHA1-Digest: ilvYIci7pZsH80vMBNzTYM4dGww=
+
+Name: org/joda/time/tz/data/Europe/Andorra
+SHA1-Digest: xQ0KrW9iGaoMg7FroXNVdbYE/Dk=
+
+Name: org/joda/time/tz/data/Europe/Astrakhan
+SHA1-Digest: Q8yydUfS0vte4g6Fhlg2QFYA/QY=
+
+Name: org/joda/time/tz/data/Europe/Athens
+SHA1-Digest: XxRCAxOfG6O2K17BXcSpDSgwZX0=
+
+Name: org/joda/time/tz/data/Europe/Belgrade
+SHA1-Digest: sMPwPCnPBqhqaH2SyN5NFhZ1YlQ=
+
+Name: org/joda/time/tz/data/Europe/Berlin
+SHA1-Digest: SsEGY3BsAQrm0FZvMgLXDO5R3Jk=
+
+Name: org/joda/time/tz/data/Europe/Brussels
+SHA1-Digest: 11+8UiRJzYXXl3EYPDEfKRVQ7ag=
+
+Name: org/joda/time/tz/data/Europe/Bucharest
+SHA1-Digest: rlIjG8pKUKOMvlsxgXnz3dz7xtg=
+
+Name: org/joda/time/tz/data/Europe/Budapest
+SHA1-Digest: Eho8QrAsXcDEKKd+zLCroHYrLqU=
+
+Name: org/joda/time/tz/data/Europe/Chisinau
+SHA1-Digest: vxOsdnwWPdF7Yg/DrJE3FZmVLfE=
+
+Name: org/joda/time/tz/data/Europe/Copenhagen
+SHA1-Digest: dZ4JOjOHbzMqcnZLQFN/+nWObw8=
+
+Name: org/joda/time/tz/data/Europe/Dublin
+SHA1-Digest: z1O+XExIDGB/+/lwiytT0eiSulg=
+
+Name: org/joda/time/tz/data/Europe/Gibraltar
+SHA1-Digest: QlVCjflYh12HSA4sAv+JeuGemMU=
+
+Name: org/joda/time/tz/data/Europe/Helsinki
+SHA1-Digest: +8ti7JU1YnheEsZxsmb/QVFrrWc=
+
+Name: org/joda/time/tz/data/Europe/Istanbul
+SHA1-Digest: QjnvrTEIxQYViUy82/AEUpVyhEw=
+
+Name: org/joda/time/tz/data/Europe/Kaliningrad
+SHA1-Digest: YLzmNyzvV8g2hDf4FGR8QQLZLoA=
+
+Name: org/joda/time/tz/data/Europe/Kiev
+SHA1-Digest: 7Y5ZzSZYUb1HzN3PRMR2RC4l+e8=
+
+Name: org/joda/time/tz/data/Europe/Kirov
+SHA1-Digest: OJe6suDR+dIRJ6zNnPiaMX8gK9s=
+
+Name: org/joda/time/tz/data/Europe/Lisbon
+SHA1-Digest: 8gbEJTqX9EGYROg6BwCD/crwf/E=
+
+Name: org/joda/time/tz/data/Europe/London
+SHA1-Digest: DRnFIdNY63sdy5MDbizkfJ+jrvM=
+
+Name: org/joda/time/tz/data/Europe/Luxembourg
+SHA1-Digest: ktmspEr6Ghi8Mk9B4llwI1zPQTc=
+
+Name: org/joda/time/tz/data/Europe/Madrid
+SHA1-Digest: WgzSqJn0XcjR9BohA3Y3CCKKAfU=
+
+Name: org/joda/time/tz/data/Europe/Malta
+SHA1-Digest: 6z3uxLmId9vR1NpPS6ApYqH+zTU=
+
+Name: org/joda/time/tz/data/Europe/Minsk
+SHA1-Digest: 27BNwB44/aj6jHTP/5l7E+7FW2g=
+
+Name: org/joda/time/tz/data/Europe/Monaco
+SHA1-Digest: MsS+L2rWa8Eu6kyeXp7xrmN8lR4=
+
+Name: org/joda/time/tz/data/Europe/Moscow
+SHA1-Digest: LhobFi5/8y/xhonwPc/FVYIUpVo=
+
+Name: org/joda/time/tz/data/Europe/Oslo
+SHA1-Digest: zpE+pit5Qyr5rMjPM16CR+/2AAE=
+
+Name: org/joda/time/tz/data/Europe/Paris
+SHA1-Digest: +Aqqjaf6VutEOpQZyeVV5wEwzkk=
+
+Name: org/joda/time/tz/data/Europe/Prague
+SHA1-Digest: JO0X4XXIw4akoj0CTSmAAtwulW0=
+
+Name: org/joda/time/tz/data/Europe/Riga
+SHA1-Digest: J9OsagLrItrRiFn5eEMgFIA87hw=
+
+Name: org/joda/time/tz/data/Europe/Rome
+SHA1-Digest: Y6GSQrGiuK9gtAxfN7NDDOU4AUQ=
+
+Name: org/joda/time/tz/data/Europe/Samara
+SHA1-Digest: dlC9mtZpbymv8UJ7Z0GMf9Busas=
+
+Name: org/joda/time/tz/data/Europe/Saratov
+SHA1-Digest: DID0bbhTwZH92GVgldxIMsZS8/Q=
+
+Name: org/joda/time/tz/data/Europe/Simferopol
+SHA1-Digest: A3yMbOW/YoS8ob7s9sgNxJTpPio=
+
+Name: org/joda/time/tz/data/Europe/Sofia
+SHA1-Digest: /J5h48VfSzozVA/mjkrVgAD9SjM=
+
+Name: org/joda/time/tz/data/Europe/Stockholm
+SHA1-Digest: RmmFHIH23vrJtslxZDU+XAXAADk=
+
+Name: org/joda/time/tz/data/Europe/Tallinn
+SHA1-Digest: hSpykXA7Ood0DNvPvX+PDJrtsjs=
+
+Name: org/joda/time/tz/data/Europe/Tirane
+SHA1-Digest: C1x47ojurPPZ7g569IVxxfTzO5o=
+
+Name: org/joda/time/tz/data/Europe/Ulyanovsk
+SHA1-Digest: SOOaCh6Y99w7uvzSMcjU7swDaLY=
+
+Name: org/joda/time/tz/data/Europe/Uzhgorod
+SHA1-Digest: umdncIh3m/VXt2+PDHBGFicUeWs=
+
+Name: org/joda/time/tz/data/Europe/Vienna
+SHA1-Digest: aYY9CltOH++/3vbVf8eBOBLGOIo=
+
+Name: org/joda/time/tz/data/Europe/Vilnius
+SHA1-Digest: 4WNrEZS8UkLPZXm2a4O+kPllZ3Q=
+
+Name: org/joda/time/tz/data/Europe/Volgograd
+SHA1-Digest: 9rcxcbC287A2cZh7cyJ/Lf7XDGc=
+
+Name: org/joda/time/tz/data/Europe/Warsaw
+SHA1-Digest: gcQI38Md2mb/au9/NLgIFjhIouE=
+
+Name: org/joda/time/tz/data/Europe/Zaporozhye
+SHA1-Digest: JRr+mqVQ98gzspoLMNuU9U3g3kQ=
+
+Name: org/joda/time/tz/data/Europe/Zurich
+SHA1-Digest: UePpzqhl5KTyDao8Fwp3D4dX/pE=
+
+Name: org/joda/time/tz/data/HST
+SHA1-Digest: V6UJncznY+JETJHs3i+8Ku4siLk=
+
+Name: org/joda/time/tz/data/Indian/Chagos
+SHA1-Digest: jFSDSAs+eeVtdhk1Ew/R8M9V29I=
+
+Name: org/joda/time/tz/data/Indian/Christmas
+SHA1-Digest: 2aVebL/goyq8u7GBMldD49kfkUw=
+
+Name: org/joda/time/tz/data/Indian/Cocos
+SHA1-Digest: 25gQ4UJJC+Oj6S7KYAnnqkNiWVc=
+
+Name: org/joda/time/tz/data/Indian/Kerguelen
+SHA1-Digest: mY4v5y6XwPOJM706S+wDNMSF05E=
+
+Name: org/joda/time/tz/data/Indian/Mahe
+SHA1-Digest: vYVtux6ED0w3JbiN0b80pvUjEJE=
+
+Name: org/joda/time/tz/data/Indian/Maldives
+SHA1-Digest: ls1J9cfrfhbNuSRmmFWy8vBvGHg=
+
+Name: org/joda/time/tz/data/Indian/Mauritius
+SHA1-Digest: VtQl51Sw3SoghIt3XAjMXpGlslE=
+
+Name: org/joda/time/tz/data/Indian/Reunion
+SHA1-Digest: XaJranv97upiPtXH3XlxvO7td6c=
+
+Name: org/joda/time/tz/data/MET
+SHA1-Digest: PVA/dC9fOBANm1qJhRFox0u1UTg=
+
+Name: org/joda/time/tz/data/MST
+SHA1-Digest: Vp8CiU0eYzc6XmGY99j1zqmeKac=
+
+Name: org/joda/time/tz/data/MST7MDT
+SHA1-Digest: bp8IxShV10naOZWwB0Y6VkdYMuQ=
+
+Name: org/joda/time/tz/data/PST8PDT
+SHA1-Digest: Zl5MZS4p6IMychkLNj9Lwvxs//U=
+
+Name: org/joda/time/tz/data/Pacific/Apia
+SHA1-Digest: V4KO16jiSXlsg37XCqxomm8Pz18=
+
+Name: org/joda/time/tz/data/Pacific/Auckland
+SHA1-Digest: yH6wCUehYjs9pCbz50gDcyzgWBI=
+
+Name: org/joda/time/tz/data/Pacific/Bougainville
+SHA1-Digest: +1TPMjekeJp1GloDhs4gPlxPwF8=
+
+Name: org/joda/time/tz/data/Pacific/Chatham
+SHA1-Digest: Z1K4yIS89WIeviA/c9JSbLCD2Ac=
+
+Name: org/joda/time/tz/data/Pacific/Chuuk
+SHA1-Digest: GW6WxUg4/Wptfl9H3To7FXhSPIc=
+
+Name: org/joda/time/tz/data/Pacific/Easter
+SHA1-Digest: pUPF0DD6qWTlfki6wMrbV6ullGU=
+
+Name: org/joda/time/tz/data/Pacific/Efate
+SHA1-Digest: XGwnxDADHzrCPWwl0X0UwPRGbxE=
+
+Name: org/joda/time/tz/data/Pacific/Enderbury
+SHA1-Digest: 8L0kjmOTp7qg9pu+Hb5MJZ6wU1U=
+
+Name: org/joda/time/tz/data/Pacific/Fakaofo
+SHA1-Digest: bI4Rb+lML2696CvmqgPTS31lzYg=
+
+Name: org/joda/time/tz/data/Pacific/Fiji
+SHA1-Digest: 5BrXvaqHdlaivpM2u1aR7JYB2OA=
+
+Name: org/joda/time/tz/data/Pacific/Funafuti
+SHA1-Digest: 0DYyA591geF1m0Nvg+VM1pe6gk8=
+
+Name: org/joda/time/tz/data/Pacific/Galapagos
+SHA1-Digest: qDqcu7gWwZcqi7fmcB9kYNwOL2o=
+
+Name: org/joda/time/tz/data/Pacific/Gambier
+SHA1-Digest: Tgdni/ZunCtzl/ZphNRdl01P/u8=
+
+Name: org/joda/time/tz/data/Pacific/Guadalcanal
+SHA1-Digest: zlUE1ATzJCe3l7pl/RHRxJtDjaY=
+
+Name: org/joda/time/tz/data/Pacific/Guam
+SHA1-Digest: X+ivB65EPlpQgG30d0tvw+8kkr8=
+
+Name: org/joda/time/tz/data/Pacific/Honolulu
+SHA1-Digest: lkzj/FxurTkTBLipiaKFXDDZxlo=
+
+Name: org/joda/time/tz/data/Pacific/Kiritimati
+SHA1-Digest: 8ysYiBhXtjM8euMk4NcWyTwJg48=
+
+Name: org/joda/time/tz/data/Pacific/Kosrae
+SHA1-Digest: bhl5cdz7jhzXs1LTLqWE1Ymqqt0=
+
+Name: org/joda/time/tz/data/Pacific/Kwajalein
+SHA1-Digest: Im5fIIP5oUtZyMNmeMaHUxp3rx0=
+
+Name: org/joda/time/tz/data/Pacific/Majuro
+SHA1-Digest: FTCKR7nmXuKES+idME8Cpsd3rnM=
+
+Name: org/joda/time/tz/data/Pacific/Marquesas
+SHA1-Digest: P6IStjdztQuvUFqGZsNCnWwT6Mw=
+
+Name: org/joda/time/tz/data/Pacific/Nauru
+SHA1-Digest: FWVFnx5EPoiDL6I4GB9AhkkYp8I=
+
+Name: org/joda/time/tz/data/Pacific/Niue
+SHA1-Digest: EPcPFY40BjiUVV4hNnLvvpQ6tp8=
+
+Name: org/joda/time/tz/data/Pacific/Norfolk
+SHA1-Digest: j6MPljceihdBE2JOjTGudzP8ko8=
+
+Name: org/joda/time/tz/data/Pacific/Noumea
+SHA1-Digest: czOW3OTlTTsG5wWxiSLh2Ldqrtc=
+
+Name: org/joda/time/tz/data/Pacific/Pago_Pago
+SHA1-Digest: ydToFoWVRavkQeNOoUmB1ZeHXhs=
+
+Name: org/joda/time/tz/data/Pacific/Palau
+SHA1-Digest: jbDxGGAhJbQEiQqwT6rIC90uYls=
+
+Name: org/joda/time/tz/data/Pacific/Pitcairn
+SHA1-Digest: GgKRgNN0gCWCTJcsELM/dxD4t0g=
+
+Name: org/joda/time/tz/data/Pacific/Pohnpei
+SHA1-Digest: lCl0PVoIWgSRXHTWx0PWrOs2tWU=
+
+Name: org/joda/time/tz/data/Pacific/Port_Moresby
+SHA1-Digest: N4eii6zH/jSxS9lrzsubcCPmMBo=
+
+Name: org/joda/time/tz/data/Pacific/Rarotonga
+SHA1-Digest: V2FaeAHU5mywAZMsl7/QQZpBQYM=
+
+Name: org/joda/time/tz/data/Pacific/Tahiti
+SHA1-Digest: Sk2bzkJQkrp7qErwDaM35yGCh4s=
+
+Name: org/joda/time/tz/data/Pacific/Tarawa
+SHA1-Digest: QqCKveOoq/zSojoBrHjWR/RDnRk=
+
+Name: org/joda/time/tz/data/Pacific/Tongatapu
+SHA1-Digest: 3Rs5pb7W9+xdPhTuGgBYPQMAk48=
+
+Name: org/joda/time/tz/data/Pacific/Wake
+SHA1-Digest: W42IjeI4wUlRRpndxcDSL5YsH1M=
+
+Name: org/joda/time/tz/data/Pacific/Wallis
+SHA1-Digest: yHEODURBVUjVSnRPdjsuvKwmYR0=
+
+Name: org/joda/time/tz/data/WET
+SHA1-Digest: rRy2r/gI6EaBa9sbeljiQPMf2Xg=
+
+Name: org/joda/time/tz/data/ZoneInfoMap
+SHA1-Digest: bKJq6CuQ5/7I5OasF8OOBcEamAQ=
+
+Name: res/anim-v21/design_bottom_sheet_slide_in.xml
+SHA1-Digest: YnYLGvVsheUXN2hHhcDonJ8CvFc=
+
+Name: res/anim-v21/design_bottom_sheet_slide_out.xml
+SHA1-Digest: pf1pbc0RBOxUsSprHhbqIcMX5mk=
+
+Name: res/anim/abc_fade_in.xml
+SHA1-Digest: ohPEA4mboaFUu9LZMUwk7FmjbPI=
+
+Name: res/anim/abc_fade_out.xml
+SHA1-Digest: MTJWZc22b5LNeBboqBhxcQh5xHQ=
+
+Name: res/anim/abc_grow_fade_in_from_bottom.xml
+SHA1-Digest: KR5fgPIJpLBUpKwLanhL7ktCTd4=
+
+Name: res/anim/abc_popup_enter.xml
+SHA1-Digest: kvYuQ9Op3opGYNh6MjFxA8TZdn4=
+
+Name: res/anim/abc_popup_exit.xml
+SHA1-Digest: jszXm+xKWbnz1Q+JyCprh4gk6AE=
+
+Name: res/anim/abc_shrink_fade_out_from_bottom.xml
+SHA1-Digest: sbL2SELHqywBdBltD0SQ7xafdBk=
+
+Name: res/anim/abc_slide_in_bottom.xml
+SHA1-Digest: ZliTihZ+8kHBA4SfvPIPI00Y7uE=
+
+Name: res/anim/abc_slide_in_top.xml
+SHA1-Digest: YBdDQbyB2IFfhjwKI6NSPOXqz7g=
+
+Name: res/anim/abc_slide_out_bottom.xml
+SHA1-Digest: GcBbKJcMWdQ42ssCQexb9kGH6us=
+
+Name: res/anim/abc_slide_out_top.xml
+SHA1-Digest: 8TSJifDdlA1J4leugOVG9Peg+k4=
+
+Name: res/anim/design_bottom_sheet_slide_in.xml
+SHA1-Digest: I2DdVNy7yMp7PT5lcZF89iFHBhw=
+
+Name: res/anim/design_bottom_sheet_slide_out.xml
+SHA1-Digest: zZO45fBAtdwUFfeMhJSGa6nJrRU=
+
+Name: res/anim/design_snackbar_in.xml
+SHA1-Digest: QPiYcwJRp7LvVEneHabhK9QbisA=
+
+Name: res/anim/design_snackbar_out.xml
+SHA1-Digest: tSHapqXFI6k7SCynouBmerWDWcs=
+
+Name: res/anim/end_call_fade_out.xml
+SHA1-Digest: eBsUUxgshSa+Y97bOKP7Z6wnBXI=
+
+Name: res/anim/end_call_shrink.xml
+SHA1-Digest: WWHdrbFZ+Rw00VI5uoKF/R4QoS4=
+
+Name: res/anim/fade_in.xml
+SHA1-Digest: hgR43If3j9gSLrn88I2fNN3oacM=
+
+Name: res/anim/fade_out.xml
+SHA1-Digest: hN+oF9dhvWSEL4uDuckSnVvLD6U=
+
+Name: res/anim/front_back_switch_button_animation.xml
+SHA1-Digest: zn4rU8p1cNzi8jiL6xA77d5THuU=
+
+Name: res/anim/incoming_unlocked_icon_entry.xml
+SHA1-Digest: 4LnVwiPXX8iJudg4KypSQKzKm0U=
+
+Name: res/anim/incoming_unlocked_text_entry.xml
+SHA1-Digest: Gs0fYj1t3+pezyQz1Bl0HcthOgM=
+
+Name: res/anim/interp_decelerate.xml
+SHA1-Digest: E55nvWSWUX+Wo0ZNqS9KtJVXuyc=
+
+Name: res/anim/outgoing_icon_anim.xml
+SHA1-Digest: IEltxZHHVnHDXc+hNzuiby8ADpE=
+
+Name: res/anim/outgoing_text_anim.xml
+SHA1-Digest: ctxUwnnKgddzxUErhn2dGf8NIik=
+
+Name: res/anim/scale_fade_in.xml
+SHA1-Digest: pIW3UyFsI6v3GfHrpign43t6wKY=
+
+Name: res/anim/scale_fade_out.xml
+SHA1-Digest: rFmCA9PEROFHYRzawqtY7DyAHy8=
+
+Name: res/anim/scale_in.xml
+SHA1-Digest: iP3TfM2N2PElf0Mg+/vgFVzgyRI=
+
+Name: res/anim/scale_out.xml
+SHA1-Digest: MLdvb/iXEWhoWbW87hOa8I6bK9U=
+
+Name: res/anim/slide_in_from_left.xml
+SHA1-Digest: 7h2WsYxFp6vfb+lo/aL7TZVqgHo=
+
+Name: res/anim/slide_in_from_right.xml
+SHA1-Digest: Pn1smXv+mq0+XSkGR+cnSOf+LaQ=
+
+Name: res/anim/slide_out_to_left.xml
+SHA1-Digest: JHHyryuN/5Jrn0x1xhOUFwKxepo=
+
+Name: res/anim/slide_out_to_right.xml
+SHA1-Digest: tbX9fiCV5yEG/DMF+pyjd0AmAjg=
+
+Name: res/anim/tooltip_enter.xml
+SHA1-Digest: diEL9CRm3MZDEv3UcsjBuWkEioY=
+
+Name: res/anim/tooltip_exit.xml
+SHA1-Digest: M9P6QPRQ/fJjajfQ031STGkJ3tE=
+
+Name: res/animator-v21/design_appbar_state_list_animator.xml
+SHA1-Digest: Js3nfmLGrT2CMYx81n4JOgvgsRc=
+
+Name: res/animator/design_fab_hide_motion_spec.xml
+SHA1-Digest: aec4niqMV8uY93EJ5X7cLJejtf8=
+
+Name: res/animator/design_fab_show_motion_spec.xml
+SHA1-Digest: inNVHTIYFLhX1hjfcLrC3QYK3eA=
+
+Name: res/animator/fullscreen_camera_switch_dim.xml
+SHA1-Digest: RaPCRWvZfVclvNpxCRBVnd/hHks=
+
+Name: res/animator/fullscreen_camera_switch_fade_out.xml
+SHA1-Digest: OAsqHOsZb0k43s4MVkTnUN+AJds=
+
+Name: res/animator/fullscreen_camera_switch_mask_fade_out.xml
+SHA1-Digest: idWRCVDsHQ0V2X6ACnA7/3tf2Bs=
+
+Name: res/animator/incoming_call_connect_pip_scale_up.xml
+SHA1-Digest: TJGlTGC3jSgwsRu7WUyoQ295rwE=
+
+Name: res/animator/local_to_fullscreen_remote_scale_up.xml
+SHA1-Digest: TJGlTGC3jSgwsRu7WUyoQ295rwE=
+
+Name: res/animator/local_to_pip_remote_mask_fade_out.xml
+SHA1-Digest: 2LP8mnfGONkFRVSq/IfDPIBQNJk=
+
+Name: res/animator/local_to_pip_remote_scale_down.xml
+SHA1-Digest: jB3eRsMrhjgmchRrhl6f7QB/XcI=
+
+Name: res/animator/mtrl_fab_hide_motion_spec.xml
+SHA1-Digest: cftXx6w53TKeA30HVZAR/FFgXqQ=
+
+Name: res/animator/mtrl_fab_show_motion_spec.xml
+SHA1-Digest: rrjaD79euBbOTOkFWXlNyyGGJc4=
+
+Name: res/animator/mtrl_fab_transformation_sheet_collapse_spec.xml
+SHA1-Digest: p2j+rq+UdNztrLEpWOfCWvpjFQY=
+
+Name: res/animator/mtrl_fab_transformation_sheet_expand_spec.xml
+SHA1-Digest: 1jff1TCLTTZwcO02QzEzmWaiD1o=
+
+Name: res/animator/pip_camera_switch_scale_down.xml
+SHA1-Digest: jB3eRsMrhjgmchRrhl6f7QB/XcI=
+
+Name: res/animator/pip_camera_switch_scale_up.xml
+SHA1-Digest: huNhM8yg4W0U1sBk1qHm/DsKvnQ=
+
+Name: res/color-v11/abc_background_cache_hint_selector_material_dark.x
+ ml
+SHA1-Digest: TJR4ZAc3Az3fOTXbko4xr3xWuvA=
+
+Name: res/color-v11/abc_background_cache_hint_selector_material_light.
+ xml
+SHA1-Digest: qc2peCXERW/MbZ/lW//j/aZBlAI=
+
+Name: res/color-v23/abc_btn_colored_borderless_text_material.xml
+SHA1-Digest: u8K0MgDRYH4U7yWCOQwkoszz2XE=
+
+Name: res/color-v23/abc_btn_colored_text_material.xml
+SHA1-Digest: iPtKeCtxBDsPlPY18AN/Fz+9bAA=
+
+Name: res/color-v23/abc_color_highlight_material.xml
+SHA1-Digest: ZZiA73LJGWbpRu4h41XmyUtGgQQ=
+
+Name: res/color-v23/abc_tint_btn_checkable.xml
+SHA1-Digest: ANkaKENqrzLRyRXIpoEVZ8bNg6Q=
+
+Name: res/color-v23/abc_tint_default.xml
+SHA1-Digest: GIoAfYTSSotUTuDAl45zBA3eVMA=
+
+Name: res/color-v23/abc_tint_edittext.xml
+SHA1-Digest: 5Ij/RXMsI0NvSyyDZn8G4HYrzAg=
+
+Name: res/color-v23/abc_tint_seek_thumb.xml
+SHA1-Digest: 8wASWeNLA+uqnd1vjFEu+2CcuMw=
+
+Name: res/color-v23/abc_tint_spinner.xml
+SHA1-Digest: 5Ij/RXMsI0NvSyyDZn8G4HYrzAg=
+
+Name: res/color-v23/abc_tint_switch_track.xml
+SHA1-Digest: zfc4ni73QBJS/SbcyEvJpa2ODQI=
+
+Name: res/color-v23/design_tint_password_toggle.xml
+SHA1-Digest: vE1U0vDl6nfW6cTAAw5+BJ59Pmg=
+
+Name: res/color/abc_btn_colored_borderless_text_material.xml
+SHA1-Digest: LNx5D+kEK9VyE09oZdKoPHD9aBs=
+
+Name: res/color/abc_btn_colored_text_material.xml
+SHA1-Digest: MmvRAS+g/brl/UD2FSqaxuKLYcg=
+
+Name: res/color/abc_hint_foreground_material_dark.xml
+SHA1-Digest: K+wEM6cOgO00efS8Gw7+nu3XWvo=
+
+Name: res/color/abc_hint_foreground_material_light.xml
+SHA1-Digest: CkzZDfp5A0Go4TzKXqgQ7g5+lgs=
+
+Name: res/color/abc_primary_text_disable_only_material_dark.xml
+SHA1-Digest: 5G3FFJlT3/Dz3uVOm4iBkn08Q/s=
+
+Name: res/color/abc_primary_text_disable_only_material_light.xml
+SHA1-Digest: lEYbhpfHFWuIR2oHaU/1HVpXOxE=
+
+Name: res/color/abc_primary_text_material_dark.xml
+SHA1-Digest: UgiKT8OcINCcCtLXmlkEgT6uF0U=
+
+Name: res/color/abc_primary_text_material_light.xml
+SHA1-Digest: vxPuVeTurLusgh4lO7p+LubY3Hg=
+
+Name: res/color/abc_search_url_text.xml
+SHA1-Digest: a075XT8rSWdOZCMB+Gat25W9eh8=
+
+Name: res/color/abc_secondary_text_material_dark.xml
+SHA1-Digest: bt6+l4gCcMhLx8rXbwjQ5/hfSgg=
+
+Name: res/color/abc_secondary_text_material_light.xml
+SHA1-Digest: GNlB/bel0AIhCTB+IHKs/X08D6U=
+
+Name: res/color/abc_tint_btn_checkable.xml
+SHA1-Digest: Yg8VHKVJ8pqzbtFVfsKQi6IfZMg=
+
+Name: res/color/abc_tint_default.xml
+SHA1-Digest: aFekO2EJQzynOV8uB4dVhpSV74w=
+
+Name: res/color/abc_tint_edittext.xml
+SHA1-Digest: v3GBVPyP1S4K+zPSesWi9FLIyIo=
+
+Name: res/color/abc_tint_seek_thumb.xml
+SHA1-Digest: tE6CKRDjeke+W+nEFI1SOjqLGFU=
+
+Name: res/color/abc_tint_spinner.xml
+SHA1-Digest: NbXzQZ0uEcXnk2MYOJBy/gow3+k=
+
+Name: res/color/abc_tint_switch_track.xml
+SHA1-Digest: dXsftPCejf4f/Lssp+2Uf1R5kPI=
+
+Name: res/color/black_gray_selector.xml
+SHA1-Digest: GJjkncFCT30G92udzwJDBOeji1I=
+
+Name: res/color/button_text_color.xml
+SHA1-Digest: HScbHXfUA9ZgnhmVnR+2v3pbUF4=
+
+Name: res/color/call_rating_button_color.xml
+SHA1-Digest: cS49JBShNs5omyNDi0lcmm1wTtI=
+
+Name: res/color/common_google_signin_btn_text_dark.xml
+SHA1-Digest: zuhk5IaeUnPJxT3fiEz+IlcqG6E=
+
+Name: res/color/common_google_signin_btn_text_light.xml
+SHA1-Digest: HiM8ZkVc9KInYUW8MyFL9BuIgJs=
+
+Name: res/color/common_google_signin_btn_tint.xml
+SHA1-Digest: VYfC/z6me1616ikREcNs/lRnJj4=
+
+Name: res/color/contact_list_item.xml
+SHA1-Digest: 0AfSI0F/hF433GpbveCt7brFyik=
+
+Name: res/color/design_error.xml
+SHA1-Digest: RL+xo1Dm0damrHVIMaERR7McaDE=
+
+Name: res/color/design_tint_password_toggle.xml
+SHA1-Digest: Kkzwz4s+TtfnpslNkPVXSSCx6vw=
+
+Name: res/color/mtrl_fab_ripple_alpha.xml
+SHA1-Digest: uoxGsST8CPdOpTAgIgLKZ1q443U=
+
+Name: res/color/switch_thumb_material_dark.xml
+SHA1-Digest: fSyDC56PZ/OTyDzXvBmc1hMQC8c=
+
+Name: res/color/switch_thumb_material_light.xml
+SHA1-Digest: jsBjOsQOHTSMMWzLkFSjrh76A9M=
+
+Name: res/color/white_black_selector.xml
+SHA1-Digest: GUEpoWr6aY8kwROPUd8Ia2NitR0=
+
+Name: res/drawable-anydpi-v21/design_ic_visibility.xml
+SHA1-Digest: i0wZ4srxq9d2pxcQrcGzRHdFe5g=
+
+Name: res/drawable-anydpi-v21/design_ic_visibility_off.xml
+SHA1-Digest: gz40i9H1owH4tCkfWis4DPmdiyU=
+
+Name: res/drawable-anydpi-v21/googleg_standard_color_24.xml
+SHA1-Digest: p+aZC/APxH/BpVtN0kXvqH8vyYk=
+
+Name: res/drawable-anydpi-v21/googlelogo_dark_color_62x24.xml
+SHA1-Digest: FfxL35rsIwu/RYnWyA8qu12mbiw=
+
+Name: res/drawable-ldrtl-xhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png
+SHA1-Digest: W4MJFz3vxHZ3uyM6PwMBevMyRKs=
+
+Name: res/drawable-ldrtl-xhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png
+SHA1-Digest: /dcXrhcoTacpJtH5lNwjpjK5LdA=
+
+Name: res/drawable-ldrtl-xhdpi-v17/abc_spinner_mtrl_am_alpha.9.png
+SHA1-Digest: xzR4QYhDLijnhAqvCWT+8WMmqNQ=
+
+Name: res/drawable-ldrtl-xhdpi-v17/quantum_ic_arrow_back_grey600_24.pn
+ g
+SHA1-Digest: 61yqr3Pgw41riTAeYoEvCzvbeQU=
+
+Name: res/drawable-ldrtl-xhdpi-v17/quantum_ic_arrow_back_white_24.png
+SHA1-Digest: Qh5mF+A2LhTNEWXnP/AhkzL1yEY=
+
+Name: res/drawable-ldrtl-xhdpi-v17/quantum_ic_chevron_right_white_24.p
+ ng
+SHA1-Digest: 6BRgtcwzVYRSG8aELymTLYwBvhU=
+
+Name: res/drawable-ldrtl-xhdpi-v17/quantum_ic_send_white_24.png
+SHA1-Digest: 1dC3fnMv6fTf7eOPfcZoJsWhpM8=
+
+Name: res/drawable-nodpi-v4/d1_cafe_03688.jpg
+SHA1-Digest: 7Dk1KgZ2Kylb95VXLPPOP7p3gzk=
+
+Name: res/drawable-nodpi-v4/d2_adventure_05777.jpg
+SHA1-Digest: uAorkWJiaUKCNxsoXKlsOVB13wg=
+
+Name: res/drawable-nodpi-v4/d2_adventure_06763.jpg
+SHA1-Digest: 24emziidPFTkfVrzwlTGr3RaOpI=
+
+Name: res/drawable-nodpi-v4/d2_mountain_06260.jpg
+SHA1-Digest: L3taJVh5Dp17GsNzG/vnCjcTRHE=
+
+Name: res/drawable-nodpi-v4/d2_mountain_06515.jpg
+SHA1-Digest: khKuoCCfP4GNCLdtyiOCLjZbbtA=
+
+Name: res/drawable-v21/abc_action_bar_item_background_material.xml
+SHA1-Digest: VikGrClarpkvTVwTS9DEpzyZFsI=
+
+Name: res/drawable-v21/abc_btn_colored_material.xml
+SHA1-Digest: xXzDjRkuQe+gf05fctUBt+6HB4k=
+
+Name: res/drawable-v21/abc_edit_text_material.xml
+SHA1-Digest: 4Zle/shYFkqQiIzsyE0vF1hD624=
+
+Name: res/drawable-v21/abc_ratingbar_indicator_material.xml
+SHA1-Digest: V8JrLj4745FQ4gUvuKziXuLT2Ac=
+
+Name: res/drawable-v21/abc_ratingbar_material.xml
+SHA1-Digest: rf6f8HRUlLAVKAAEFPxwQP5tJB4=
+
+Name: res/drawable-v21/abc_ratingbar_small_material.xml
+SHA1-Digest: BADt3Ef1toHfWLOP4cHWQg7zFsc=
+
+Name: res/drawable-v21/avd_hide_password.xml
+SHA1-Digest: ltL4ZC9qJY65l+LE3Nq+JT0xH7U=
+
+Name: res/drawable-v21/avd_hide_password_1.xml
+SHA1-Digest: hKZhydce/W0VhoEfB6ETpsLG5u8=
+
+Name: res/drawable-v21/avd_hide_password_2.xml
+SHA1-Digest: jVyf4u6vY6bBXGxUlroelugTVH4=
+
+Name: res/drawable-v21/avd_hide_password_3.xml
+SHA1-Digest: xvrrOmxfbmmqwV7Kjpkbiw3ngWI=
+
+Name: res/drawable-v21/avd_show_password.xml
+SHA1-Digest: uuXBTMsQ8wUyN9AMQ1xZoTW7MfI=
+
+Name: res/drawable-v21/avd_show_password_1.xml
+SHA1-Digest: pSyQWxr2Ng2tZzsvl/v4ABV8UCE=
+
+Name: res/drawable-v21/avd_show_password_2.xml
+SHA1-Digest: ftEUCen1csjZTgj0NhhjBUfHBr8=
+
+Name: res/drawable-v21/avd_show_password_3.xml
+SHA1-Digest: yshPdrZhBjGnU8s3p1Bj1vvSkjE=
+
+Name: res/drawable-v21/circular_button_dark_background_ripple.xml
+SHA1-Digest: D5lL3znlBsAb0e8etJbffA8SsJk=
+
+Name: res/drawable-v21/circular_button_light_background_ripple.xml
+SHA1-Digest: Dl/Wi1BEFdn5AToa2ZK/hGhxdog=
+
+Name: res/drawable-v21/contact_item_touch_ripple.xml
+SHA1-Digest: e01xgZHCdRlc/D4KadyEvqBjUJg=
+
+Name: res/drawable-v21/design_bottom_navigation_item_background.xml
+SHA1-Digest: +TU8xNeg+NwB9h10Dt7X2djyOgk=
+
+Name: res/drawable-v21/design_password_eye.xml
+SHA1-Digest: AzQ9KyOl6nP6YD0kGF20p2osdkA=
+
+Name: res/drawable-v21/hats_blue_button.xml
+SHA1-Digest: 0vs7wJCf2Zh5TsWcERemQABOlno=
+
+Name: res/drawable-v21/hats_close_button.xml
+SHA1-Digest: 6Kx6xOek8uIFLzrO5bSI6qCcqKw=
+
+Name: res/drawable-v21/hats_white_button.xml
+SHA1-Digest: Y8y8mo0EjCCGUuTHJi+FX90BXpM=
+
+Name: res/drawable-v21/notification_action_background.xml
+SHA1-Digest: WL8yw2YSGt17Yw14gJjYG5N5fKE=
+
+Name: res/drawable-v23/abc_control_background_material.xml
+SHA1-Digest: rUe02iacHvoJp2tYYHkiTdTUUX4=
+
+Name: res/drawable-v25/shortcut_background.xml
+SHA1-Digest: wC15TiNHYAizRUeMGekop4Y2hL8=
+
+Name: res/drawable-v25/shortcut_video.xml
+SHA1-Digest: ToZ9I+awN39IMzcuFdf9O4Se/Yg=
+
+Name: res/drawable-v25/shortcut_video_foreground.xml
+SHA1-Digest: Cm6fdSjW1v9HStXeghf5rWWViy8=
+
+Name: res/drawable-v26/shortcut_video.xml
+SHA1-Digest: T9g+sIWM7WWxtQLKQXFWHwrTxEA=
+
+Name: res/drawable-xhdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png
+SHA1-Digest: 8QLweU4p1rehkS9Zii3jepzESPg=
+
+Name: res/drawable-xhdpi-v4/abc_btn_check_to_on_mtrl_000.png
+SHA1-Digest: N8u5hjDMGa2e6JOJbgxZal1aNwY=
+
+Name: res/drawable-xhdpi-v4/abc_btn_check_to_on_mtrl_015.png
+SHA1-Digest: lcJn8kD6MOEj3AFqwpcH1+zJpIY=
+
+Name: res/drawable-xhdpi-v4/abc_btn_radio_to_on_mtrl_000.png
+SHA1-Digest: h9xb/y1vTncbTrp8yIjn7eRoG/w=
+
+Name: res/drawable-xhdpi-v4/abc_btn_radio_to_on_mtrl_015.png
+SHA1-Digest: jaWedGWrccy2jh9xnm9NUBEu+NQ=
+
+Name: res/drawable-xhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png
+SHA1-Digest: /hpvHveM+a3Mx49n/3P19bBBgiI=
+
+Name: res/drawable-xhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png
+SHA1-Digest: O6x52IgsWeKV4Xdu5U2H2IxbVgc=
+
+Name: res/drawable-xhdpi-v4/abc_cab_background_top_mtrl_alpha.9.png
+SHA1-Digest: RwOTCkvoy8JfKjFQZXnNiOHbxpQ=
+
+Name: res/drawable-xhdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png
+SHA1-Digest: cuCm0r2aUkpTLk+CBNaHogZtLwQ=
+
+Name: res/drawable-xhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+SHA1-Digest: P0GU9V0zk1JypdhCTTKrZ2RxFcc=
+
+Name: res/drawable-xhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+SHA1-Digest: L7foFsAeFoZ0qETXtrifyXk9H2k=
+
+Name: res/drawable-xhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png
+SHA1-Digest: BW+HxlEdt+GDk5y/j57c7HOcxXA=
+
+Name: res/drawable-xhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png
+SHA1-Digest: MhP2e4zt8+WjIw5c3c5H98Svn98=
+
+Name: res/drawable-xhdpi-v4/abc_ic_menu_share_mtrl_alpha.png
+SHA1-Digest: 6cpWbLXdd27zuqRASTBkUE+2QG0=
+
+Name: res/drawable-xhdpi-v4/abc_ic_star_black_16dp.png
+SHA1-Digest: 4qWwbYAltuuVjAtBs79psFxXWYk=
+
+Name: res/drawable-xhdpi-v4/abc_ic_star_black_36dp.png
+SHA1-Digest: PHk61zRqf6D0+NgV5DAowumKYDM=
+
+Name: res/drawable-xhdpi-v4/abc_ic_star_black_48dp.png
+SHA1-Digest: vtDPk0TLYBBzQxoTuzAY/w1SkPE=
+
+Name: res/drawable-xhdpi-v4/abc_ic_star_half_black_16dp.png
+SHA1-Digest: bJnaPUkuEDhsvIaeIGSAO9n8ckk=
+
+Name: res/drawable-xhdpi-v4/abc_ic_star_half_black_36dp.png
+SHA1-Digest: TlbyZYv9H1HCXgUpxYDLUFphgco=
+
+Name: res/drawable-xhdpi-v4/abc_ic_star_half_black_48dp.png
+SHA1-Digest: 5FpyD6gqwU5xpIAC80ULYrYSJvE=
+
+Name: res/drawable-xhdpi-v4/abc_list_divider_mtrl_alpha.9.png
+SHA1-Digest: B+V5QEOwy10ghi7uX5XLTPFJGJs=
+
+Name: res/drawable-xhdpi-v4/abc_list_focused_holo.9.png
+SHA1-Digest: Kw0Qo9eKlw06/oxLHYSWR6VftBw=
+
+Name: res/drawable-xhdpi-v4/abc_list_longpressed_holo.9.png
+SHA1-Digest: C4a5xmVEzcIJxede0Urh0qZwCmg=
+
+Name: res/drawable-xhdpi-v4/abc_list_pressed_holo_dark.9.png
+SHA1-Digest: WYYEXP9zXPHmkO70T8BA20aSj+U=
+
+Name: res/drawable-xhdpi-v4/abc_list_pressed_holo_light.9.png
+SHA1-Digest: 5rSZbdJDOTdM5kJhhIdl8m8briI=
+
+Name: res/drawable-xhdpi-v4/abc_list_selector_disabled_holo_dark.9.png
+SHA1-Digest: e6ZxO30OB+oHpoct3gGLBY0gYXA=
+
+Name: res/drawable-xhdpi-v4/abc_list_selector_disabled_holo_light.9.pn
+ g
+SHA1-Digest: bwjSzuahpvwVgJavscLUKen/ZqQ=
+
+Name: res/drawable-xhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png
+SHA1-Digest: Bii9JPddV76dH8va+pLHDS/1H2I=
+
+Name: res/drawable-xhdpi-v4/abc_popup_background_mtrl_mult.9.png
+SHA1-Digest: hjf9hvwtitJD8jRTc+L89zr4i1I=
+
+Name: res/drawable-xhdpi-v4/abc_scrubber_control_off_mtrl_alpha.png
+SHA1-Digest: krEbusrGeef2xn3FKt+J06cC/sU=
+
+Name: res/drawable-xhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.p
+ ng
+SHA1-Digest: 3/zkaBiI1eRYWLdvNnpenkbR80A=
+
+Name: res/drawable-xhdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.p
+ ng
+SHA1-Digest: b25IOITwDFJwuuXN8h/SxX4BZc4=
+
+Name: res/drawable-xhdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png
+SHA1-Digest: RnQxBqnfZP2w/UH+bBFTojv2UoA=
+
+Name: res/drawable-xhdpi-v4/abc_scrubber_track_mtrl_alpha.9.png
+SHA1-Digest: MtrqRaF9hHgDajQUiUZsdukbh0o=
+
+Name: res/drawable-xhdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+SHA1-Digest: EWsVhp6Fuj87sih/RyDRPr/vOxY=
+
+Name: res/drawable-xhdpi-v4/abc_switch_track_mtrl_alpha.9.png
+SHA1-Digest: DnUPb3c/aCYMPIdhLVRqT1eh/J8=
+
+Name: res/drawable-xhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png
+SHA1-Digest: BmwsKC3uNvwcF8agRRgehS1CAm0=
+
+Name: res/drawable-xhdpi-v4/abc_text_select_handle_left_mtrl_dark.png
+SHA1-Digest: F+gz5Rjq174KBznHDsOGg3+tGkc=
+
+Name: res/drawable-xhdpi-v4/abc_text_select_handle_left_mtrl_light.png
+SHA1-Digest: R8WBookM68joCzpD5dW/NrGyQhY=
+
+Name: res/drawable-xhdpi-v4/abc_text_select_handle_middle_mtrl_dark.pn
+ g
+SHA1-Digest: RityxShgYvia8YgkzYMZPsO+8ng=
+
+Name: res/drawable-xhdpi-v4/abc_text_select_handle_middle_mtrl_light.p
+ ng
+SHA1-Digest: MIIOS76JbXB+sAkPUvepKa+vGWo=
+
+Name: res/drawable-xhdpi-v4/abc_text_select_handle_right_mtrl_dark.png
+SHA1-Digest: eXpHsKhUWPFOZPkKlLFLqd2Bu4c=
+
+Name: res/drawable-xhdpi-v4/abc_text_select_handle_right_mtrl_light.pn
+ g
+SHA1-Digest: ubcsLJOipiWUipWvjL7+QYtPl/I=
+
+Name: res/drawable-xhdpi-v4/abc_textfield_activated_mtrl_alpha.9.png
+SHA1-Digest: aGoDqShCvfRBOcYadujzbODhe1U=
+
+Name: res/drawable-xhdpi-v4/abc_textfield_default_mtrl_alpha.9.png
+SHA1-Digest: L12XNgC05BSQghB6JCrs8Us9eEo=
+
+Name: res/drawable-xhdpi-v4/abc_textfield_search_activated_mtrl_alpha.
+ 9.png
+SHA1-Digest: 3u3fLmehvZBhy/5ikwcph94VGWM=
+
+Name: res/drawable-xhdpi-v4/abc_textfield_search_default_mtrl_alpha.9.
+ png
+SHA1-Digest: s9/qxuNt34tuDKZEbu3WbQxLGWs=
+
+Name: res/drawable-xhdpi-v4/common_full_open_on_phone.png
+SHA1-Digest: HP+31ii3IcHx4ttOhH81nkSK1a8=
+
+Name: res/drawable-xhdpi-v4/common_google_signin_btn_icon_dark_normal_
+ background.9.png
+SHA1-Digest: yD9oZ20JeI0KgCsh9WHkjjufTLU=
+
+Name: res/drawable-xhdpi-v4/common_google_signin_btn_icon_light_normal
+ _background.9.png
+SHA1-Digest: YWT3Hu0c24Wx6GE5EQWO6lX0T2A=
+
+Name: res/drawable-xhdpi-v4/common_google_signin_btn_text_dark_normal_
+ background.9.png
+SHA1-Digest: eDEv0/H5H+qqc28Qi2s85+/aPLA=
+
+Name: res/drawable-xhdpi-v4/common_google_signin_btn_text_light_normal
+ _background.9.png
+SHA1-Digest: V5BgoOMFP6SkB/Rq1phUjJUqsSo=
+
+Name: res/drawable-xhdpi-v4/design_ic_visibility.png
+SHA1-Digest: sLGASbv+yH0/bvtU1dWA71BSukI=
+
+Name: res/drawable-xhdpi-v4/design_ic_visibility_off.png
+SHA1-Digest: oeEe1QmireSZ4VDrB8Gmuwyf+Ok=
+
+Name: res/drawable-xhdpi-v4/disconnect.png
+SHA1-Digest: jbV3sFC53jdq60H6jSiqvFamiqQ=
+
+Name: res/drawable-xhdpi-v4/duo_watermark.png
+SHA1-Digest: jle4Zfus7qQ3jjheq9k6Oyk3XfU=
+
+Name: res/drawable-xhdpi-v4/googleg_disabled_color_18.png
+SHA1-Digest: L11lHK2mmgu/o18gIGjz6Dil0fo=
+
+Name: res/drawable-xhdpi-v4/googleg_standard_color_18.png
+SHA1-Digest: PIph7M4ZHhY/AYP5Y1gUzmtpP60=
+
+Name: res/drawable-xhdpi-v4/googleg_standard_color_24.png
+SHA1-Digest: hbcjiZeaT4u7TcAGSYtPYMGtC7Y=
+
+Name: res/drawable-xhdpi-v4/googlelogo_dark20_color_132x44.png
+SHA1-Digest: ySRGT6xZ4FWorgPCVX3A9PFIvBs=
+
+Name: res/drawable-xhdpi-v4/googlelogo_dark_color_62x24.png
+SHA1-Digest: 5EhXExSsfnqScKhP/a/IUCCbtOA=
+
+Name: res/drawable-xhdpi-v4/googlelogo_light_color.png
+SHA1-Digest: yDDRpkaeIQHZEcWeKsFGiJeugKA=
+
+Name: res/drawable-xhdpi-v4/ic_action_mic.png
+SHA1-Digest: fekfGnjp2m3Ye26+lil5XMvPRMA=
+
+Name: res/drawable-xhdpi-v4/ic_action_refresh.png
+SHA1-Digest: bIOwxkY5bxA4ICH1DJihAfObL2o=
+
+Name: res/drawable-xhdpi-v4/ic_action_stop.png
+SHA1-Digest: P1omn5FTvnEcoeMQU610wcqwlWg=
+
+Name: res/drawable-xhdpi-v4/ic_action_user.png
+SHA1-Digest: VF8rMlU6j8wcD46zYhYCUQrWT/w=
+
+Name: res/drawable-xhdpi-v4/ic_backspace.png
+SHA1-Digest: wPLXxOMZrEccii62jTIOfZ7jino=
+
+Name: res/drawable-xhdpi-v4/ic_battery_alert.png
+SHA1-Digest: 9DpJQFavJsHSfEWt/EM+Y/8TfZQ=
+
+Name: res/drawable-xhdpi-v4/ic_battery_high.png
+SHA1-Digest: pmEODTFZo/jRM88bomrm9WvdwYU=
+
+Name: res/drawable-xhdpi-v4/ic_call_made.png
+SHA1-Digest: WlbZzK94rtHPaYmQUbVJ9Mc8OCg=
+
+Name: res/drawable-xhdpi-v4/ic_call_missed.png
+SHA1-Digest: rGz33AscstBJndAbI/tEPNnF/Os=
+
+Name: res/drawable-xhdpi-v4/ic_call_received.png
+SHA1-Digest: TZha+Ob13McHcuSoRR4C7pc5wXI=
+
+Name: res/drawable-xhdpi-v4/ic_duo_launcher.png
+SHA1-Digest: tTPlYErRN+hpe1fYXVG7VCtY/po=
+
+Name: res/drawable-xhdpi-v4/ic_loopback_call.png
+SHA1-Digest: 2+MOOuNG6YuMtSuJZJ5OzUdPldI=
+
+Name: res/drawable-xhdpi-v4/ic_message.png
+SHA1-Digest: 8d9qkM8Xdtmp45+xQRK/AQg0F7g=
+
+Name: res/drawable-xhdpi-v4/ic_overflow_menu.png
+SHA1-Digest: BpRfvOgqh+hwFxSTj6nJZfD3WUw=
+
+Name: res/drawable-xhdpi-v4/ic_search.png
+SHA1-Digest: fpTT0vKyV8ptb0BSoRuNLMDnibo=
+
+Name: res/drawable-xhdpi-v4/ic_sentiment_dissatisfied_grey600_36dp.png
+SHA1-Digest: k4ElSLg+wOmzApcN3IzoYJgYpsI=
+
+Name: res/drawable-xhdpi-v4/ic_sentiment_neutral_grey600_36dp.png
+SHA1-Digest: t+jkVKBpw4nyMIQIxG9YIR/HdWI=
+
+Name: res/drawable-xhdpi-v4/ic_sentiment_satisfied_grey600_36dp.png
+SHA1-Digest: 8fYyC2HuUb/Ljw+sB1DzfXMD2ms=
+
+Name: res/drawable-xhdpi-v4/ic_sentiment_very_dissatisfied_grey600_36d
+ p.png
+SHA1-Digest: AVCNGBZKMNdzVMxt32xkmZUCpB8=
+
+Name: res/drawable-xhdpi-v4/ic_sentiment_very_satisfied_grey600_36dp.p
+ ng
+SHA1-Digest: cD00d0MbMyOYwxPZ9mIgjb7wQqU=
+
+Name: res/drawable-xhdpi-v4/ic_speaker_phone.png
+SHA1-Digest: 4GquGd9dtybzM3x4PDUYeeXHL9s=
+
+Name: res/drawable-xhdpi-v4/ic_switch_camera.png
+SHA1-Digest: Zfy7rhO4V35SKyKpBKpkmoQeAJo=
+
+Name: res/drawable-xhdpi-v4/ic_volume_up.png
+SHA1-Digest: XdAP5PVFVPE+K9VPLkj1dnzRwTA=
+
+Name: res/drawable-xhdpi-v4/illu_contact_permission_warmup.png
+SHA1-Digest: sf5dV9C0w80FVJHw6dhc7fq+nVk=
+
+Name: res/drawable-xhdpi-v4/illu_edu_knock_knock.png
+SHA1-Digest: 2PfjDDVb3YXBFWigxIjwOcQleS8=
+
+Name: res/drawable-xhdpi-v4/illu_empty_blocked_contacts.png
+SHA1-Digest: p2lLzWqJgSRV4PuDEogr110fTzQ=
+
+Name: res/drawable-xhdpi-v4/illu_feedback_hearts.png
+SHA1-Digest: S7ajBck2w34hO9HxnQklgfFENIc=
+
+Name: res/drawable-xhdpi-v4/illu_permissions_contacts.png
+SHA1-Digest: maTxp1VW1rV31hH7hYFk/RVlvIU=
+
+Name: res/drawable-xhdpi-v4/illu_permissions_overview.png
+SHA1-Digest: y1XRcmMtQHFkn+PY+T22L4e8Ou4=
+
+Name: res/drawable-xhdpi-v4/illu_permissions_upgrade.png
+SHA1-Digest: faet3yf/NzBHI8jk0gjpF34McPQ=
+
+Name: res/drawable-xhdpi-v4/illu_welcome.png
+SHA1-Digest: TetPNpaQW8soaKUw39xSHfUvsXw=
+
+Name: res/drawable-xhdpi-v4/illu_welcome_location_hand.png
+SHA1-Digest: eX1SKrlUFsYkAQHKHSfVYsUiT6k=
+
+Name: res/drawable-xhdpi-v4/illu_welcome_location_wave.png
+SHA1-Digest: AlQUnuMMiDVeXqQJ1iBdKunDPzg=
+
+Name: res/drawable-xhdpi-v4/notification_bg_low_normal.9.png
+SHA1-Digest: dnObiFrk1DvtR5VGgJWQwE6oNeo=
+
+Name: res/drawable-xhdpi-v4/notification_bg_low_pressed.9.png
+SHA1-Digest: 9MYmMKRnfwttaoRGc1WDg0jzgyY=
+
+Name: res/drawable-xhdpi-v4/notification_bg_normal.9.png
+SHA1-Digest: URz3Lz/tIjMAtXfNHimWcDQLTtQ=
+
+Name: res/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png
+SHA1-Digest: iJFesSsAAmE1zFB9XbiCZW1cKKU=
+
+Name: res/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png
+SHA1-Digest: cuJ+cwlm5QO6frAFAjbS9w6zhJ4=
+
+Name: res/drawable-xhdpi-v4/product_logo_duo_color_144.png
+SHA1-Digest: R1MotPrlz6HbA9I91r+4Wy4eA64=
+
+Name: res/drawable-xhdpi-v4/product_logo_googleg_color_24.png
+SHA1-Digest: oCdUMbg6Jn18ImKqJJXuOmG9y2U=
+
+Name: res/drawable-xhdpi-v4/quantum_ic_arrow_back_grey600_24.png
+SHA1-Digest: m19+U5w2fNfIAkYxTLiPEDAc21s=
+
+Name: res/drawable-xhdpi-v4/quantum_ic_arrow_back_white_24.png
+SHA1-Digest: 7D0eQCPuu77Wg8rxLqIJzOTq/BY=
+
+Name: res/drawable-xhdpi-v4/quantum_ic_block_white_48.png
+SHA1-Digest: Ka7IGNh1QAOpNpZOC4EmwK78Y4I=
+
+Name: res/drawable-xhdpi-v4/quantum_ic_bluetooth_black_36.png
+SHA1-Digest: CkSDRXc2m/MC0o4PGlS1bMUxY14=
+
+Name: res/drawable-xhdpi-v4/quantum_ic_bluetooth_white_36.png
+SHA1-Digest: o8vHp1Zn75wNI39/o6vAg2S24IM=
+
+Name: res/drawable-xhdpi-v4/quantum_ic_bug_report_black_24.png
+SHA1-Digest: liw9tLonQoeANHiRQe2tjMzEglg=
+
+Name: res/drawable-xhdpi-v4/quantum_ic_call_end_googred_24.png
+SHA1-Digest: kgND/mwy3VH9CGXOqn53wEsF08U=
+
+Name: res/drawable-xhdpi-v4/quantum_ic_call_end_white_24.png
+SHA1-Digest: 2mICXgd9qL2vFk2oMHd2JhblHoI=
+
+Name: res/drawable-xhdpi-v4/quantum_ic_call_googblue_24.png
+SHA1-Digest: YMA4Mbg8oBPOLnVwGOwA3HSRo1Q=
+
+Name: res/drawable-xhdpi-v4/quantum_ic_call_missed_white_24.png
+SHA1-Digest: ysn6FJAmcCKYLfNFoNxI4wm4hfQ=
+
+Name: res/drawable-xhdpi-v4/quantum_ic_call_white_24.png
+SHA1-Digest: wZhtxmf+1UJ4gNCOJVNlFDAiPQY=
+
+Name: res/drawable-xhdpi-v4/quantum_ic_call_white_36.png
+SHA1-Digest: l3Keu0NEXKBiw7gcwmrGmqooFk4=
+
+Name: res/drawable-xhdpi-v4/quantum_ic_call_white_48.png
+SHA1-Digest: xoOQ1qDT7zn+2SdL0xgzn1bVCmo=
+
+Name: res/drawable-xhdpi-v4/quantum_ic_cast_black_36.png
+SHA1-Digest: O/EXldNPjgvsA/NiJjvbHyyhx2A=
+
+Name: res/drawable-xhdpi-v4/quantum_ic_cast_white_36.png
+SHA1-Digest: ngkLHPtQ8z9C39Pu0mRMpCbMVZc=
+
+Name: res/drawable-xhdpi-v4/quantum_ic_chevron_right_white_24.png
+SHA1-Digest: qhKgIzaibfUlx+nwfJS+Ajf0tjw=
+
+Name: res/drawable-xhdpi-v4/quantum_ic_clear_white_24.png
+SHA1-Digest: +4AzQUVFPv/5q7gLOhB39/nBPAU=
+
+Name: res/drawable-xhdpi-v4/quantum_ic_close_grey600_24.png
+SHA1-Digest: q7qu7wOa8Q+Eu+utRteB4V2GVg8=
+
+Name: res/drawable-xhdpi-v4/quantum_ic_close_white_24.png
+SHA1-Digest: sqWR/EFNA7W0RcBNadupJRKycwQ=
+
+Name: res/drawable-xhdpi-v4/quantum_ic_delete_white_24.png
+SHA1-Digest: iWwhECMtEBwoOCuf71MZq56xuZs=
+
+Name: res/drawable-xhdpi-v4/quantum_ic_do_not_disturb_on_white_24.png
+SHA1-Digest: NUVoB0WtfLSqpeaWsd/3Xd/zp4U=
+
+Name: res/drawable-xhdpi-v4/quantum_ic_feedback_white_24.png
+SHA1-Digest: H7HiO+7rRq8olyyWCq2RBc8nv88=
+
+Name: res/drawable-xhdpi-v4/quantum_ic_file_download_white_24.png
+SHA1-Digest: 5kJRjzYyG650GnMpAA3j7S+MlgM=
+
+Name: res/drawable-xhdpi-v4/quantum_ic_help_outline_white_24.png
+SHA1-Digest: 57xKfsEa5JLOqmX9i12pufHUzfk=
+
+Name: res/drawable-xhdpi-v4/quantum_ic_mic_off_black_36.png
+SHA1-Digest: Q18a+FlpOhMqMUXQBw9dv4IZUAg=
+
+Name: res/drawable-xhdpi-v4/quantum_ic_mic_off_white_24.png
+SHA1-Digest: pbHpNixelqmLbZfJ8MM3wnlLS+c=
+
+Name: res/drawable-xhdpi-v4/quantum_ic_mic_off_white_36.png
+SHA1-Digest: Md/s8LVexZzx3zVeFIyMt/zGWfQ=
+
+Name: res/drawable-xhdpi-v4/quantum_ic_missed_video_call_white_24.png
+SHA1-Digest: msyoZN1nnUWgUBDBnRFf5+Vy9yM=
+
+Name: res/drawable-xhdpi-v4/quantum_ic_more_vert_white_24.png
+SHA1-Digest: zoeCgQ5Jvm3LN0lkc2VExzoJeT8=
+
+Name: res/drawable-xhdpi-v4/quantum_ic_navigate_before_white_36.png
+SHA1-Digest: 1tyjqARmynhbzxP3xTI5uf05ubA=
+
+Name: res/drawable-xhdpi-v4/quantum_ic_navigate_next_white_36.png
+SHA1-Digest: I9vvd5/aUXcqO+8Rbr7si+df4hQ=
+
+Name: res/drawable-xhdpi-v4/quantum_ic_network_cell_white_24.png
+SHA1-Digest: Wy1lW9/uLayYan+AwFBSUsGrWtA=
+
+Name: res/drawable-xhdpi-v4/quantum_ic_network_wifi_white_24.png
+SHA1-Digest: om0Dj2FfWs9+huYrzZ+yfbuAg7k=
+
+Name: res/drawable-xhdpi-v4/quantum_ic_person_add_white_24.png
+SHA1-Digest: B+1HFoi1gyNPfku6zr3diCpRgMY=
+
+Name: res/drawable-xhdpi-v4/quantum_ic_person_white_36.png
+SHA1-Digest: TyXbtQ+lJn6+9QnMUBiPUq8f+f4=
+
+Name: res/drawable-xhdpi-v4/quantum_ic_phone_googblue_18.png
+SHA1-Digest: dfmwS/pJEUfr11PO9ibQoyS0xUk=
+
+Name: res/drawable-xhdpi-v4/quantum_ic_phone_missed_white_24.png
+SHA1-Digest: Yx68BcRiNmEnhTd3/PxchGvohMs=
+
+Name: res/drawable-xhdpi-v4/quantum_ic_phone_white_24.png
+SHA1-Digest: wZhtxmf+1UJ4gNCOJVNlFDAiPQY=
+
+Name: res/drawable-xhdpi-v4/quantum_ic_play_arrow_black_24.png
+SHA1-Digest: Ap16RlpCFXrgYGgWJn/VyKBwJb0=
+
+Name: res/drawable-xhdpi-v4/quantum_ic_play_arrow_white_24.png
+SHA1-Digest: rNvj6aTRy2mnVfbjHTAsbpUNab4=
+
+Name: res/drawable-xhdpi-v4/quantum_ic_play_arrow_white_36.png
+SHA1-Digest: oFf4CpCXgWDKd92dYE5mUb7HPNY=
+
+Name: res/drawable-xhdpi-v4/quantum_ic_reply_white_24.png
+SHA1-Digest: Aw0DLGhnHcyit4dWguwmpLN6TbU=
+
+Name: res/drawable-xhdpi-v4/quantum_ic_search_black_24.png
+SHA1-Digest: mpTDOMcnDpRMC3RBgfrfAm3XYKA=
+
+Name: res/drawable-xhdpi-v4/quantum_ic_search_white_24.png
+SHA1-Digest: 4VIQ0cvOM/CjbOfdlB+DJqgArIc=
+
+Name: res/drawable-xhdpi-v4/quantum_ic_send_white_24.png
+SHA1-Digest: G/FeS0CIjqU33ywiK7SzJkywEvM=
+
+Name: res/drawable-xhdpi-v4/quantum_ic_star_border_grey600_24.png
+SHA1-Digest: i2NRc1LAbYTZBQrVR6KKL/Phmg0=
+
+Name: res/drawable-xhdpi-v4/quantum_ic_star_grey600_24.png
+SHA1-Digest: 1jikmMdJ1t1nUhLpp+fqhN35UTg=
+
+Name: res/drawable-xhdpi-v4/quantum_ic_textsms_white_18.png
+SHA1-Digest: CmhktmL2uQTxUgdZpZS2HSEC9Wo=
+
+Name: res/drawable-xhdpi-v4/quantum_ic_textsms_white_24.png
+SHA1-Digest: m2FnomgUmfMCO+C40F6IPRGLIDs=
+
+Name: res/drawable-xhdpi-v4/quantum_ic_videocam_googblue_18.png
+SHA1-Digest: 36nlwasO1yK0ediu0u60J2lrSPM=
+
+Name: res/drawable-xhdpi-v4/quantum_ic_videocam_googblue_24.png
+SHA1-Digest: O9q0aQomD/35+kPkmBLagbkMkqs=
+
+Name: res/drawable-xhdpi-v4/quantum_ic_videocam_white_24.png
+SHA1-Digest: 9OoJgNVL5zCyS3tvbGGgW/z1pDQ=
+
+Name: res/drawable-xhdpi-v4/quantum_ic_videocam_white_36.png
+SHA1-Digest: ccsgnNX5EUOiaEeFrb08mY+0/GE=
+
+Name: res/drawable-xhdpi-v4/quantum_ic_volume_up_black_24.png
+SHA1-Digest: hiO06kzgyns4rKWWtu1PspEDjW0=
+
+Name: res/drawable-xhdpi-v4/quantum_ic_volume_up_white_24.png
+SHA1-Digest: XdAP5PVFVPE+K9VPLkj1dnzRwTA=
+
+Name: res/drawable-xhdpi-v4/smoothie_avatar_cricle.png
+SHA1-Digest: tSjRHBZu4KSr9evrIaeuiVKMfWw=
+
+Name: res/drawable-xhdpi-v4/test_call_avatar_br.png
+SHA1-Digest: ZSk0Fxhb8b9Wu2IH0Yu9or7nCoY=
+
+Name: res/drawable-xhdpi-v4/test_call_avatar_in.png
+SHA1-Digest: 0dZOmX+Zz35eyT9ITN6Ro83N7QU=
+
+Name: res/drawable-xhdpi-v4/verification_check.png
+SHA1-Digest: Hz2hghqMfj6DzMrlPl6rniDch/Q=
+
+Name: res/drawable-xhdpi-v4/video_message_start_record.png
+SHA1-Digest: uMuro3vEOzlahqrt46JAkD5A8ZQ=
+
+Name: res/drawable-xhdpi-v4/video_message_stop_record.png
+SHA1-Digest: 4JUQBak2OsC0QB9O03dLxn2ANW8=
+
+Name: res/drawable/abc_btn_borderless_material.xml
+SHA1-Digest: rPL1lJzRovUC1nEamnoL6zg2+0U=
+
+Name: res/drawable/abc_btn_check_material.xml
+SHA1-Digest: 4XHnecusACTIgtImUjC7bQ9HNM8=
+
+Name: res/drawable/abc_btn_colored_material.xml
+SHA1-Digest: c1kBk3kYH1Q2Zf0o2yN8Btg8MFI=
+
+Name: res/drawable/abc_btn_default_mtrl_shape.xml
+SHA1-Digest: zTK3jWodBqoUPsE/VGvEugZc7M0=
+
+Name: res/drawable/abc_btn_radio_material.xml
+SHA1-Digest: UTYOeeEsntRapgE5ZWUWf1IlU/I=
+
+Name: res/drawable/abc_cab_background_internal_bg.xml
+SHA1-Digest: 9JWJR0qt9ACSmUHvHpdMc/ljSx0=
+
+Name: res/drawable/abc_cab_background_top_material.xml
+SHA1-Digest: gLHAZPEH/WYlWCNIPwRV1Ypbx70=
+
+Name: res/drawable/abc_dialog_material_background.xml
+SHA1-Digest: l0M3oq0dSvqXzuiDjFty5ess9ic=
+
+Name: res/drawable/abc_edit_text_material.xml
+SHA1-Digest: Rzg7wDJDthK9jUT28C9cG7z9zOE=
+
+Name: res/drawable/abc_ic_ab_back_material.xml
+SHA1-Digest: KGT2d59jiONIvh/rg3bl6oWFA5s=
+
+Name: res/drawable/abc_ic_arrow_drop_right_black_24dp.xml
+SHA1-Digest: 64w6zCC91O19KXc7XOJh0448SrE=
+
+Name: res/drawable/abc_ic_clear_material.xml
+SHA1-Digest: 3MGBSJ1bWlYc/uJTP++edJ0FvCE=
+
+Name: res/drawable/abc_ic_go_search_api_material.xml
+SHA1-Digest: AbzBx5DjiSkCIi/8GuXnxk33HZY=
+
+Name: res/drawable/abc_ic_menu_overflow_material.xml
+SHA1-Digest: Kmeq7CZg6yCnX3806zfqqk6NGOc=
+
+Name: res/drawable/abc_ic_search_api_material.xml
+SHA1-Digest: HJxeUjjxrw1qwoPu5VkEz0f6K1g=
+
+Name: res/drawable/abc_ic_voice_search_api_material.xml
+SHA1-Digest: EbuMuUlJQYzbP+ryWQ7bbnZxy2g=
+
+Name: res/drawable/abc_item_background_holo_dark.xml
+SHA1-Digest: EYfXWBiFkD5pE+x4VQkg8UKkBDw=
+
+Name: res/drawable/abc_item_background_holo_light.xml
+SHA1-Digest: fDShwzepkR49aya4UNh+v22s1Nw=
+
+Name: res/drawable/abc_list_selector_background_transition_holo_dark.x
+ ml
+SHA1-Digest: LVSNyw7X6tB9DukmioIVl33ZyuQ=
+
+Name: res/drawable/abc_list_selector_background_transition_holo_light.
+ xml
+SHA1-Digest: AdlBQF7mCKx3VlJQ4HaRjQeNXyo=
+
+Name: res/drawable/abc_list_selector_holo_dark.xml
+SHA1-Digest: Zlmbg+JWzYfCIIOn1SxRANlh8xo=
+
+Name: res/drawable/abc_list_selector_holo_light.xml
+SHA1-Digest: y4DqLE9ZMUXA7mpN9gzH7cgYblE=
+
+Name: res/drawable/abc_ratingbar_indicator_material.xml
+SHA1-Digest: jSCetwmEsQWxASeYyjO7YhmGUG0=
+
+Name: res/drawable/abc_ratingbar_material.xml
+SHA1-Digest: eEVopjQX6W514WoHxn9rLKQ1T5Y=
+
+Name: res/drawable/abc_ratingbar_small_material.xml
+SHA1-Digest: gaRS2sbjCfcJo3xOrkhIdr9XwZg=
+
+Name: res/drawable/abc_seekbar_thumb_material.xml
+SHA1-Digest: R+zfNUVLkXYZ8GH32A2aK443lBQ=
+
+Name: res/drawable/abc_seekbar_tick_mark_material.xml
+SHA1-Digest: Gv5AkxS/KQ2aFfLBDBEy2tLFQVg=
+
+Name: res/drawable/abc_seekbar_track_material.xml
+SHA1-Digest: 17M1OyJgbSyvZxbg3tUg5REGwOg=
+
+Name: res/drawable/abc_spinner_textfield_background_material.xml
+SHA1-Digest: RkAyh0z8Znc8qIYsS4ED5szUgUI=
+
+Name: res/drawable/abc_switch_thumb_material.xml
+SHA1-Digest: sujPDGksEdg29cR87ymiy/LIS08=
+
+Name: res/drawable/abc_tab_indicator_material.xml
+SHA1-Digest: V5veQwsCSGKsSBtGwB7BwIrrJ60=
+
+Name: res/drawable/abc_text_cursor_material.xml
+SHA1-Digest: e08kbab0hCmZ+bodjZ7WbbBG5g4=
+
+Name: res/drawable/abc_textfield_search_material.xml
+SHA1-Digest: 8giC/fE0IdR99JkjVckRfEKYAc0=
+
+Name: res/drawable/abc_vector_test.xml
+SHA1-Digest: 4yJGw44hdFgotEL2tng9U1c82Mw=
+
+Name: res/drawable/call_accept_background.xml
+SHA1-Digest: eXhs3Mm7hBAg1e3/p361f8kbDvo=
+
+Name: res/drawable/call_accept_selector.xml
+SHA1-Digest: 8A4bejwYIe6iJtE2+QUA5CxYhyI=
+
+Name: res/drawable/call_decline_background.xml
+SHA1-Digest: gQptwyaF1o+XVK7Y443zAPqkuO4=
+
+Name: res/drawable/call_decline_background_pressed.xml
+SHA1-Digest: IaGuWDdGo/C2EIkG5oEleW06yCI=
+
+Name: res/drawable/call_decline_background_selector.xml
+SHA1-Digest: lSdFYGk6YBodz7VsEoB0peWoXSk=
+
+Name: res/drawable/call_decline_selector.xml
+SHA1-Digest: qyiBdxleLNU2JJoAi1GNbsTJHWE=
+
+Name: res/drawable/call_mode_toggle_thumb.xml
+SHA1-Digest: tbOpMwmAI6F8T0kezwmw7K1M6ck=
+
+Name: res/drawable/call_mode_toggle_track.xml
+SHA1-Digest: iY9o388A84V07T62oexVvhMuiPE=
+
+Name: res/drawable/camera_live_dot.xml
+SHA1-Digest: BQVVVvSQnCchU7IW2npwuMMIU7I=
+
+Name: res/drawable/circular_background.xml
+SHA1-Digest: 6KYd1xd4mnvkl+oLYbh6q8K4Wzg=
+
+Name: res/drawable/circular_background_alert.xml
+SHA1-Digest: sZoqXOv0+ZtaH6lb33CMRcnTRU4=
+
+Name: res/drawable/circular_background_dark.xml
+SHA1-Digest: N9GBlFFGPcRXdrrMVmJ54QYDsBA=
+
+Name: res/drawable/circular_background_dark_animated_selector.xml
+SHA1-Digest: tAafdZIJoxkgfsvfPtyh23e7BSU=
+
+Name: res/drawable/circular_background_dark_selector.xml
+SHA1-Digest: TtPzdeLYUZVX+IQdvMDfX7/YhgA=
+
+Name: res/drawable/circular_background_googleblue_600.xml
+SHA1-Digest: E/2qcmg28i6Jo5zhfIOYYtzZ77M=
+
+Name: res/drawable/circular_background_green.xml
+SHA1-Digest: ZADz7TMrUxXE4VsKPCPPfsvJH58=
+
+Name: res/drawable/circular_background_inactive.xml
+SHA1-Digest: Vi8Xj9+IM8gJ7HVTEnqgKpIDE10=
+
+Name: res/drawable/circular_background_shadow.xml
+SHA1-Digest: 0bpzBXftqpNYxkiJTBsMRu/Ix3E=
+
+Name: res/drawable/circular_background_white_50.xml
+SHA1-Digest: 6W0N6cdK3juBbXuT54rSa7EKRTY=
+
+Name: res/drawable/circular_foreground_pressed.xml
+SHA1-Digest: juLZ41x2xvF/d0LcOUeRZ73fzPc=
+
+Name: res/drawable/circular_foreground_transparent.xml
+SHA1-Digest: 00CVny1tO0Ja9DlPaAVsgE1lTK0=
+
+Name: res/drawable/circular_progress_bar.xml
+SHA1-Digest: 1XkFN5xQ6XssRJ19PksS/sCo5do=
+
+Name: res/drawable/color_cursor.xml
+SHA1-Digest: IsxmOajOxHZczC9lttybfJLSgyw=
+
+Name: res/drawable/common_google_signin_btn_icon_dark.xml
+SHA1-Digest: gDVbnAVz4IZYvGL8dBBYkc8QEyg=
+
+Name: res/drawable/common_google_signin_btn_icon_dark_focused.xml
+SHA1-Digest: 3OXy5T2IK2KNEkJ1oH9KL/cCuMo=
+
+Name: res/drawable/common_google_signin_btn_icon_dark_normal.xml
+SHA1-Digest: ohKDxbX8+wg3SfgWTBTpn5JlLmA=
+
+Name: res/drawable/common_google_signin_btn_icon_disabled.xml
+SHA1-Digest: PoaCmrDBVopNZpqqJdqfhW9vVQ8=
+
+Name: res/drawable/common_google_signin_btn_icon_light.xml
+SHA1-Digest: p3SNqtQzOCBOlQ9WKbnBLoqnyp0=
+
+Name: res/drawable/common_google_signin_btn_icon_light_focused.xml
+SHA1-Digest: LcamFhnnq1Nej0zXCtAeW6A+wrI=
+
+Name: res/drawable/common_google_signin_btn_icon_light_normal.xml
+SHA1-Digest: xucRvTojeU3S9NCucsvTmD7cMGk=
+
+Name: res/drawable/common_google_signin_btn_text_dark.xml
+SHA1-Digest: wttJTGWHFLduY3LNcIxx8jAcymI=
+
+Name: res/drawable/common_google_signin_btn_text_dark_focused.xml
+SHA1-Digest: xavFYkFxZSZRWo11+bm3I8pToZY=
+
+Name: res/drawable/common_google_signin_btn_text_dark_normal.xml
+SHA1-Digest: nD42rS7Ud4zs6Cy0PQoXmszQDdU=
+
+Name: res/drawable/common_google_signin_btn_text_disabled.xml
+SHA1-Digest: /P6teEsgQWTvQdtaH3IPc7e2KOY=
+
+Name: res/drawable/common_google_signin_btn_text_light.xml
+SHA1-Digest: HhMLtpz2r+DNgI4KtfXJyaxEEyY=
+
+Name: res/drawable/common_google_signin_btn_text_light_focused.xml
+SHA1-Digest: DbQItgBAq37CfXs9rLKmExF3zlo=
+
+Name: res/drawable/common_google_signin_btn_text_light_normal.xml
+SHA1-Digest: oug1ADtJ0vaC4YyUZkOvaiR7oMU=
+
+Name: res/drawable/contact_actions_drop_shadow.xml
+SHA1-Digest: Bi1DFSJ7wBX0kR5MOmFeE57P4B0=
+
+Name: res/drawable/contact_item_overlay_selector.xml
+SHA1-Digest: 8g1ZBM/dYWL3VJsP+VbDAqJIYvo=
+
+Name: res/drawable/contact_missed_call_badge_background.xml
+SHA1-Digest: Xgcuc6ni2SfXNYWGfMPg/rGPBoQ=
+
+Name: res/drawable/contact_outgoing_audio_call_badge_background.xml
+SHA1-Digest: 5wDMBnLhh8+muZJnhR4bWPQkdNY=
+
+Name: res/drawable/contact_outgoing_video_call_badge_background.xml
+SHA1-Digest: qXRh0rRxYJ19C949STFCw68+Li4=
+
+Name: res/drawable/contacts_card_header.xml
+SHA1-Digest: vxZtbuFSz5b4RP/1ggI8koDB/qY=
+
+Name: res/drawable/contacts_card_header_dropshadow.xml
+SHA1-Digest: Bi1DFSJ7wBX0kR5MOmFeE57P4B0=
+
+Name: res/drawable/contacts_card_invite_badge_bg.xml
+SHA1-Digest: Kho51Y3btmUjRfniRUDf5PugubQ=
+
+Name: res/drawable/design_bottom_navigation_item_background.xml
+SHA1-Digest: CWW4mfISMH+Ot1PsBcU5OOmhiCU=
+
+Name: res/drawable/design_fab_background.xml
+SHA1-Digest: 2IXtIQ8BMr6/gZ9iOW0d/IwZH6A=
+
+Name: res/drawable/design_password_eye.xml
+SHA1-Digest: sgK+fB3IDFJ+iQ7OGK6tQC2iP48=
+
+Name: res/drawable/design_snackbar_background.xml
+SHA1-Digest: 1PPwWJgNFJ4yqlBgotUc4ANDLzs=
+
+Name: res/drawable/dialog_background.xml
+SHA1-Digest: leUkBj6dqV/Exkkf5xqa1zZw5PY=
+
+Name: res/drawable/front_back_switch_button.xml
+SHA1-Digest: 2VXMyFYz+0qaugjjSBpqAVCM+yg=
+
+Name: res/drawable/front_back_switch_button_animation.xml
+SHA1-Digest: 1HrhrS7xhO3Pk6h4goFQWZmh6P4=
+
+Name: res/drawable/hats_blue_button.xml
+SHA1-Digest: y39oMdxF8SGQl34aP/C5jGVJEvU=
+
+Name: res/drawable/hats_close_button.xml
+SHA1-Digest: 1KTYN5RIEXvpR1d7bVJGXTl9xj0=
+
+Name: res/drawable/hats_open_text_border.xml
+SHA1-Digest: eOPePEM05CEZOyO2/5kzGjgrCwU=
+
+Name: res/drawable/hats_white_button.xml
+SHA1-Digest: mwp5QyADHAGy+XBIfmaovA56kMU=
+
+Name: res/drawable/in_call_prompt_background.xml
+SHA1-Digest: tj7Zj6SYwgteBxhytBspo79UZM4=
+
+Name: res/drawable/indicator_background.xml
+SHA1-Digest: q9oUJ2USaCezManJdC2lMKCELo0=
+
+Name: res/drawable/launcher_background_black.xml
+SHA1-Digest: D5k+L8RB9I00HW36x3YZL/uif5s=
+
+Name: res/drawable/launcher_background_white.xml
+SHA1-Digest: 2J8/s3UwrHF61q6UoLzV/u6SbTs=
+
+Name: res/drawable/navigation_empty_icon.xml
+SHA1-Digest: QXwZo7CnZvrVHKaxECYxcrysOTw=
+
+Name: res/drawable/new_video_call_background_thick.xml
+SHA1-Digest: kaShxR3eqdniCCcbv80zLvkZ3W4=
+
+Name: res/drawable/new_video_call_background_thin.xml
+SHA1-Digest: pPtyWmJCT15SJ1qb32GRd0JLFzs=
+
+Name: res/drawable/notification_bg.xml
+SHA1-Digest: gQJBAVQ333VxLBpHN9vGTaLXuS8=
+
+Name: res/drawable/notification_bg_low.xml
+SHA1-Digest: p72y18AkAXhfznJPH18fvE4fkLU=
+
+Name: res/drawable/notification_icon_background.xml
+SHA1-Digest: kuOX1VctbxyAZ1g/DfpdIH1MXCw=
+
+Name: res/drawable/notification_tile_bg.xml
+SHA1-Digest: Q/BnPsDeh4+CYVyU2+2hjuQ+HA8=
+
+Name: res/drawable/pin_code_underline.xml
+SHA1-Digest: ZKwNOgceEo4tLBteHK0fs3diZu8=
+
+Name: res/drawable/pin_code_underline_incorrect.xml
+SHA1-Digest: 3fvBvND5hKNI9Ba077R2Lt3TZoY=
+
+Name: res/drawable/pointer_triangle.xml
+SHA1-Digest: sRYl6r+dDRjZe25sP6tN5LyaEQk=
+
+Name: res/drawable/popup_settings_background.xml
+SHA1-Digest: D7vjufgutFQirLIAo/oAwkloiqY=
+
+Name: res/drawable/reg_button_background_selector.xml
+SHA1-Digest: TFMkdp6m16A5pTGoKm1tIzDy/NQ=
+
+Name: res/drawable/reg_button_bg_active.xml
+SHA1-Digest: xwHJ6tzs58eNzrE2OdYwOkeM1CU=
+
+Name: res/drawable/reg_button_bg_inactive.xml
+SHA1-Digest: 8xE/iFONSvrIfkDsJKVf3VcYgyA=
+
+Name: res/drawable/ring_anim_inner_bg.xml
+SHA1-Digest: z3is1zNu26MYhLDHqub21PUMo/o=
+
+Name: res/drawable/ring_anim_stroke_bg.xml
+SHA1-Digest: f/5sN0EiPOFvWgnL0R4ieuOfR+8=
+
+Name: res/drawable/round_blue_rect.xml
+SHA1-Digest: PPWLZzTsPDGCcVvI/qTY1nEytlI=
+
+Name: res/drawable/round_grey_rect.xml
+SHA1-Digest: onnQmUQpR+vU4bQMYMqfhRrfNJI=
+
+Name: res/drawable/round_white_rect.xml
+SHA1-Digest: leUkBj6dqV/Exkkf5xqa1zZw5PY=
+
+Name: res/drawable/round_white_rect_50.xml
+SHA1-Digest: G8OxN3kDTotYKavH/08ZdZIIuVs=
+
+Name: res/drawable/round_white_rect_8.xml
+SHA1-Digest: laok33Ik+dJAsUna1US1bkJBo64=
+
+Name: res/drawable/search_text_cursor.xml
+SHA1-Digest: LT+hQzJLs4EQOMxCFCSwM9uD4dA=
+
+Name: res/drawable/send_video_message_background.xml
+SHA1-Digest: oDW/IGffhvc4W82qsciLdF6qPAk=
+
+Name: res/drawable/send_video_message_selector.xml
+SHA1-Digest: pWSIqtCNurUdUgC/rnydYtXL2fg=
+
+Name: res/drawable/survey_container_background.xml
+SHA1-Digest: H3lvCsvCuq+AzTllMEkLREF97zU=
+
+Name: res/drawable/survey_header_background.xml
+SHA1-Digest: 4LAgyWD5nVnZjbf3r07IBM9Q4V0=
+
+Name: res/drawable/tooltip_frame_dark.xml
+SHA1-Digest: u5aKoaOJsuyaW5Eah1URspnMNQA=
+
+Name: res/drawable/tooltip_frame_light.xml
+SHA1-Digest: zzwA/hDLx2ZjgUhxv1yVcROpxBU=
+
+Name: res/drawable/unknown_user_icon_background.xml
+SHA1-Digest: 6PLPtRKUS9jIj4Jg0RBSdOJYGgA=
+
+Name: res/drawable/welcome_activity_submit_button_experiment.xml
+SHA1-Digest: leUkBj6dqV/Exkkf5xqa1zZw5PY=
+
+Name: res/interpolator-v21/mtrl_fast_out_linear_in.xml
+SHA1-Digest: uURzinWPGnw2AgfRqMFvND8oRU4=
+
+Name: res/interpolator-v21/mtrl_fast_out_slow_in.xml
+SHA1-Digest: G3P4lNoIhp93W8ebxV1G/GRliBs=
+
+Name: res/interpolator-v21/mtrl_linear_out_slow_in.xml
+SHA1-Digest: kPH8otFz8OrR5IaKLRETxMBbMiA=
+
+Name: res/interpolator/mtrl_fast_out_linear_in.xml
+SHA1-Digest: d+b7GgbpRsnBDmMhSEc4CS1YX6g=
+
+Name: res/interpolator/mtrl_fast_out_slow_in.xml
+SHA1-Digest: JBI/7gt/9wSxANCjAk9dqalmDKQ=
+
+Name: res/interpolator/mtrl_linear.xml
+SHA1-Digest: An0mtWhYKJysBdjODhZ8aFOpFqc=
+
+Name: res/interpolator/mtrl_linear_out_slow_in.xml
+SHA1-Digest: 3VQ+gPL2igdtqNwCvoCTHqAxBiE=
+
+Name: res/layout-de/dialog_blocked_contacts_select_buttons.xml
+SHA1-Digest: a2TY/EHz87c1x43qFBGTAd/6Jo0=
+
+Name: res/layout-de/dialog_external_start_call_confirmation_buttons.xm
+ l
+SHA1-Digest: IssZLukUqdSXpRY6r46h95Sn/xc=
+
+Name: res/layout-de/dialog_unregister_buttons.xml
+SHA1-Digest: 5yff2mxoEUv/kPKIJwxW6AE3EIY=
+
+Name: res/layout-de/fragment_call_feedback.xml
+SHA1-Digest: hP+981l0pd7Ff3XvOlRT/s2aVo4=
+
+Name: res/layout-it/dialog_unregister_buttons.xml
+SHA1-Digest: 5yff2mxoEUv/kPKIJwxW6AE3EIY=
+
+Name: res/layout-ky/fragment_call_feedback.xml
+SHA1-Digest: hP+981l0pd7Ff3XvOlRT/s2aVo4=
+
+Name: res/layout-nl/dialog_blocked_contacts_select_buttons.xml
+SHA1-Digest: a2TY/EHz87c1x43qFBGTAd/6Jo0=
+
+Name: res/layout-nl/dialog_unregister_buttons.xml
+SHA1-Digest: 5yff2mxoEUv/kPKIJwxW6AE3EIY=
+
+Name: res/layout-pt/dialog_unregister_buttons.xml
+SHA1-Digest: 5yff2mxoEUv/kPKIJwxW6AE3EIY=
+
+Name: res/layout-sw600dp-v13/design_layout_snackbar.xml
+SHA1-Digest: yFy+C6YUlDb0ccD+FlCGn6U8ijk=
+
+Name: res/layout-v16/notification_template_custom_big.xml
+SHA1-Digest: R6BHSjnCrfU4dj07foR8tO91Am0=
+
+Name: res/layout-v17/abc_action_mode_close_item_material.xml
+SHA1-Digest: EIf6q+E8RkYP2bFJCtpw4sFi52o=
+
+Name: res/layout-v17/abc_alert_dialog_button_bar_material.xml
+SHA1-Digest: bqEleBGxNo9pvjfB1QZwQ84JXZk=
+
+Name: res/layout-v17/abc_alert_dialog_title_material.xml
+SHA1-Digest: LrcLhHwVgShSnwd1Uo7muksy5jI=
+
+Name: res/layout-v17/abc_dialog_title_material.xml
+SHA1-Digest: Woju+6e8B/odHk5MAkp17pfXArA=
+
+Name: res/layout-v17/abc_popup_menu_header_item_layout.xml
+SHA1-Digest: 3e7h8l+fZ5tno3q8ZCrZjSAuFM4=
+
+Name: res/layout-v17/abc_popup_menu_item_layout.xml
+SHA1-Digest: pKKpyC4VjRaVlwZYNdorwZLdbDc=
+
+Name: res/layout-v17/abc_search_view.xml
+SHA1-Digest: F61I7WZU1fAOsbvQL+8Nbu0JTZY=
+
+Name: res/layout-v17/abc_select_dialog_material.xml
+SHA1-Digest: d9dllH7D/TxlzUZE7Yxv9hAvHzY=
+
+Name: res/layout-v17/activity_block.xml
+SHA1-Digest: oJxJ5eE6zryyV2IIhBDy7q05sAw=
+
+Name: res/layout-v17/activity_blocked_contacts.xml
+SHA1-Digest: q20mxQjOGFsDbCKZGXwFznAaMVI=
+
+Name: res/layout-v17/activity_call_rating.xml
+SHA1-Digest: evshELkx8mtcxRpfioNLxMCxe84=
+
+Name: res/layout-v17/activity_knock_knock_setting.xml
+SHA1-Digest: YBpfEFS5AnhXtLIVV8QcI6Q/YIg=
+
+Name: res/layout-v17/activity_main.xml
+SHA1-Digest: zjV8yDatey8iyT35sZUcOR0li10=
+
+Name: res/layout-v17/activity_onboarding.xml
+SHA1-Digest: NxyRZF9qsCxeGn0kbigs6cFhQTY=
+
+Name: res/layout-v17/contact_joined_dialog.xml
+SHA1-Digest: RcGcE7bGG2XuI+Kft7OkHlrLR9M=
+
+Name: res/layout-v17/contacts_card_invites.xml
+SHA1-Digest: HC7lWDjeaXYayzR3dWnMBZwOTp8=
+
+Name: res/layout-v17/contacts_search_box.xml
+SHA1-Digest: 3+EYxP//hNqvRxFRHYctBErPRwY=
+
+Name: res/layout-v17/controls_video_call.xml
+SHA1-Digest: mFhuAN81LSf0zXWK6LJtY2c7038=
+
+Name: res/layout-v17/design_layout_snackbar_include.xml
+SHA1-Digest: JHcy6h64FXPUVsqpLCmfcwqiOU8=
+
+Name: res/layout-v17/dialog_ask_call_perm.xml
+SHA1-Digest: dW9xKwgJeoUCGuEXVGrGGojadMI=
+
+Name: res/layout-v17/dialog_contact_actions.xml
+SHA1-Digest: OURxvuIzgSdnqF0egT4Ztgxvmdw=
+
+Name: res/layout-v17/dialog_unregister.xml
+SHA1-Digest: l9apQJxJXMFyodYhnDj/L54trNU=
+
+Name: res/layout-v17/fragment_call.xml
+SHA1-Digest: Oketu1C6j+3/D2XfL6Sl2rBlRcg=
+
+Name: res/layout-v17/fragment_call_feedback_horizontal.xml
+SHA1-Digest: W/i/FXptlChjNaGjyjINXmqK5MM=
+
+Name: res/layout-v17/fragment_call_header.xml
+SHA1-Digest: qcpRqmwoxStz+SgeVY5/kKCny+0=
+
+Name: res/layout-v17/fragment_contacts_card_v2.xml
+SHA1-Digest: x2Jx+RpzTzwKJ2QcROVykbewlKI=
+
+Name: res/layout-v17/fragment_contacts_card_with_call_mode.xml
+SHA1-Digest: x2Jx+RpzTzwKJ2QcROVykbewlKI=
+
+Name: res/layout-v17/fragment_country_code.xml
+SHA1-Digest: UIUIphWY9V3eXLlTKHF0n2iSYI4=
+
+Name: res/layout-v17/fragment_incoming_call.xml
+SHA1-Digest: JfbOed2V8YR56O8j9hsVIYmHoY0=
+
+Name: res/layout-v17/fragment_outgoing_call.xml
+SHA1-Digest: xyVYk6WnhmEQ3FsJJ2AmNCxd70Q=
+
+Name: res/layout-v17/fragment_pip_call.xml
+SHA1-Digest: pkwoOOVL6qU3PqVa0E+Lb+uiBFo=
+
+Name: res/layout-v17/fragment_registration.xml
+SHA1-Digest: hxki8ablSooCYeK5/lYA5ZuIfUo=
+
+Name: res/layout-v17/fragment_update.xml
+SHA1-Digest: gBAtbQPs0WMk5vlCmcn0LZpLpk8=
+
+Name: res/layout-v17/fragment_verification.xml
+SHA1-Digest: l7751Hpx+pVKCiV+i29ek5Z0vPI=
+
+Name: res/layout-v17/fragment_welcome_default.xml
+SHA1-Digest: sT9o62BsyAa/jNaeqd4AQ8yz1R8=
+
+Name: res/layout-v17/fragment_welcome_exp2.xml
+SHA1-Digest: u5uruyTSNavLf6JOj8ynvWUVhhs=
+
+Name: res/layout-v17/grid_item_contact.xml
+SHA1-Digest: N4hWcICdkSsSbVrZX9L8Ymqj68k=
+
+Name: res/layout-v17/in_call_prompt.xml
+SHA1-Digest: DULSUuJ0GpFdVWx+gIOfO6juQd0=
+
+Name: res/layout-v17/libraries_social_licenses_license.xml
+SHA1-Digest: fLg7k0Zuq/mh3bpIwA8clj2oVlA=
+
+Name: res/layout-v17/libraries_social_licenses_license_activity.xml
+SHA1-Digest: FDicThSrCRQmjVATIf4Kp60aQ6w=
+
+Name: res/layout-v17/list_item_contact.xml
+SHA1-Digest: /c60tE6BX0iNWdCP5gvRDzQ/+OE=
+
+Name: res/layout-v17/list_item_contact_search.xml
+SHA1-Digest: vwQrbeVyfWIkfhD0zLqra7C1wbU=
+
+Name: res/layout-v17/list_item_country_code.xml
+SHA1-Digest: 0TK+Ms1+ZfBFcd4Y2cz0tGCEh5Y=
+
+Name: res/layout-v17/notification_action.xml
+SHA1-Digest: /tL69AD1h1jr2zjdufsW49EPAO8=
+
+Name: res/layout-v17/notification_action_tombstone.xml
+SHA1-Digest: ji+0gAPAhPkNGH+7S3lJEuLSCJY=
+
+Name: res/layout-v17/notification_template_big_media.xml
+SHA1-Digest: d+/Lwqc58A8afWgFLbvjS/HZiCo=
+
+Name: res/layout-v17/notification_template_big_media_custom.xml
+SHA1-Digest: 384hg2Nrnm863JcW8KEAZ3gBvhE=
+
+Name: res/layout-v17/notification_template_big_media_narrow.xml
+SHA1-Digest: Dh/fBQ++S/hz+k3RgtyxWqi1yEE=
+
+Name: res/layout-v17/notification_template_big_media_narrow_custom.xml
+SHA1-Digest: JrvstCow0Zc9dwUkZ1S9oLviwW0=
+
+Name: res/layout-v17/notification_template_custom_big.xml
+SHA1-Digest: CDU1CnPp+N0Q09+/JcVkm7Ljvv4=
+
+Name: res/layout-v17/notification_template_lines_media.xml
+SHA1-Digest: nFPJZ5NRzjfOG6jGiEdBucx8gWM=
+
+Name: res/layout-v17/notification_template_media.xml
+SHA1-Digest: OTWR5RQLn7aeoHvX/iN31yD+VXo=
+
+Name: res/layout-v17/notification_template_media_custom.xml
+SHA1-Digest: T1KN9A20gzSs6shoI0RhvQSV3w0=
+
+Name: res/layout-v17/popup_settings_menu.xml
+SHA1-Digest: xqxgq0nBeUb953oAJxm/oaw4d8Y=
+
+Name: res/layout-v17/select_dialog_multichoice_material.xml
+SHA1-Digest: VwePVtqYZTgdCq8zk5JY5XJ4vb0=
+
+Name: res/layout-v17/select_dialog_singlechoice_material.xml
+SHA1-Digest: rSaJEw5KaWvARXGsrhAy1Cmb9lw=
+
+Name: res/layout-v17/settings_preference.xml
+SHA1-Digest: WqJYqPM2ChtKxVdq01E1+yg7jPo=
+
+Name: res/layout-v17/tooltip.xml
+SHA1-Digest: Icy8OPOHd4uPScmq7Or9OqA8vgY=
+
+Name: res/layout-v17/undo_bar.xml
+SHA1-Digest: 4WovTaV+YWgPI/S6q9K6FaMTNUk=
+
+Name: res/layout-v17/video_clip_view.xml
+SHA1-Digest: xpJsMg3ZoHlRJV5e6xmpj5z0I5w=
+
+Name: res/layout-v21/abc_screen_toolbar.xml
+SHA1-Digest: aeJh8hxY1n85iCwH7IahOkV766M=
+
+Name: res/layout-v21/activity_blocked_contacts.xml
+SHA1-Digest: ohEZT7OGyJH4RIA9WvRY1sHOFtU=
+
+Name: res/layout-v21/activity_call_log.xml
+SHA1-Digest: 0NE5yPT/LdKdD0LPjAaBF+eTY5k=
+
+Name: res/layout-v21/activity_knock_knock_setting.xml
+SHA1-Digest: LjhBYVZuDl6s2jlr32i9XqmUuno=
+
+Name: res/layout-v21/activity_settings.xml
+SHA1-Digest: PummXukrABZd489ez12uvC+rgVY=
+
+Name: res/layout-v21/camera_button.xml
+SHA1-Digest: ob4ZLBgrwIboMp3f3gLV4dK93Dc=
+
+Name: res/layout-v21/contact_item_touch.xml
+SHA1-Digest: dNJzyThMhJFMVV1lVTJcavIpADo=
+
+Name: res/layout-v21/fragment_call.xml
+SHA1-Digest: 7Zs0/1KNe52ml2Zyak6tbcz2zWw=
+
+Name: res/layout-v21/fragment_hud.xml
+SHA1-Digest: wXoxoL/FO7stDMFk65x67hMSD0w=
+
+Name: res/layout-v21/hats_container.xml
+SHA1-Digest: gW/IbF17MADfS4jsmyAr7iE1Spk=
+
+Name: res/layout-v21/hats_survey_question_multiple_choice_item.xml
+SHA1-Digest: dZ6UEyv1m1VftpldErqrUkS/Ijk=
+
+Name: res/layout-v21/hats_survey_question_multiple_choice_with_smileys
+ _item.xml
+SHA1-Digest: q7AXROunKks8JOsJeJcTJ3rOXPY=
+
+Name: res/layout-v21/notification_action.xml
+SHA1-Digest: sFHZOWYE5vj8cDEemhTYpD+w8zY=
+
+Name: res/layout-v21/notification_action_tombstone.xml
+SHA1-Digest: ewaRZ/EGgOFFqu5LqHzDOgpUGaE=
+
+Name: res/layout-v21/notification_template_custom_big.xml
+SHA1-Digest: owcDO32DlvyMwihzhN8UJ/A2bDg=
+
+Name: res/layout-v21/notification_template_icon_group.xml
+SHA1-Digest: As38f0kijgKqUwDqqBcE0iQ4RDY=
+
+Name: res/layout-v21/video_clip_view.xml
+SHA1-Digest: xy5jOPCts5iLXo3tcD5cgC9oT9Q=
+
+Name: res/layout-v22/abc_alert_dialog_button_bar_material.xml
+SHA1-Digest: vDm4CfnXQaviA4WwkUoEMQDG8Rk=
+
+Name: res/layout-v26/abc_screen_toolbar.xml
+SHA1-Digest: yh/N5Rl8FNh2Lili1JfFnbpCGII=
+
+Name: res/layout/abc_action_bar_title_item.xml
+SHA1-Digest: QKCOhoiKVZT1N+OiMVMQ4WFPG8E=
+
+Name: res/layout/abc_action_bar_up_container.xml
+SHA1-Digest: r8bfre0gbuzbv10OJKOMgEhJEFo=
+
+Name: res/layout/abc_action_menu_item_layout.xml
+SHA1-Digest: BKclqTBlbPClN19hTpvH9r4e/Dc=
+
+Name: res/layout/abc_action_menu_layout.xml
+SHA1-Digest: +TjfXAge7MLZFk9TmbqxuGY+w2c=
+
+Name: res/layout/abc_action_mode_bar.xml
+SHA1-Digest: NlXvPr9fVfBYCN60uZkwSkrksM4=
+
+Name: res/layout/abc_action_mode_close_item_material.xml
+SHA1-Digest: B46Kux9SBzSDYbsQ4MZH0sxIoTA=
+
+Name: res/layout/abc_activity_chooser_view.xml
+SHA1-Digest: CJ/6TRyyD/31HHw5hTztRUqVNE8=
+
+Name: res/layout/abc_activity_chooser_view_list_item.xml
+SHA1-Digest: rfCn/85wg7SFjNvDNcDPPgmUROM=
+
+Name: res/layout/abc_alert_dialog_button_bar_material.xml
+SHA1-Digest: Rgx42McqdybA8cpUA/Xb7z1aFb4=
+
+Name: res/layout/abc_alert_dialog_material.xml
+SHA1-Digest: tMtYL7D29wDTnZ5BbD0BxnLqjHk=
+
+Name: res/layout/abc_alert_dialog_title_material.xml
+SHA1-Digest: E3ZVQ1xrAkCFf/OGonMN8X0UKcA=
+
+Name: res/layout/abc_dialog_title_material.xml
+SHA1-Digest: Mu2AnK0KrE7htB32OTn+E76xbuo=
+
+Name: res/layout/abc_expanded_menu_layout.xml
+SHA1-Digest: 40ZGvBU2/kE/wRtW5/tILI0kfjE=
+
+Name: res/layout/abc_list_menu_item_checkbox.xml
+SHA1-Digest: iUdv5WLGKxU9EBJ1pFBIevas0Xo=
+
+Name: res/layout/abc_list_menu_item_icon.xml
+SHA1-Digest: 1+h1RnXtjbV5lAvlp2i++wleEKY=
+
+Name: res/layout/abc_list_menu_item_layout.xml
+SHA1-Digest: kHU1XRn8twBR5TR76Gekl+cmjFg=
+
+Name: res/layout/abc_list_menu_item_radio.xml
+SHA1-Digest: pdEMYuDN4/aPbhMZUAgjEB/h0Bo=
+
+Name: res/layout/abc_popup_menu_header_item_layout.xml
+SHA1-Digest: CdTvzP8W7PRxbwPP5nY3rWQUKdc=
+
+Name: res/layout/abc_popup_menu_item_layout.xml
+SHA1-Digest: 6C2jGbyzZUhl8AGZ43sDWGhRI+Q=
+
+Name: res/layout/abc_screen_content_include.xml
+SHA1-Digest: l598l8FWZi6PdOY2h99d6OiBrvI=
+
+Name: res/layout/abc_screen_simple.xml
+SHA1-Digest: a3tWNV7gh4ZesUURxQSR1XhGlmo=
+
+Name: res/layout/abc_screen_simple_overlay_action_mode.xml
+SHA1-Digest: 09wi9sZ8/bpMXzyIoF2t/ZsPAS4=
+
+Name: res/layout/abc_screen_toolbar.xml
+SHA1-Digest: Py/vhuyt0b1wx1rKbdKd0EtqY84=
+
+Name: res/layout/abc_search_dropdown_item_icons_2line.xml
+SHA1-Digest: uFCbscIAKH8uk4k56rFtxaEOP/U=
+
+Name: res/layout/abc_search_view.xml
+SHA1-Digest: 4KmWYjDoSJo2XqP69gyTzt/k5xU=
+
+Name: res/layout/abc_select_dialog_material.xml
+SHA1-Digest: UhoK1HvwjrNTk74CDNYkE7pbDyg=
+
+Name: res/layout/activity_block.xml
+SHA1-Digest: jcSdgy1JFVGjrk6XBmALU4eeDDk=
+
+Name: res/layout/activity_blocked_contacts.xml
+SHA1-Digest: iSy8d92IXv2v4kpSlYSdgR/bnVo=
+
+Name: res/layout/activity_call.xml
+SHA1-Digest: ppFLcR6tyIiTTFucu5D+y9lIuxk=
+
+Name: res/layout/activity_call_log.xml
+SHA1-Digest: dtRKPPpvkrqOJvqdNnCkVFAWcgU=
+
+Name: res/layout/activity_call_rating.xml
+SHA1-Digest: vStylnc83meytQG9babGgAx2FrM=
+
+Name: res/layout/activity_knock_knock_setting.xml
+SHA1-Digest: 8TvGj/4HLbtETVILp7v22DEerSg=
+
+Name: res/layout/activity_main.xml
+SHA1-Digest: TJRp2YWFcMDaEeHB8j3iHapcfPc=
+
+Name: res/layout/activity_onboarding.xml
+SHA1-Digest: MHCQzwThVJNLbHFCHKY/gvF+7ho=
+
+Name: res/layout/activity_registration.xml
+SHA1-Digest: F0HfygwqKab3lrjEIIyd14xlOp4=
+
+Name: res/layout/activity_settings.xml
+SHA1-Digest: cbBxqD5VoXtYGZjTClw+JLiwN88=
+
+Name: res/layout/activity_verification.xml
+SHA1-Digest: DuMZVhDjWdUyzfQzrM+aTosBdG0=
+
+Name: res/layout/activity_welcome_select_review.xml
+SHA1-Digest: bLGpXgHhDUTk3hCYn0PlYcFsW2I=
+
+Name: res/layout/avatar_in_call.xml
+SHA1-Digest: IgsxOdnWbyLHPGMKu4IaObWyUfE=
+
+Name: res/layout/call_mode_toggle_header.xml
+SHA1-Digest: 27kZw+m1m4CAAQQhC2sVUHr7S28=
+
+Name: res/layout/camera_button.xml
+SHA1-Digest: REm0rRREyNGC+GmRTpKuW5nnIqo=
+
+Name: res/layout/contact_item_touch.xml
+SHA1-Digest: +TvQwzI4TKrZPqaSnnIKznZkuYI=
+
+Name: res/layout/contact_joined_dialog.xml
+SHA1-Digest: 1fUVxh679hDCnxgsgMdWV51eYz4=
+
+Name: res/layout/contacts_back_button.xml
+SHA1-Digest: ypNRCz67ph7DXEieHzyRcBSfQz0=
+
+Name: res/layout/contacts_card_invites.xml
+SHA1-Digest: ZHjpYzxZXSGOhJEtuUgJ34Vlk6o=
+
+Name: res/layout/contacts_card_search_container.xml
+SHA1-Digest: YlM1qDQ4/yB54fomrCK8nsbw4Zo=
+
+Name: res/layout/contacts_card_view_group.xml
+SHA1-Digest: Lsfw1xhuWwTy2Aumw6/ovgXwLvc=
+
+Name: res/layout/contacts_context_menu_header.xml
+SHA1-Digest: JS+GlkKbQSOvWo19NkppTWJ6WaM=
+
+Name: res/layout/contacts_search_box.xml
+SHA1-Digest: HvLy5UwDLVXjQk8RywrkQoZD7f8=
+
+Name: res/layout/controls_audio_call.xml
+SHA1-Digest: vLn9mNJoNX3459WG0cprtjvhx94=
+
+Name: res/layout/controls_video_call.xml
+SHA1-Digest: qDAI7FwVc8S7FQ2IRVcnHIxWxkU=
+
+Name: res/layout/design_bottom_navigation_item.xml
+SHA1-Digest: DDW8ut5DR+tTLWRilNyuORBuGOU=
+
+Name: res/layout/design_bottom_sheet_dialog.xml
+SHA1-Digest: V7P9rPqNNX5MuItll1yTUM4j+bs=
+
+Name: res/layout/design_layout_snackbar.xml
+SHA1-Digest: fHhPo+Eg1hbc+Kt4XyJL0/x4388=
+
+Name: res/layout/design_layout_snackbar_include.xml
+SHA1-Digest: Wqjd/+qYRHxpvauXVgZqqQVnl9c=
+
+Name: res/layout/design_layout_tab_icon.xml
+SHA1-Digest: 1oW2wUEHsS3deIrUBKUEwpNALgo=
+
+Name: res/layout/design_layout_tab_text.xml
+SHA1-Digest: hGylEWtLV6PowlIJAnKyrFqhGEo=
+
+Name: res/layout/design_menu_item_action_area.xml
+SHA1-Digest: +CaSrRO+YIeuLR//AbmNORoSW6o=
+
+Name: res/layout/design_navigation_item.xml
+SHA1-Digest: 9NiMTFaHUAe1CKaJiqBeWdFzgZE=
+
+Name: res/layout/design_navigation_item_header.xml
+SHA1-Digest: gYVi/fwH65vskYPQYd8ElZrWyQo=
+
+Name: res/layout/design_navigation_item_separator.xml
+SHA1-Digest: cbpaEAapbxQQSnvnxRDmJySw+8E=
+
+Name: res/layout/design_navigation_item_subheader.xml
+SHA1-Digest: iDsY0TZwtOnSDVWfxho9T+vi0yI=
+
+Name: res/layout/design_navigation_menu.xml
+SHA1-Digest: 67uh49YNfXdE1wnUl66g3sAH7D8=
+
+Name: res/layout/design_navigation_menu_item.xml
+SHA1-Digest: JxeQVs+3THXk+PtxYw14WPspHio=
+
+Name: res/layout/design_text_input_password_icon.xml
+SHA1-Digest: vzoRIU6oQ9LiighJpRvtfXzNsQ0=
+
+Name: res/layout/dialog_ask_call_perm.xml
+SHA1-Digest: +98EO1g8HGHa2oY5dqoF1uVj7R8=
+
+Name: res/layout/dialog_ask_call_perm_buttons.xml
+SHA1-Digest: 987qyakdps6W6MPE1wZDzhbZAbM=
+
+Name: res/layout/dialog_ask_call_perm_buttons_horizontal.xml
+SHA1-Digest: pY6bDY0W/bJ20U3H9C8nVryQm1I=
+
+Name: res/layout/dialog_ask_call_perm_buttons_vertical.xml
+SHA1-Digest: AflM1GFKbdxxeE0cnnQktRGz4N0=
+
+Name: res/layout/dialog_blocked_contacts_select.xml
+SHA1-Digest: Wf2+iFZZeZSKFzjVy0x299ZUs/o=
+
+Name: res/layout/dialog_blocked_contacts_select_buttons.xml
+SHA1-Digest: lMUg9sidR8Et5R1bgWO8l/Bsk4I=
+
+Name: res/layout/dialog_blocked_contacts_select_buttons_horizontal.xml
+SHA1-Digest: Kr+vWP9iTRy1j98xpQW/lXnNCgg=
+
+Name: res/layout/dialog_blocked_contacts_select_buttons_vertical.xml
+SHA1-Digest: vuAGEnRdR8yk8Yd2JxLr86I/oyE=
+
+Name: res/layout/dialog_contact_actions.xml
+SHA1-Digest: fn3aDXUmR5hHSvxfH2u7xKd/ztQ=
+
+Name: res/layout/dialog_external_start_call_confirmation.xml
+SHA1-Digest: zScOngzrf/0e9SmBHV/IHVcwjfk=
+
+Name: res/layout/dialog_external_start_call_confirmation_buttons.xml
+SHA1-Digest: 1V7VKjB52VkC8cd/GHw8znlo5Hg=
+
+Name: res/layout/dialog_external_start_call_confirmation_buttons_horiz
+ ontal.xml
+SHA1-Digest: 8GQQYlhjo65nind5585vl9AmyKY=
+
+Name: res/layout/dialog_external_start_call_confirmation_buttons_verti
+ cal.xml
+SHA1-Digest: CZpwTm6dNCTahKWUtU3VMIR+374=
+
+Name: res/layout/dialog_simple_alert.xml
+SHA1-Digest: cPyN1Kn5wqNMdAOkwY2WbtyU6uM=
+
+Name: res/layout/dialog_unregister.xml
+SHA1-Digest: EryvR+V7v3igFXX3nElRM2YDoxs=
+
+Name: res/layout/dialog_unregister_buttons.xml
+SHA1-Digest: mD1FPL3yWi99Ry0+RKf4UuIzHkU=
+
+Name: res/layout/dialog_unregister_buttons_horizontal.xml
+SHA1-Digest: OWL6RKrrvpfC6DzgbUuPC7+OVaY=
+
+Name: res/layout/dialog_unregister_buttons_vertical.xml
+SHA1-Digest: ONvG34mh/m8sl81Q6TAxI1l5o54=
+
+Name: res/layout/dialog_user_review_prompt.xml
+SHA1-Digest: CYT4/i7FrcdkL6BEjBG6xuK8d9g=
+
+Name: res/layout/dummy_placeholder.xml
+SHA1-Digest: A7cKh+EX/XIF7J4peMyyE5FwoS4=
+
+Name: res/layout/fragment_call.xml
+SHA1-Digest: qCTf/VNDUQi22XtV/FmndToYjUY=
+
+Name: res/layout/fragment_call_feedback.xml
+SHA1-Digest: zFwJ1xCR89aosXYM2vnd+tTMK0o=
+
+Name: res/layout/fragment_call_feedback_horizontal.xml
+SHA1-Digest: zOLlV7lcxt/KPDBXNPlzmzkVHCQ=
+
+Name: res/layout/fragment_call_feedback_vertical.xml
+SHA1-Digest: Pf5ycn3G5TfogiO3ga9Vr/P/Jiw=
+
+Name: res/layout/fragment_call_header.xml
+SHA1-Digest: KChOjvR2OauS9A13CJnwhIGv7PY=
+
+Name: res/layout/fragment_call_history.xml
+SHA1-Digest: hEukZZp2VRYONPYFQnmCwzENck4=
+
+Name: res/layout/fragment_contacts_card_v2.xml
+SHA1-Digest: X5mCChbiYtZC8Y/ih/ByxeZrJo0=
+
+Name: res/layout/fragment_contacts_card_with_call_mode.xml
+SHA1-Digest: X5mCChbiYtZC8Y/ih/ByxeZrJo0=
+
+Name: res/layout/fragment_country_code.xml
+SHA1-Digest: 3yzd1OJDNW9zOiw/En8Q6cV9rpo=
+
+Name: res/layout/fragment_hud.xml
+SHA1-Digest: veFYnYy9giNYdGmWNQ4wsKGq33c=
+
+Name: res/layout/fragment_incoming_call.xml
+SHA1-Digest: VcBunTwpIsi3gxRhmIpWrdXGPjk=
+
+Name: res/layout/fragment_outgoing_call.xml
+SHA1-Digest: 3Lo3gcvNLwtkz1iCe1G8DYv4db0=
+
+Name: res/layout/fragment_permissions.xml
+SHA1-Digest: jl6BgotMqrtti65pxipqrk7eWUc=
+
+Name: res/layout/fragment_pip_call.xml
+SHA1-Digest: X0aCGij+8nSN4/Th4oQwjJYUpVc=
+
+Name: res/layout/fragment_registration.xml
+SHA1-Digest: F9yshfTgves2Pws68rTV8Mu6yaY=
+
+Name: res/layout/fragment_send_message.xml
+SHA1-Digest: mFjjKISdBobEVM0LgckNWOYjLhQ=
+
+Name: res/layout/fragment_update.xml
+SHA1-Digest: V9T6r4Xvu58sDb7u8G4882l4yyI=
+
+Name: res/layout/fragment_verification.xml
+SHA1-Digest: A9ls12YYFvsEfdVXLZJNwp009c0=
+
+Name: res/layout/fragment_verification_success.xml
+SHA1-Digest: HNQeoE/YEGKjeqeEkuRvdSM937g=
+
+Name: res/layout/fragment_video_ring_intro.xml
+SHA1-Digest: i6WeAl0MpDoWoiaXeNDclV5hS6c=
+
+Name: res/layout/fragment_welcome_default.xml
+SHA1-Digest: qJDyzeLsNcrrtWJxPoiNzSwsgUM=
+
+Name: res/layout/fragment_welcome_exp2.xml
+SHA1-Digest: KCF4PzQCx10viomj5Bh/cbIeslQ=
+
+Name: res/layout/grid_item_contact.xml
+SHA1-Digest: F/2zLHvAVo8Gv1geIqwOKFn0OpQ=
+
+Name: res/layout/grid_item_digit_key.xml
+SHA1-Digest: Z3HuKHR9Xas8NxThQJApTxmG2NQ=
+
+Name: res/layout/grid_item_pin_code.xml
+SHA1-Digest: HtaqoJ5m6LA9VZgNvVc0fgEi4f0=
+
+Name: res/layout/hats_close_button.xml
+SHA1-Digest: L3doEqvc2yzqWOKnDgSLw2HNKnk=
+
+Name: res/layout/hats_container.xml
+SHA1-Digest: V8BSMjIyg4PXqg8Gyhl5cwpG3wg=
+
+Name: res/layout/hats_display_logo.xml
+SHA1-Digest: aW4lX6Z1nFPReAE+FoIByWj9i20=
+
+Name: res/layout/hats_prompt_banner.xml
+SHA1-Digest: HEMZd3xqt7bwnivv3RW3mUI+oEQ=
+
+Name: res/layout/hats_spacer_view_for_linear_layout.xml
+SHA1-Digest: Vo9dii4ScgZtkePtpiKC7vDX9do=
+
+Name: res/layout/hats_survey_controls.xml
+SHA1-Digest: IcBAJk0nK65aJ3w+iCILmVAbfMs=
+
+Name: res/layout/hats_survey_question_header.xml
+SHA1-Digest: 9OTNIxwXT3qHmwCX1zHiIRUGjLs=
+
+Name: res/layout/hats_survey_question_multiple_choice_item.xml
+SHA1-Digest: G2k7kbU+UxZO4YnrpOY+Y+LWJG4=
+
+Name: res/layout/hats_survey_question_multiple_choice_with_smileys_ite
+ m.xml
+SHA1-Digest: wVNPBpDrOZx4EvLZW58UzGz7Psk=
+
+Name: res/layout/hats_survey_question_multiple_select_item.xml
+SHA1-Digest: aomCC1yRq8y+MzmG5houxML2Fpg=
+
+Name: res/layout/hats_survey_question_open_text_item.xml
+SHA1-Digest: SeprNTD4KPCQrjnc+6Rtm61Gxho=
+
+Name: res/layout/hats_survey_question_rating.xml
+SHA1-Digest: BLTbgk5JnzyxaTTlKH9FbmcH08I=
+
+Name: res/layout/hats_survey_question_rating_item.xml
+SHA1-Digest: Qi3t8DHP6ir62YuuSxv/GAswQfU=
+
+Name: res/layout/hats_survey_question_with_scrollable_content.xml
+SHA1-Digest: qjDsQstA/xAudeUyba0nTpQUk10=
+
+Name: res/layout/hats_survey_rating_smiley_star.xml
+SHA1-Digest: bmlTVmaKFZioiJop1HN+mxcWaC0=
+
+Name: res/layout/hats_survey_scrollable_answer_content_container.xml
+SHA1-Digest: rxnBXp6pUOm0tpeYGNXO1k5Vsow=
+
+Name: res/layout/hats_thank_you.xml
+SHA1-Digest: kn1VX7ml+VcS5KdMUil4jRodllE=
+
+Name: res/layout/in_call_prompt.xml
+SHA1-Digest: fr6vjPCU/UcjD7e6GiuaR/y1Dxo=
+
+Name: res/layout/layout_internal_dev.xml
+SHA1-Digest: PRJrbmGw0jvwCmHNjUjmqmMt/gQ=
+
+Name: res/layout/libraries_social_licenses_license.xml
+SHA1-Digest: Y43dG7zba/JX+t3xag9UqMjzG1o=
+
+Name: res/layout/libraries_social_licenses_license_activity.xml
+SHA1-Digest: iTb7e/0RbzDccUzT1bEFtLti8Ik=
+
+Name: res/layout/libraries_social_licenses_license_menu_activity.xml
+SHA1-Digest: rJa5zo2Ahb4zvUekioFnKrAs5M0=
+
+Name: res/layout/libraries_social_licenses_license_menu_fragment.xml
+SHA1-Digest: lUH4MFVE7b7JygPS24/1TnQTjnQ=
+
+Name: res/layout/list_item_call_record.xml
+SHA1-Digest: tW04b58TKyA+p5iH6VpB4MmzjOY=
+
+Name: res/layout/list_item_contact.xml
+SHA1-Digest: KSS++QoqaFYlEbH0H4ZYuKp3efI=
+
+Name: res/layout/list_item_contact_search.xml
+SHA1-Digest: 7AenKO0x+zdD6WoZc9/zxjEiuvo=
+
+Name: res/layout/list_item_country_code.xml
+SHA1-Digest: peXEBm2y4esWarts40C/h8N36Eg=
+
+Name: res/layout/list_item_permission_prompt.xml
+SHA1-Digest: 2CZmvZEOl24ICjlV4XfFUc16dcI=
+
+Name: res/layout/mic_check_view.xml
+SHA1-Digest: JerbkHELoOAIlOOerckM5E7q3tE=
+
+Name: res/layout/missing_camera_view.xml
+SHA1-Digest: wxlhJoK7SrzdgMG561nsKCZyZR0=
+
+Name: res/layout/notification_action.xml
+SHA1-Digest: QIg1ge31AmJ3jIENmKdqAJdGtJM=
+
+Name: res/layout/notification_action_tombstone.xml
+SHA1-Digest: nxclpEeFdi40vmqRHSzzjnWafWs=
+
+Name: res/layout/notification_media_action.xml
+SHA1-Digest: CqR/5rBoBy6ycDVupFTvAlhAUPE=
+
+Name: res/layout/notification_media_cancel_action.xml
+SHA1-Digest: CKkNQDGDi8fcsemXw1K0fK57ML8=
+
+Name: res/layout/notification_template_big_media.xml
+SHA1-Digest: 8+s1q7woFOmfva9Wdr6mrSFffpg=
+
+Name: res/layout/notification_template_big_media_custom.xml
+SHA1-Digest: 6USmS4IQ+Sh2UwGwHIJrH2FSd68=
+
+Name: res/layout/notification_template_big_media_narrow.xml
+SHA1-Digest: EewQDuLlXDxu5Igluv+FdHpiV/U=
+
+Name: res/layout/notification_template_big_media_narrow_custom.xml
+SHA1-Digest: qXReUzpV2hClqdvVKs6ZwBvj4SA=
+
+Name: res/layout/notification_template_custom_big.xml
+SHA1-Digest: 5odo2dILeYPyzZj0m09LZfWOh78=
+
+Name: res/layout/notification_template_icon_group.xml
+SHA1-Digest: HEb9+7d/Z62/YOHtwKffUiPZltQ=
+
+Name: res/layout/notification_template_lines_media.xml
+SHA1-Digest: di1NCiDIfGDmw2hkBeRA6OUkE7s=
+
+Name: res/layout/notification_template_media.xml
+SHA1-Digest: PPRpgatqmqeg3QTf1JeuSx5L4kQ=
+
+Name: res/layout/notification_template_media_custom.xml
+SHA1-Digest: hcy52Rfo0JQLo3wQK3BEmCUTJ1o=
+
+Name: res/layout/notification_template_part_chronometer.xml
+SHA1-Digest: 84O0ao9k+5ZRDRPhJvinW/7T2JI=
+
+Name: res/layout/notification_template_part_time.xml
+SHA1-Digest: i8o7clu64SdcuxWCIs+3QwDt5B8=
+
+Name: res/layout/popup_settings_menu.xml
+SHA1-Digest: UF9WMybT13M5SvKaH9kHqEvOFds=
+
+Name: res/layout/preference_knock_knock_education.xml
+SHA1-Digest: UJtFMn9/FzErLAnoYwI0la8wddM=
+
+Name: res/layout/select_dialog_item_material.xml
+SHA1-Digest: xzXrsn5mDKdODn9FF4LcQb3BsAM=
+
+Name: res/layout/select_dialog_multichoice_material.xml
+SHA1-Digest: /3xTUF6DhWaBt7EKegmrrtic+QU=
+
+Name: res/layout/select_dialog_singlechoice_material.xml
+SHA1-Digest: s1wCq03KkLSbHPZzqOXdhpFrjr8=
+
+Name: res/layout/settings_preference.xml
+SHA1-Digest: qelxeZWmi7eVB12Wt1H/siJ+jGk=
+
+Name: res/layout/support_simple_spinner_dropdown_item.xml
+SHA1-Digest: sJE719GckxR2LqL3H/PtkLd/DPE=
+
+Name: res/layout/tooltip.xml
+SHA1-Digest: bHedKNeg8NP4AX8APZjJ/dzO4rw=
+
+Name: res/layout/undo_bar.xml
+SHA1-Digest: UkNXhuNoywniPujCFdo8IeHrYhE=
+
+Name: res/layout/video_clip_view.xml
+SHA1-Digest: 4D4vbNHPpJU/n2zO+fDme3JHboY=
+
+Name: res/menu/blocked_numbers_menu.xml
+SHA1-Digest: vpD01X4ZW66oe3O4Yz3ELpFif1U=
+
+Name: res/menu/incoming_audio_only_menu.xml
+SHA1-Digest: v+t2f4EVOkJsIYJ7pmTBz6s8H0E=
+
+Name: res/menu/incoming_message_menu.xml
+SHA1-Digest: oT6gwUTyTy4eZBKFJUTBPzhRbDY=
+
+Name: res/menu/welcome_agreements.xml
+SHA1-Digest: z6i8dk3mFA2TDFWeZ9S1tO3dp8Q=
+
+Name: res/mipmap-anydpi-v26/product_logo_duo_dogfood_color_48.xml
+SHA1-Digest: E6K8KthcxmgCmzebd7qFAlYSQiM=
+
+Name: res/mipmap-anydpi-v26/product_logo_duo_fishfood_color_48.xml
+SHA1-Digest: ptUhIr4oWtVmpSvZbXMXzaOb7+E=
+
+Name: res/mipmap-anydpi-v26/product_logo_duo_launcher_color_48.xml
+SHA1-Digest: p/ejPkbHFWnyHrcqE1tEc2GGXBc=
+
+Name: res/mipmap-anydpi-v26/product_logo_duo_round_dogfood_color_48.xm
+ l
+SHA1-Digest: E6K8KthcxmgCmzebd7qFAlYSQiM=
+
+Name: res/mipmap-anydpi-v26/product_logo_duo_round_fishfood_color_48.x
+ ml
+SHA1-Digest: ptUhIr4oWtVmpSvZbXMXzaOb7+E=
+
+Name: res/mipmap-anydpi-v26/product_logo_duo_round_launcher_color_48.x
+ ml
+SHA1-Digest: p/ejPkbHFWnyHrcqE1tEc2GGXBc=
+
+Name: res/mipmap-hdpi-v4/adaptiveproduct_duo_background_color_108.png
+SHA1-Digest: cua0UrWZ9+2y+jewmBMVZ0gKXXY=
+
+Name: res/mipmap-hdpi-v4/adaptiveproduct_duo_dogfood_foreground_color_
+ 108.png
+SHA1-Digest: EOoEvZ/4d4x/LpIiNXuSEvtTsiE=
+
+Name: res/mipmap-hdpi-v4/adaptiveproduct_duo_fishfood_foreground_color
+ _108.png
+SHA1-Digest: AYtXsCtGHsCYonXcGJMR/az03hg=
+
+Name: res/mipmap-hdpi-v4/adaptiveproduct_duo_foreground_color_108.png
+SHA1-Digest: s3Way13K+Qg1Uy7mOcsV3yGWADc=
+
+Name: res/mipmap-hdpi-v4/product_logo_duo_dogfood_color_48.png
+SHA1-Digest: gzl5n+uijTZiBHVxUMm5dIs+x64=
+
+Name: res/mipmap-hdpi-v4/product_logo_duo_fishfood_color_48.png
+SHA1-Digest: aQx1MTcWm0KzD5vxmV6FY23YswA=
+
+Name: res/mipmap-hdpi-v4/product_logo_duo_launcher_color_48.png
+SHA1-Digest: YNSDPrLUHhnUrDGhvoTAotpxSM8=
+
+Name: res/mipmap-hdpi-v4/product_logo_duo_round_dogfood_color_48.png
+SHA1-Digest: nT+P1eF6E72RkhxSPFn79EjkKvc=
+
+Name: res/mipmap-hdpi-v4/product_logo_duo_round_fishfood_color_48.png
+SHA1-Digest: c23AIwf1hyyEvtKPI/oeAODEUco=
+
+Name: res/mipmap-hdpi-v4/product_logo_duo_round_launcher_color_48.png
+SHA1-Digest: PSi+uCMqNoTSadzTBRFX21Po+jI=
+
+Name: res/mipmap-mdpi-v4/adaptiveproduct_duo_background_color_108.png
+SHA1-Digest: 8GnOTLkJcub/DzGk65j6e5ixKgE=
+
+Name: res/mipmap-mdpi-v4/adaptiveproduct_duo_dogfood_foreground_color_
+ 108.png
+SHA1-Digest: EUYepvjztC9e1NVi91uUPB4j7oc=
+
+Name: res/mipmap-mdpi-v4/adaptiveproduct_duo_fishfood_foreground_color
+ _108.png
+SHA1-Digest: /ZPSqrbS3Kt3x7PIBGtf01//ItU=
+
+Name: res/mipmap-mdpi-v4/adaptiveproduct_duo_foreground_color_108.png
+SHA1-Digest: PctrgY/X5zprCNhNt4SNered5BI=
+
+Name: res/mipmap-mdpi-v4/product_logo_duo_dogfood_color_48.png
+SHA1-Digest: FbWV22+5udeqkg3aL5U274PLRKA=
+
+Name: res/mipmap-mdpi-v4/product_logo_duo_fishfood_color_48.png
+SHA1-Digest: 4omexjwOiHF1wAuO9M82MRql0z8=
+
+Name: res/mipmap-mdpi-v4/product_logo_duo_launcher_color_48.png
+SHA1-Digest: SWrJml6yPuVOrOcN2gprt+iI/1o=
+
+Name: res/mipmap-mdpi-v4/product_logo_duo_round_dogfood_color_48.png
+SHA1-Digest: CrLVCzaK5wiSmrhAxvZl/eEIqgo=
+
+Name: res/mipmap-mdpi-v4/product_logo_duo_round_fishfood_color_48.png
+SHA1-Digest: 9y4rM05kL9a+i2fHezdw67ombEA=
+
+Name: res/mipmap-mdpi-v4/product_logo_duo_round_launcher_color_48.png
+SHA1-Digest: Fl6v485MSVEp7tso9OhE47VU9nE=
+
+Name: res/mipmap-v26/adaptiveproduct_duo_dogfood_launcher.xml
+SHA1-Digest: d8TRQsH9lCLygUx+61zlHKGm4xg=
+
+Name: res/mipmap-v26/adaptiveproduct_duo_fishfood_launcher.xml
+SHA1-Digest: s2X1kS8rx64qZpLtEh3tpPb2O2I=
+
+Name: res/mipmap-v26/adaptiveproduct_duo_launcher.xml
+SHA1-Digest: PKWdK+vCrl7ZyFGjUhPawKgkvUY=
+
+Name: res/mipmap-xhdpi-v4/adaptiveproduct_duo_background_color_108.png
+SHA1-Digest: /dAmFkkudkvqOum3hcaseo4XI2E=
+
+Name: res/mipmap-xhdpi-v4/adaptiveproduct_duo_dogfood_foreground_color
+ _108.png
+SHA1-Digest: UE9WiPjL18o8vKPr/zU4cSSc4K8=
+
+Name: res/mipmap-xhdpi-v4/adaptiveproduct_duo_fishfood_foreground_colo
+ r_108.png
+SHA1-Digest: VFhrSIKGYou+9jtcG1+UfvO4tn8=
+
+Name: res/mipmap-xhdpi-v4/adaptiveproduct_duo_foreground_color_108.png
+SHA1-Digest: SCF6THVyNHNywFzWk6AbAAp9KZs=
+
+Name: res/mipmap-xhdpi-v4/product_logo_duo_dogfood_color_48.png
+SHA1-Digest: N4Rkjh4xII2wjMgyycEwTbgpztA=
+
+Name: res/mipmap-xhdpi-v4/product_logo_duo_fishfood_color_48.png
+SHA1-Digest: L8s4m9MReCuC+mJyu0rTbD4mIcM=
+
+Name: res/mipmap-xhdpi-v4/product_logo_duo_launcher_color_48.png
+SHA1-Digest: tTPlYErRN+hpe1fYXVG7VCtY/po=
+
+Name: res/mipmap-xhdpi-v4/product_logo_duo_round_dogfood_color_48.png
+SHA1-Digest: FigCUYu4KXGzNKGyT2fTMNBvtdo=
+
+Name: res/mipmap-xhdpi-v4/product_logo_duo_round_fishfood_color_48.png
+SHA1-Digest: HFB3BmgAF88jby/znVhR09pqRrM=
+
+Name: res/mipmap-xhdpi-v4/product_logo_duo_round_launcher_color_48.png
+SHA1-Digest: rUxDRV8lz3DwjiW7116ZrnZlUu4=
+
+Name: res/mipmap-xxhdpi-v4/adaptiveproduct_duo_background_color_108.pn
+ g
+SHA1-Digest: AwHY9mU3i+UeWJa9G/utkm84qOk=
+
+Name: res/mipmap-xxhdpi-v4/adaptiveproduct_duo_dogfood_foreground_colo
+ r_108.png
+SHA1-Digest: CmKbisT7+094tA0XN9atvaiO0CM=
+
+Name: res/mipmap-xxhdpi-v4/adaptiveproduct_duo_fishfood_foreground_col
+ or_108.png
+SHA1-Digest: +/laTIGBFs/nqPDB8rMY1X28mns=
+
+Name: res/mipmap-xxhdpi-v4/adaptiveproduct_duo_foreground_color_108.pn
+ g
+SHA1-Digest: DvmR4xlJH6s5RwykQPPv6qiVvj8=
+
+Name: res/mipmap-xxhdpi-v4/product_logo_duo_dogfood_color_48.png
+SHA1-Digest: q/ZCbcGrMmAcUgnbA6xWX4QYWmI=
+
+Name: res/mipmap-xxhdpi-v4/product_logo_duo_fishfood_color_48.png
+SHA1-Digest: phVSyjVjAay7TDQ/ByNLWu9B9+w=
+
+Name: res/mipmap-xxhdpi-v4/product_logo_duo_launcher_color_48.png
+SHA1-Digest: JGjrne2+pkOn/CrZRaIjfY8XMcI=
+
+Name: res/mipmap-xxhdpi-v4/product_logo_duo_round_dogfood_color_48.png
+SHA1-Digest: vfSetq4je8HyRKmBDO3MYf4qY38=
+
+Name: res/mipmap-xxhdpi-v4/product_logo_duo_round_fishfood_color_48.pn
+ g
+SHA1-Digest: ypTBHixjNhWnDXXyqK551r+09oY=
+
+Name: res/mipmap-xxhdpi-v4/product_logo_duo_round_launcher_color_48.pn
+ g
+SHA1-Digest: jGSwazEUb0minv+u8ZjoCOSOgxk=
+
+Name: res/mipmap-xxxhdpi-v4/adaptiveproduct_duo_background_color_108.p
+ ng
+SHA1-Digest: zc6glOgK5jfJSX48aVgg3xjud9M=
+
+Name: res/mipmap-xxxhdpi-v4/adaptiveproduct_duo_dogfood_foreground_col
+ or_108.png
+SHA1-Digest: 03MP+vm2w626Y9r+2WmaLKAM5Zo=
+
+Name: res/mipmap-xxxhdpi-v4/adaptiveproduct_duo_fishfood_foreground_co
+ lor_108.png
+SHA1-Digest: YPG2S/Ijr9b99d2D54445djuuRQ=
+
+Name: res/mipmap-xxxhdpi-v4/adaptiveproduct_duo_foreground_color_108.p
+ ng
+SHA1-Digest: qnx1uSeJUaIc4cshxFt4CrxyUyQ=
+
+Name: res/mipmap-xxxhdpi-v4/product_logo_duo_dogfood_color_48.png
+SHA1-Digest: tZJjb+cF5aLIHg3QMlldJn4xcyg=
+
+Name: res/mipmap-xxxhdpi-v4/product_logo_duo_fishfood_color_48.png
+SHA1-Digest: +uNeu1jaFVu+bA+2pmHZal2TE+0=
+
+Name: res/mipmap-xxxhdpi-v4/product_logo_duo_launcher_color_48.png
+SHA1-Digest: HdbAy4dxuc+D7hInH3yNDf8ybmY=
+
+Name: res/mipmap-xxxhdpi-v4/product_logo_duo_round_dogfood_color_48.pn
+ g
+SHA1-Digest: jVHwVZzvo8hMLGNJmvD/Gi54yjs=
+
+Name: res/mipmap-xxxhdpi-v4/product_logo_duo_round_fishfood_color_48.p
+ ng
+SHA1-Digest: EccS9hSIyRZ+DAabRL6XqaR5DGs=
+
+Name: res/mipmap-xxxhdpi-v4/product_logo_duo_round_launcher_color_48.p
+ ng
+SHA1-Digest: hd96WCQnBGUwacPyR0tQ671NY04=
+
+Name: res/raw/connected.wav
+SHA1-Digest: OH56dXO9ANZYxowwAf7Q8xEUtsg=
+
+Name: res/raw/connecting.ogg
+SHA1-Digest: s9IBK2cHT6Zvn9VWZTormP7Q5FA=
+
+Name: res/raw/disconnected.wav
+SHA1-Digest: YpGO0iv/8eD0Ktwe4Lr7VBCUlWM=
+
+Name: res/raw/hangup.wav
+SHA1-Digest: R1k4IClOFA8L0842qVipGYuCChQ=
+
+Name: res/raw/incoming.ogg
+SHA1-Digest: xE39tf5zBYLjE209WveBsKBiayQ=
+
+Name: res/raw/incoming_loud.ogg
+SHA1-Digest: sgIFzterK9vGV3YDTJAO2pkC9XM=
+
+Name: res/raw/incoming_loud_clean.ogg
+SHA1-Digest: G0GPVv6Yx3EMqGZgxW+mE2TVco8=
+
+Name: res/raw/keep_cronet_api.xml
+SHA1-Digest: eYWTkas/2owg3sB4iJ1axtr1Ctw=
+
+Name: res/raw/keep_third_party_licenses.xml
+SHA1-Digest: UehTYD5zoxkRP/4QQSYdPDOeOwM=
+
+Name: res/raw/outgoing.ogg
+SHA1-Digest: zR9+kpg+t/FuwKyTJ078RTXs820=
+
+Name: res/raw/raisr_filter.bin
+SHA1-Digest: XFl9ZPstHUyqbwyEZfYoBR1wlOQ=
+
+Name: res/raw/third_party_license_metadata
+SHA1-Digest: mqS6oEOf5CI6CSKsjQatVCLxbk8=
+
+Name: res/raw/third_party_licenses
+SHA1-Digest: SPBYo21iFMIA1THv6GYs0gDulbA=
+
+Name: res/xml/authenticator.xml
+SHA1-Digest: 9IcMMcXAuZdqxPMUwIBrX6o+s+k=
+
+Name: res/xml/backup_rules.xml
+SHA1-Digest: eg4UHHliFkFT0Ip0xh8pzKIJcXI=
+
+Name: res/xml/contacts.xml
+SHA1-Digest: zmSZWfXl2WtOsu5lJpGb4Oo6/q4=
+
+Name: res/xml/ga_tracker.xml
+SHA1-Digest: RdKU9fgT1t6y8OZwehbHVodGgps=
+
+Name: res/xml/preferences.xml
+SHA1-Digest: 95M/Y8GdrgsAK61NVrQPmqapQpw=
+
+Name: res/xml/syncadapter.xml
+SHA1-Digest: il4oNFc932DyGSGbkqTFN1fdlzk=
+
+Name: resources.arsc
+SHA1-Digest: D4dRJYX5hguNRUPtcHHf97OZJX0=
+

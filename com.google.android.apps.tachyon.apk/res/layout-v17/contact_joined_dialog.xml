@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/contact_joined_dialog" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="horizontal" android:background="@color/google_blue_500" android:paddingLeft="16.0dip" android:paddingTop="16.0dip" android:paddingRight="24.0dip" android:paddingBottom="16.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingStart="16.0dip" android:paddingEnd="24.0dip">
+        <com.google.android.apps.tachyon.ui.ContactAvatar android:layout_gravity="start|center|top" android:id="@id/contact_joined_photo" android:layout_width="40.0dip" android:layout_height="40.0dip" />
+        <LinearLayout android:orientation="vertical" android:paddingLeft="16.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingStart="16.0dip">
+            <TextView android:layout_gravity="start" android:id="@id/contact_joined_dialog_title" android:paddingBottom="4.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/contact_joined_dialog_title" style="@style/TachyonContactJoinedPromptTitle" />
+            <TextView android:layout_gravity="start" android:id="@id/contact_joined_dialog_body" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/contact_joined_dialog_body" style="@style/TachyonContactJoinedPromptBody" />
+        </LinearLayout>
+    </LinearLayout>
+    <LinearLayout android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <RelativeLayout android:id="@id/contact_joined_pointer" android:background="@drawable/pointer_triangle" android:layout_width="wrap_content" android:layout_height="wrap_content" android:rotation="180.0" />
+    </LinearLayout>
+</LinearLayout>

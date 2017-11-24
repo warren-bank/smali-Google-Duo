@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list opacity="opaque"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@color/blue_grey_900" />
+    <item android:bottom="16.0dip">
+        <bitmap android:gravity="center" android:src="@drawable/product_logo_duo_color_144" />
+    </item>
+    <item android:bottom="96.0dip">
+        <bitmap android:gravity="bottom" android:src="@drawable/googlelogo_light_color" android:height="44.0dip" android:width="120.0dip" android:alpha="0.3" />
+    </item>
+</layer-list>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="hour_quantity">
+        <item quantity="other">%d valandų</item>
+        <item quantity="one">%d valanda</item>
+        <item quantity="few">%d valandos</item>
+        <item quantity="many">%d valandos</item>
+    </plurals>
+    <plurals name="minute_quantity">
+        <item quantity="other">%d minučių</item>
+        <item quantity="one">%d minutė</item>
+        <item quantity="few">%d minutės</item>
+        <item quantity="many">%d minutės</item>
+    </plurals>
+    <plurals name="second_quantity">
+        <item quantity="other">%d sekundžių</item>
+        <item quantity="one">%d sekundė</item>
+        <item quantity="few">%d sekundės</item>
+        <item quantity="many">%d sekundės</item>
+    </plurals>
+</resources>

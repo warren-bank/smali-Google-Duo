@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="hour_quantity">
+        <item quantity="other">%d часа</item>
+        <item quantity="one">%d час</item>
+    </plurals>
+    <plurals name="minute_quantity">
+        <item quantity="other">%d минути</item>
+        <item quantity="one">%d минута</item>
+    </plurals>
+    <plurals name="second_quantity">
+        <item quantity="other">%d секунди</item>
+        <item quantity="one">%d секунда</item>
+    </plurals>
+</resources>

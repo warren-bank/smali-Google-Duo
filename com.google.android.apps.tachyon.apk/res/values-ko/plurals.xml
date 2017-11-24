@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="hour_quantity">
+        <item quantity="other">%d시간</item>
+        <item quantity="one">%d시간</item>
+    </plurals>
+    <plurals name="minute_quantity">
+        <item quantity="other">%d분</item>
+        <item quantity="one">%d분</item>
+    </plurals>
+    <plurals name="second_quantity">
+        <item quantity="other">%d초</item>
+        <item quantity="one">%d초</item>
+    </plurals>
+</resources>

@@ -1,0 +1,39 @@
+40:10695 Android Annotations Support Library
+10772:10695 Android Compatibility Library v4
+21504:10695 Android Compatibility Library v7
+32236:10695 Android Graphics Support Library
+42968:10695 Android Multidex Support Library
+53688:11358 Apache Commons Codec
+65062:11357 Error Prone
+76434:11358 Guava JDK5
+87803:11358 J2ObjC
+99174:11358 Jackson2
+110543:11358 OkHttp
+121910:11358 Okio
+133285:11358 achartengine
+144652:11358 gRPC
+156030:11358 instrumentation
+167407:10173 libphonenumber
+177599:1096 Animal Sniffer
+178703:731 UTF
+179446:4276 libjpeg
+183731:2500 zlib
+186255:1473 Auth client library
+187740:1602 JSR 305
+189357:1511 OpenMAX DL
+190889:1928 Opus audio codec
+192826:3182 PCRE
+196026:1732 Protobuf Nano
+197779:1732 Protocol Buffers
+199519:1558 RE2
+201086:1500 SCTP
+202597:1511 WebRTC
+204120:1614 libSRTP
+205745:1506 libyuv
+207265:9287 BoringSSL
+216563:41237 Cronet
+257810:19442 ICU4C
+277265:4528 libevent
+281811:5545 libjpeg-turbo
+287364:680 STL
+288060:243 tz database

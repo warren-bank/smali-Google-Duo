@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="vertical" android:id="@id/contacts_card_invites" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:orientation="vertical" android:id="@id/contacts_card_invites_header" android:layout_width="fill_parent" android:layout_height="@dimen/contacts_card_invites_peek_height">
+        <TextView android:textSize="14.0sp" android:textColor="@color/google_blue_500" android:id="@id/contacts_card_invites_go" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="@dimen/contacts_card_invite_title_margin" android:text="@string/contacts_card_invites_go" android:textScaleX="1.1" android:layout_alignParentRight="true" android:layout_centerVertical="true" android:fontFamily="@string/font_fontFamily_roboto_medium" style="@style/ContactsCardText" />
+        <TextView android:textColor="@color/contacts_card_invites_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/contacts_card_invite_title_margin" android:layout_marginRight="@dimen/contacts_card_invite_title_margin" android:text="@string/contacts_card_invites_title" android:layout_toLeftOf="@id/contacts_card_invites_go" android:layout_alignParentLeft="true" android:layout_centerVertical="true" style="@style/ContactsCardText" />
+    </RelativeLayout>
+    <com.google.android.apps.tachyon.ui.views.FlatGridView android:id="@id/invites_grid" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/contacts_card_invites_peek_height" android:layout_centerHorizontal="true" />
+    <View android:layout_width="fill_parent" android:layout_height="@dimen/contacts_card_invites_shadow_height" android:color="@color/contacts_card_invites_shadow" />
+</RelativeLayout>

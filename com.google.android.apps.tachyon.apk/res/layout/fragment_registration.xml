@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="@color/common_light_background" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:id="@id/registration_container" android:clipToPadding="false" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <LinearLayout android:orientation="vertical" android:paddingLeft="@dimen/intro_thick_margin" android:paddingRight="@dimen/intro_thick_margin" android:clipToPadding="false" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_centerInParent="true" android:animateLayoutChanges="true">
+            <TextView android:gravity="start|bottom|center" android:id="@id/registration_header_panel" android:paddingTop="16.0dip" android:paddingBottom="16.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/registration_header" android:layout_weight="1.0" style="@style/TachyonFontSignUp01a" />
+            <LinearLayout android:orientation="vertical" android:id="@id/registration_info_panel" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <TextView android:id="@id/registration_description_textview" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="24.0dip" android:text="@string/registration_description" style="@style/TachyonFontSignUp02" />
+                <EditText android:id="@id/registration_country_code_edittext" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:contentDescription="@string/registration_country_code_description" style="@style/TachyonFontSignUp04" />
+                <com.google.android.apps.tachyon.PhoneNumberEditText android:id="@id/registration_phone_edittext" android:layout_width="fill_parent" android:layout_height="wrap_content" android:hint="@string/registration_phone_title" android:inputType="phone" android:textIsSelectable="true" style="@style/TachyonFontSignUp04" />
+                <TextView android:id="@id/registration_disclaimer_textview" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:text="@string/registration_disclaimer" style="@style/TachyonFontSignUp05" />
+                <GridView android:id="@id/registration_num_pad" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="214.0dip" android:layout_marginTop="15.0dip" android:layout_marginBottom="65.0dip" style="@style/NumKeypad" />
+            </LinearLayout>
+        </LinearLayout>
+        <RelativeLayout android:id="@id/registration_bottom_panel" android:background="@color/google_blue_500" android:layout_width="fill_parent" android:layout_height="56.0dip" android:layout_alignParentBottom="true">
+            <View android:background="@color/black_alpha_12_percent" android:layout_width="fill_parent" android:layout_height="1.0dip" android:layout_alignParentTop="true" />
+            <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/registration_send_button" android:background="?selectableItemBackground" android:focusable="true" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_marginRight="20.0dip" android:layout_alignParentRight="true" android:layout_alignParentBottom="true" android:contentDescription="@string/registration_next">
+                <TextView android:gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/registration_next" style="@style/TachyonFontSignUp07" />
+                <ImageView android:id="@id/registration_nav_next_icon" android:layout_width="24.0dip" android:layout_height="24.0dip" android:src="@drawable/quantum_ic_chevron_right_white_24" android:scaleType="fitCenter" style="@style/TransparentImageButton" />
+            </LinearLayout>
+        </RelativeLayout>
+        <ImageButton android:id="@id/registration_help" android:background="?selectableItemBackground" android:padding="12.0dip" android:layout_width="50.0dip" android:layout_height="50.0dip" android:layout_marginTop="10.0dip" android:src="@drawable/quantum_ic_help_outline_white_24" android:scaleType="fitCenter" android:tint="@color/google_blue_500" android:layout_alignParentTop="true" android:contentDescription="@string/registration_help" style="@style/TransparentImageButton" />
+    </RelativeLayout>
+    <ProgressBar android:id="@id/registration_spinning_wheel" android:visibility="visible" android:layout_width="60.0dip" android:layout_height="60.0dip" android:progressDrawable="@drawable/circular_progress_bar" android:layout_centerInParent="true" />
+</RelativeLayout>

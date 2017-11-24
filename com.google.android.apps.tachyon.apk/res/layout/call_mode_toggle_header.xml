@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_gravity="top" android:id="@id/call_mode_switch_container" android:background="@android:color/white" android:clickable="true" android:layout_width="fill_parent" android:layout_height="28.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <TextView android:textStyle="bold" android:gravity="end|center" android:layout_gravity="center_vertical" android:id="@id/call_mode_video_text" android:padding="4.0dip" android:layout_width="0.0dip" android:layout_height="fill_parent" android:text="@string/contact_call_mode_video_desc" android:layout_weight="0.5" />
+        <Switch android:gravity="center" android:id="@id/call_mode_switch" android:paddingLeft="8.0dip" android:paddingRight="8.0dip" android:layout_width="wrap_content" android:layout_height="32.0dip" android:textOn="" android:textOff="" android:thumb="@drawable/call_mode_toggle_thumb" android:text="" android:contentDescription="@string/audio_checkbox_accessible_content" android:track="@drawable/call_mode_toggle_track" android:switchMinWidth="40.0dip" />
+        <TextView android:textStyle="bold" android:gravity="start|center" android:layout_gravity="center_vertical" android:id="@id/call_mode_audio_text" android:padding="4.0dip" android:layout_width="0.0dip" android:layout_height="fill_parent" android:text="@string/contact_call_mode_audio_desc" android:layout_weight="0.5" />
+    </LinearLayout>
+    <FrameLayout android:layout_gravity="start|center" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <ImageButton android:layout_gravity="center|right" android:id="@id/contacts_card_back_button" android:visibility="gone" android:layout_width="56.0dip" android:layout_height="fill_parent" android:src="@drawable/quantum_ic_arrow_back_grey600_24" android:contentDescription="@string/contacts_list_back" style="@style/TransparentImageButton" />
+    </FrameLayout>
+</FrameLayout>

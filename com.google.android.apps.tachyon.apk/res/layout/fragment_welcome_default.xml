@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="@color/google_blue_600" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <View android:id="@id/blue_box" android:background="@color/blueish" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_marginBottom="96.0dip" android:layout_above="@id/title" android:layout_alignParentTop="true" />
+    <com.google.android.apps.tachyon.ui.views.WavyView android:layout_width="fill_parent" android:layout_height="@dimen/welcome_activity_experiment_wavy_height" android:layout_marginBottom="-16.0dip" android:layout_alignBottom="@id/blue_box" />
+    <FrameLayout android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_marginBottom="-104.0dip" android:layout_alignBottom="@id/blue_box" android:layout_alignParentTop="true">
+        <com.google.android.apps.tachyon.ui.ScalableImageView android:layout_gravity="center|left" android:id="@id/welcome_header_image" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/illu_welcome_location_hand" />
+    </FrameLayout>
+    <TextView android:gravity="right" android:id="@id/title" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_marginBottom="28.0dip" android:text="@string/welcome_activity_intro_primary" android:layout_above="@id/welcome_activity_silent_reg_text" style="@style/TachyonWelcomeTitleExperiment" />
+    <TextView android:id="@id/welcome_activity_silent_reg_text" android:visibility="gone" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_marginBottom="16.0dip" android:text="@string/welcome_silent_reg_text" android:layout_above="@id/welcome_activity_intro_agreements" style="@style/TachyonWelcomeDescriptionExperiment" />
+    <TextView android:id="@id/welcome_activity_intro_agreements" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_above="@id/welcome_button_section" style="@style/TachyonWelcomeDescriptionExperiment" />
+    <LinearLayout android:orientation="horizontal" android:id="@id/welcome_button_section" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/welcome_activity_experiment_margin_x" android:layout_marginRight="@dimen/welcome_activity_experiment_margin_x" android:layout_marginBottom="@dimen/welcome_activity_experiment_margin_x" android:layout_alignParentLeft="true" android:layout_alignParentRight="true" android:layout_alignParentBottom="true">
+        <Button android:id="@id/welcome_agree_button" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/welcome_activity_agree" style="@style/TachyonWelcomeSubmitText" />
+        <Button android:textColor="@color/blue_grey_50" android:id="@id/welcome_unregister_button" android:background="@android:color/transparent" android:paddingLeft="20.0dip" android:paddingRight="20.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/welcome_unregister" style="@style/TachyonWelcomeSubmitText" />
+    </LinearLayout>
+</RelativeLayout>

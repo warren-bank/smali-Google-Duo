@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="audioBuffer">
+        <item>Default</item>
+        <item>Manual</item>
+    </string-array>
+    <string-array name="audioLaunchOverrideValues">
+        <item>@string/pref_value_auto</item>
+        <item>0 (off)</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="autoOrBooleanValues">
+        <item>@string/pref_value_auto</item>
+        <item>@string/pref_value_true</item>
+        <item>@string/pref_value_false</item>
+    </string-array>
+    <string-array name="backendUrlNames">
+        <item>@string/backend_url_name_prod</item>
+        <item>@string/backend_url_name_daily</item>
+        <item>@string/backend_url_name_monday</item>
+        <item>@string/backend_url_name_tuesday</item>
+        <item>@string/backend_url_name_wednesday</item>
+        <item>@string/backend_url_name_thursday</item>
+        <item>@string/backend_url_name_friday</item>
+        <item>@string/backend_url_name_saturday</item>
+        <item>@string/backend_url_name_localhost</item>
+        <item>@string/backend_url_name_autopush</item>
+    </string-array>
+    <string-array name="cameraColorEffects">
+        <item>none</item>
+        <item>mono</item>
+        <item>negative</item>
+        <item>solarize</item>
+        <item>sepia</item>
+        <item>posterize</item>
+        <item>whiteboard</item>
+        <item>blackboard</item>
+        <item>aqua</item>
+    </string-array>
+    <string-array name="cameraFps">
+        <item>Default</item>
+        <item>30 fps</item>
+        <item>15 fps</item>
+        <item>10 fps</item>
+        <item>7 fps</item>
+    </string-array>
+    <string-array name="cameraWhiteBalance">
+        <item>auto</item>
+        <item>cloudy-daylight</item>
+        <item>daylight</item>
+        <item>fluorescent</item>
+        <item>incandescent</item>
+        <item>shade</item>
+        <item>twilight</item>
+        <item>warm-fluorescent</item>
+    </string-array>
+    <array name="contact_icon_bg">
+        <item>#ffff5252</item>
+        <item>#ffba68c8</item>
+        <item>#ff535dfe</item>
+        <item>#ff40c4ff</item>
+        <item>#ff4dd0e1</item>
+        <item>#ff00bfa5</item>
+        <item>#ffffc107</item>
+        <item>#ffff9800</item>
+        <item>#ffff6d00</item>
+    </array>
+    <array name="design_default_color_palette_primary" />
+    <array name="design_default_color_palette_secondary" />
+    <string-array name="limitBitrate">
+        <item>@string/pref_limit_videobitrate_default</item>
+        <item>@string/pref_limit_videobitrate_manual</item>
+    </string-array>
+    <string-array name="startBitrate">
+        <item>Default</item>
+        <item>Manual</item>
+    </string-array>
+    <string-array name="videoCodecs">
+        <item>Auto</item>
+        <item>VP8</item>
+        <item>VP9</item>
+        <item>H264</item>
+    </string-array>
+    <string-array name="videoResolutions">
+        <item>Default</item>
+        <item>HD (1280 x 720)</item>
+        <item>VGA (640 x 360)</item>
+        <item>HVGA (480 x 270)</item>
+        <item>QVGA (320 x 180)</item>
+        <item>HQVGA (240 x 135)</item>
+        <item>QQVGA (160 x 90)</item>
+    </string-array>
+    <string-array name="videoResolutionsValues">
+        <item>Default</item>
+        <item>1280 x 720</item>
+        <item>640 x 360</item>
+        <item>480 x 270</item>
+        <item>320 x 180</item>
+        <item>240 x 135</item>
+        <item>160 x 90</item>
+    </string-array>
+</resources>

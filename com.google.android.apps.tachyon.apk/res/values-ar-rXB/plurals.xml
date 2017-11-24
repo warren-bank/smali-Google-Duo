@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="hour_quantity">
+        <item quantity="other">%d ‏‮hours‬‏</item>
+        <item quantity="zero">%d ‏‮hours‬‏</item>
+        <item quantity="one">%d ‏‮hour‬‏</item>
+        <item quantity="two">%d ‏‮hours‬‏</item>
+        <item quantity="few">%d ‏‮hours‬‏</item>
+        <item quantity="many">%d ‏‮hours‬‏</item>
+    </plurals>
+    <plurals name="minute_quantity">
+        <item quantity="other">%d ‏‮minutes‬‏</item>
+        <item quantity="zero">%d ‏‮minutes‬‏</item>
+        <item quantity="one">%d ‏‮minute‬‏</item>
+        <item quantity="two">%d ‏‮minutes‬‏</item>
+        <item quantity="few">%d ‏‮minutes‬‏</item>
+        <item quantity="many">%d ‏‮minutes‬‏</item>
+    </plurals>
+    <plurals name="second_quantity">
+        <item quantity="other">%d ‏‮seconds‬‏</item>
+        <item quantity="zero">%d ‏‮seconds‬‏</item>
+        <item quantity="one">%d ‏‮second‬‏</item>
+        <item quantity="two">%d ‏‮seconds‬‏</item>
+        <item quantity="few">%d ‏‮seconds‬‏</item>
+        <item quantity="many">%d ‏‮seconds‬‏</item>
+    </plurals>
+</resources>

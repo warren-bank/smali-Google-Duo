@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="hour_quantity">
+        <item quantity="other">%d ordu</item>
+        <item quantity="one">%d ordu</item>
+    </plurals>
+    <plurals name="minute_quantity">
+        <item quantity="other">%d minutu</item>
+        <item quantity="one">%d minutu</item>
+    </plurals>
+    <plurals name="second_quantity">
+        <item quantity="other">%d segundo</item>
+        <item quantity="one">%d segundo</item>
+    </plurals>
+</resources>

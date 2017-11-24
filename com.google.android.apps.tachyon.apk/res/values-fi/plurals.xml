@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="hour_quantity">
+        <item quantity="other">%d tuntia</item>
+        <item quantity="one">%d tunti</item>
+    </plurals>
+    <plurals name="minute_quantity">
+        <item quantity="other">%d minuuttia</item>
+        <item quantity="one">%d minuutti</item>
+    </plurals>
+    <plurals name="second_quantity">
+        <item quantity="other">%d sekuntia</item>
+        <item quantity="one">%d sekunti</item>
+    </plurals>
+</resources>

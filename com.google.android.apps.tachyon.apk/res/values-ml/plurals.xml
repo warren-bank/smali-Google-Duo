@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="hour_quantity">
+        <item quantity="other">%d മണിക്കൂർ</item>
+        <item quantity="one">%d മണിക്കൂർ</item>
+    </plurals>
+    <plurals name="minute_quantity">
+        <item quantity="other">%d മിനിറ്റ്</item>
+        <item quantity="one">%d മിനിറ്റ്</item>
+    </plurals>
+    <plurals name="second_quantity">
+        <item quantity="other">%d സെക്കൻഡ്</item>
+        <item quantity="one">%d സെക്കൻഡ്</item>
+    </plurals>
+</resources>

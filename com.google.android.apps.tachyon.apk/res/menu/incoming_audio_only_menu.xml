@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:icon="@drawable/ic_speaker_phone" android:id="@id/action_incoming_audio_handset" android:title="@string/call_incoming_audio_handset" />
+    <item android:icon="@drawable/ic_volume_up" android:id="@id/action_incoming_audio_speakerphone" android:title="@string/call_incoming_audio_speakerphone" />
+</menu>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <alpha android:interpolator="@anim/interp_decelerate" android:duration="333" android:startOffset="250" android:fromAlpha="0.0" android:toAlpha="1.0" />
+    <translate android:interpolator="@anim/interp_decelerate" android:duration="667" android:fromYDelta="-50.0%" />
+</set>

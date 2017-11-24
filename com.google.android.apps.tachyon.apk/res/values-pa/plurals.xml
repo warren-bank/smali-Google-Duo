@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="hour_quantity">
+        <item quantity="other">%d ਘੰਟੇ</item>
+        <item quantity="one">%d ਘੰਟਾ</item>
+    </plurals>
+    <plurals name="minute_quantity">
+        <item quantity="other">%d ਮਿੰਟ</item>
+        <item quantity="one">%d ਮਿੰਟ</item>
+    </plurals>
+    <plurals name="second_quantity">
+        <item quantity="other">%d ਸਕਿੰਟ</item>
+        <item quantity="one">%d ਸਕਿੰਟ</item>
+    </plurals>
+</resources>

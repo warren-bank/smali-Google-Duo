@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="hour_quantity">
+        <item quantity="other">%d ώρες</item>
+        <item quantity="one">%d ώρα</item>
+    </plurals>
+    <plurals name="minute_quantity">
+        <item quantity="other">%d λεπτά</item>
+        <item quantity="one">%d λεπτό</item>
+    </plurals>
+    <plurals name="second_quantity">
+        <item quantity="other">%d δευτερόλεπτα</item>
+        <item quantity="one">%d δευτερόλεπτο</item>
+    </plurals>
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageButton android:id="@id/button_toggle_debug" android:background="@android:drawable/ic_menu_info_details" android:layout_width="48.0dip" android:layout_height="48.0dip" android:layout_alignParentLeft="true" android:layout_alignParentBottom="true" android:contentDescription="@string/toggle_debug" />
+    <TextView android:textSize="12.0dip" android:textColor="#c000ff00" android:id="@id/hudview_summary_stats" android:background="@android:color/black" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="24.0dip" android:alpha="0.6" />
+    <ImageButton android:id="@id/button_toggle_audio_recording" android:background="@drawable/ic_action_mic" android:layout_width="48.0dip" android:layout_height="48.0dip" android:layout_marginBottom="20.0dip" android:layout_above="@id/button_toggle_debug" android:layout_alignParentLeft="true" android:backgroundTint="@android:color/holo_green_light" />
+    <ImageView android:id="@id/hudview_audio_recording" android:background="@drawable/ic_action_stop" android:visibility="invisible" android:layout_width="30.0dip" android:layout_height="30.0dip" android:layout_marginLeft="9.0dip" android:layout_marginBottom="20.0dip" android:layout_above="@id/button_toggle_audio_recording" android:layout_alignParentLeft="true" android:backgroundTint="@android:color/holo_red_light" />
+    <LinearLayout android:orientation="vertical" android:id="@id/hudview_charts_container" android:background="@android:color/black" android:layout_width="fill_parent" android:layout_height="wrap_content" android:alpha="0.6">
+        <RelativeLayout android:id="@id/hudview_charts_bwe" android:layout_width="fill_parent" android:layout_height="150.0dip">
+            <ImageButton android:id="@id/bwe_chart_button" android:background="@android:drawable/ic_menu_close_clear_cancel" android:layout_width="24.0dip" android:layout_height="24.0dip" android:layout_marginTop="12.0dip" android:layout_alignParentTop="true" android:layout_alignParentRight="true" />
+        </RelativeLayout>
+        <RelativeLayout android:id="@id/hudview_charts_framerate" android:layout_width="fill_parent" android:layout_height="150.0dip" android:layout_marginTop="8.0dip">
+            <ImageButton android:id="@id/framerate_chart_button" android:background="@android:drawable/ic_menu_close_clear_cancel" android:layout_width="24.0dip" android:layout_height="24.0dip" android:layout_marginTop="12.0dip" android:layout_alignParentTop="true" android:layout_alignParentRight="true" />
+        </RelativeLayout>
+        <RelativeLayout android:id="@id/hudview_charts_delay" android:layout_width="fill_parent" android:layout_height="150.0dip" android:layout_marginTop="8.0dip">
+            <ImageButton android:id="@id/delay_chart_button" android:background="@android:drawable/ic_menu_close_clear_cancel" android:layout_width="24.0dip" android:layout_height="24.0dip" android:layout_marginTop="12.0dip" android:layout_alignParentTop="true" android:layout_alignParentRight="true" />
+        </RelativeLayout>
+        <RelativeLayout android:id="@id/hudview_charts_bitrate" android:layout_width="fill_parent" android:layout_height="150.0dip" android:layout_marginTop="8.0dip">
+            <ImageButton android:id="@id/bitrate_chart_button" android:background="@android:drawable/ic_menu_close_clear_cancel" android:layout_width="24.0dip" android:layout_height="24.0dip" android:layout_marginTop="12.0dip" android:layout_alignParentTop="true" android:layout_alignParentRight="true" />
+        </RelativeLayout>
+    </LinearLayout>
+</RelativeLayout>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/undo_bar" android:background="@color/undo_bar_background" android:padding="10.0dip" android:visibility="visible" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentBottom="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:id="@id/undo_bar_caption" android:paddingRight="15.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_toLeftOf="@id/undo_button" android:layout_alignParentLeft="true" android:layout_centerVertical="true" style="@style/TachyonFontBlockedNumbersUndoCaption" />
+    <Button android:id="@id/undo_button" android:padding="15.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/blocked_numbers_undo" android:layout_alignParentRight="true" android:layout_centerVertical="true" style="@style/TachyonFontBlockedNumbersUndoButton" />
+</RelativeLayout>
